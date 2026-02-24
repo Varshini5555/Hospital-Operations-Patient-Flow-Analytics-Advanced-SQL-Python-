@@ -1,0 +1,2551 @@
+id,scode,sname,hospital_id,hospital_name
+1,35,Andaman & Nicobar Islands,833,Dr. Rajendra Prasad Government Hospital Mayabunder
+2,35,Andaman & Nicobar Islands,1856,Bishop John Richardson Hospital Perka
+3,28,Andhra Pradesh,950000043,AREA HOSPITAL PALAKONDA
+4,28,Andhra Pradesh,950000021,AREA HOSPITAL PALAMANER
+5,28,Andhra Pradesh,2110,CHC Panyam
+6,28,Andhra Pradesh,2109,CHC PAMUR
+7,28,Andhra Pradesh,950000044,AREA HOSPITAL RAJAM
+8,28,Andhra Pradesh,2181,AREA HOSPITAL RAJAMPET
+9,28,Andhra Pradesh,2108,CHC ORVAKAL
+10,28,Andhra Pradesh,2168,CHC KONDEPI
+11,28,Andhra Pradesh,2103,CHC KODUMUR
+12,28,Andhra Pradesh,2102,CHC Karvetinagaram
+13,28,Andhra Pradesh,2101,CHC KANIGIRI
+14,28,Andhra Pradesh,2182,AREA HOSPITAL RAYACHOTY
+15,28,Andhra Pradesh,2098,CHC DARSI
+16,28,Andhra Pradesh,2097,CHC CUMBUM
+17,28,Andhra Pradesh,91280246,All India Institute of Medical Sciences Mangalagiri  AP 
+18,28,Andhra Pradesh,2066,Area Hospital Rayadurg
+19,28,Andhra Pradesh,2096,CHC ADDANKI
+20,28,Andhra Pradesh,2095,AREA HOSPITAL YERRAGONDAPALEM
+21,28,Andhra Pradesh,2094,AREA HOSPITAL YEMMIGANUR
+22,28,Andhra Pradesh,2065,AREA HOSPITAL TADIPATRI
+23,28,Andhra Pradesh,2005,DISTRICT HOSPITAL ANAKAPALLI
+24,28,Andhra Pradesh,950000054,AREA HOSPITAL S KOTA
+25,28,Andhra Pradesh,2238,AREA HOSPITAL SEETHAMPETA
+26,28,Andhra Pradesh,2040,Dr Ysr Kidney Research Centre And Superspecialty Hospital
+27,28,Andhra Pradesh,2173,AREA HOSPITAL SALURU
+28,28,Andhra Pradesh,2052,GOVERNMENT GENERAL HOSPITAL GUNTUR
+29,28,Andhra Pradesh,2007,AREA HOSPITAL NARSIPATNAM
+30,28,Andhra Pradesh,2020,AREA HOSPITAL KAVALI
+31,28,Andhra Pradesh,2093,AREA HOSPITAL SATTENAPALLI
+32,28,Andhra Pradesh,2004,AREA HOSPITAL RAMACHANDRAPURAM
+33,28,Andhra Pradesh,2023,DISTRICT HOSPITAL ATMAKUR SPS NELLORE
+34,28,Andhra Pradesh,2046,SUB DISTRICT HOSPITAL NARASARAOPETA
+35,28,Andhra Pradesh,2042,AREA HOSPITAL TADEPALLIGUDEM
+36,28,Andhra Pradesh,2028,GOVERNMENT SUB DISTRICT  HOSPITAL CHIRALA
+37,28,Andhra Pradesh,2036,AREA HOSPITAL PULIVENDULA
+38,28,Andhra Pradesh,2053,DISTRICT HOSPITAL PRODDATUR
+39,28,Andhra Pradesh,2034,SUB DIVISIONAL HOSPITAL ADONI
+40,28,Andhra Pradesh,2043,DISTRICT HOSPITAL TEKKALI
+41,28,Andhra Pradesh,2019,AREA HOSPITAL GUDUR SPS NELLORE
+42,28,Andhra Pradesh,2031,SUB DISTRICT HOSPITAL KADARI
+43,28,Andhra Pradesh,2024,DISTRICT HOSPITAL HINDUPUR
+44,28,Andhra Pradesh,2045,AREA HOSPITAL RAJAM
+45,28,Andhra Pradesh,950000008,AREA HOSPITAL TUNI
+46,28,Andhra Pradesh,950000019,AREA HOSPITAL GUDUR
+47,28,Andhra Pradesh,950000060,AREA HOSPITAL MADAKASIRA
+48,28,Andhra Pradesh,950000004,AREA HOSPITAL RAMACHANDRAPURAM
+49,28,Andhra Pradesh,2172,AREA HOSPITAL RAMPACHODVARAM
+50,28,Andhra Pradesh,2073,CHC CHENNEKOTTAPALLI
+51,28,Andhra Pradesh,2080,CHC ROLLA
+52,28,Andhra Pradesh,2130,COMMUNITY HEALTH CENTER B KOTHAKOTA
+53,28,Andhra Pradesh,2230,COMMUNITY HEALTH CENTER CHINTOOR
+54,28,Andhra Pradesh,2187,COMMUNITY HEALTH CENTER BADANGI
+55,28,Andhra Pradesh,2190,COMMUNITY HEALTH CENTER BHOGAPURAM
+56,28,Andhra Pradesh,2229,COMMUNITY HEALTH CENTER CHINAMERANGI
+57,28,Andhra Pradesh,2075,COMMUNITY HEALTH CENTER NALLAMADA
+58,28,Andhra Pradesh,2243,COMMUNITY HEALTH CENTER HARIPURAM
+59,28,Andhra Pradesh,2157,COMMUNITY HEALTH CENTER PONNUR
+60,28,Andhra Pradesh,2127,COMMUNITY HEALTH CENTER PRATHIPADU
+61,28,Andhra Pradesh,2237,COMMUNITY HEALTH CENTER PRATHIPADU
+62,28,Andhra Pradesh,2267,COMMUNITY HEALTH CENTER Y RAMAVARAM
+63,28,Andhra Pradesh,2082,COMMUNITY HEALTH CENTRE KOTHACHERUV
+64,28,Andhra Pradesh,950000020,AREA HOSPITAL KAVALI
+65,28,Andhra Pradesh,950000034,AREA HOSPITAL SRIKALAHASTI
+66,28,Andhra Pradesh,2100,CHC INDUKURUPETA
+67,28,Andhra Pradesh,2119,CHC Ulavapadu
+68,28,Andhra Pradesh,2131,COMMUNITY HEALTH CENTER BUCHIREDDYPALEM
+69,28,Andhra Pradesh,2133,COMMUNITY HEALTH CENTER KOVUR
+70,28,Andhra Pradesh,2141,COMMUNITY HEALTH CENTER RAPUR
+71,28,Andhra Pradesh,2145,COMMUNITY HEALTH CENTER VENKATACHALAM
+72,28,Andhra Pradesh,2151,Community Health CentreAllur
+73,28,Andhra Pradesh,2165,V Kota
+74,28,Andhra Pradesh,1146,Visakha Institute Of Medical Sciences
+75,28,Andhra Pradesh,1141,Super Speciality Hospital Kadapa
+76,28,Andhra Pradesh,2154,COMMUNITY HEALTH CENTRE CHINNAGOTTIGALLU
+77,28,Andhra Pradesh,950000028,AREA HOSPITAL KANDUKUR
+78,28,Andhra Pradesh,950000002,Government General Hospital Nellore Andhra Pardesh
+79,28,Andhra Pradesh,950000055,GOVERNMENT HOSPITAL FOR CHEST AND COMMUNICABLE DISEASES GUNTUR
+80,28,Andhra Pradesh,2039,State Cancer Institute
+81,28,Andhra Pradesh,950000036,SRI VENKATESWARA RAMNARAYAN RUIA GOVERNMENT GENERAL HOSPITAL
+82,28,Andhra Pradesh,2163,MCH ONGOLE
+83,28,Andhra Pradesh,2162,MCHADONI
+84,28,Andhra Pradesh,950000011,KING GEORGE HOSPITAL VISAKHAPATNAM
+85,28,Andhra Pradesh,1143,Institute Of Mental Health Kadapa
+86,28,Andhra Pradesh,950000057,GOVERNMENT VICTORIA HOSPITAL FOR WOMEN AND CHILDREN VISAKAPATNAM
+87,28,Andhra Pradesh,950000058,GOVERNMENT REGIONAL EYE HOSPITAL VISAKHAPATNAM
+88,28,Andhra Pradesh,2061,Government Regional Eye Hospital
+89,28,Andhra Pradesh,950000059,GOVERNMENT HOSPITAL FOR MENTAL CARE VISAKHAPATNAM
+90,28,Andhra Pradesh,2146,COMMUNITY HEALTH CENTER VENKATAGIRI
+91,28,Andhra Pradesh,950000056,GOVERNMENT HOSPITAL FOR CHEST AND COMMUNICABLE DISEASES VISAKHAPATNAM
+92,28,Andhra Pradesh,2088,Community Health Center Chandragiri
+93,28,Andhra Pradesh,2135,Community Health Center Midthur
+94,28,Andhra Pradesh,2147,COMMUNITY HEALTH CENTER VINJAMURU
+95,28,Andhra Pradesh,2227,COMMUNITY HEALTH CENTER ALLAVARAM
+96,28,Andhra Pradesh,2085,AREA HOSPITAL PUNGANUR
+97,28,Andhra Pradesh,2268,COMMUNITY HEALTH CENTER KURUPAM
+98,28,Andhra Pradesh,2208,COMMUNITY HEALTH CENTER NELLIMARLA
+99,28,Andhra Pradesh,950000015,GOVERNMENT GENERAL HOSPITAL VIZIANAGARAM
+100,28,Andhra Pradesh,950000050,GOVERNMENT GENERAL HOSPITAL VIJAYAWADA
+101,28,Andhra Pradesh,950000048,GOVERNMENT GENERAL HOSPITAL SRIKAKULAM
+102,28,Andhra Pradesh,950000010,GOVERNMENT GENERAL HOSPITAL RAJAMAHENDRAVARAM
+103,28,Andhra Pradesh,950000009,GOVERNMENT GENERAL HOSPITAL PADERU
+104,28,Andhra Pradesh,950000026,GOVERNMENT GENERAL HOSPITAL ONGOLE
+105,28,Andhra Pradesh,950000022,GOVERNMENT GENERAL HOSPITAL NANDYAL
+106,28,Andhra Pradesh,2025,GOVERNMENT GENERAL HOSPITAL MARKAPUR
+107,28,Andhra Pradesh,950000040,GOVERNMENT GENERAL HOSPITAL MADANAPALLE
+108,28,Andhra Pradesh,950000013,GOVERNMENT GENERAL HOSPITAL MACHILIPATNAM
+109,28,Andhra Pradesh,950000025,GOVERNMENT GENERAL HOSPITAL KURNOOL
+110,28,Andhra Pradesh,950000014,GOVERNMENT GENERAL HOSPITAL KAKINADA
+111,28,Andhra Pradesh,950000049,GOVERNMENT GENERAL HOSPITAL KADAPA
+112,28,Andhra Pradesh,2158,COMMUNITY HEALTH CENTER VAKADU
+113,28,Andhra Pradesh,950000051,GOVERNMENT GENERAL HOSPITAL GUNTUR
+114,28,Andhra Pradesh,950000037,GOVERNMENT GENERAL HOSPITAL ELURU
+115,28,Andhra Pradesh,950000003,GOVERNMENT GENERAL HOSPITAL ANANTAPUR
+116,28,Andhra Pradesh,950000033,Government General Hospital Adoni
+117,28,Andhra Pradesh,2063,GOVERNMENT ENT HOSPITAL VISAKHAPATNAM
+118,28,Andhra Pradesh,950000053,GOVERMENT MATERNITY HOSPITAL TIRUPATI
+119,28,Andhra Pradesh,950000035,Dr YSR GOVERNMENT GENERAL HOSPITAL PULIVENDULA
+120,28,Andhra Pradesh,1142,Dr YSR Cancer Care Centre
+121,28,Andhra Pradesh,950000046,DISTRICT HOSPITAL TENALI
+122,28,Andhra Pradesh,950000042,DISTRICT HOSPITAL TEKKALI
+123,28,Andhra Pradesh,950000038,DISTRICT HOSPITAL TANUKU
+124,28,Andhra Pradesh,950000052,DISTRICT HOSPITAL PRODDUTUR
+125,28,Andhra Pradesh,950000018,DISTRICT HOSPITAL PARVATHIPURAM
+126,28,Andhra Pradesh,950000024,DISTRICT HOSPITAL HINDUPUR
+127,28,Andhra Pradesh,2083,DISTRICT HOSPITAL DHH AIMSR CHITTOOR
+128,28,Andhra Pradesh,950000023,DISTRICT HOSPITAL ATMAKUR
+129,28,Andhra Pradesh,950000005,DISTRICT HOSPITAL ANAKAPALLI
+130,28,Andhra Pradesh,2160,COMMUNITY HEALTH CENTRE YALLUR
+131,28,Andhra Pradesh,2159,COMMUNITY HEALTH CENTRE VELDURTHY
+132,28,Andhra Pradesh,2074,COMMUNITY HEALTH CENTRE SINGANAMALA
+133,28,Andhra Pradesh,2156,COMMUNITY HEALTH CENTRE NANDIKOTKUR
+134,28,Andhra Pradesh,2155,COMMUNITY HEALTH CENTRE KOTA
+135,28,Andhra Pradesh,2167,COMMUNITY HEALTH CENTRE KOILAKUNTLA
+136,28,Andhra Pradesh,2078,COMMUNITY HEALTH CENTRE KANEKAL
+137,28,Andhra Pradesh,2072,COMMUNITY HEALTH CENTRE KALYANDURG
+138,28,Andhra Pradesh,2081,COMMUNITY HEALTH CENTRE GORANTLA
+139,28,Andhra Pradesh,2153,Community Health Centre Chimakurthy
+140,28,Andhra Pradesh,2274,COMMUNITY HEALTH CENTRE ALUR
+141,28,Andhra Pradesh,2222,COMMUNITY HEALTH CENTER YELESWRAM
+142,28,Andhra Pradesh,2220,COMMUNITY HEALTH CENTER YELAMANCHILI
+143,28,Andhra Pradesh,2219,COMMUNITY HEALTH CENTER VUYYURU
+144,28,Andhra Pradesh,2272,COMMUNITY HEALTH CENTER V MADUGULA
+145,28,Andhra Pradesh,2218,COMMUNITY HEALTH CENTER VISSANNAPETA
+146,28,Andhra Pradesh,2148,COMMUNITY HEALTH CENTER VINUKONDA
+147,28,Andhra Pradesh,2121,COMMUNITY HEALTH CENTER VIJAYAPURI SOUTH
+148,28,Andhra Pradesh,2266,COMMUNITY HEALTH CENTER VEMPALLI
+149,28,Andhra Pradesh,2144,COMMUNITY HEALTH CENTER VELUGODU
+150,28,Andhra Pradesh,2087,COMMUNITY HEALTH CENTER VAYALPAD
+151,28,Andhra Pradesh,2265,COMMUNITY HEALTH CENTER T KOTHAPALLI
+152,28,Andhra Pradesh,2217,COMMUNITY HEALTH CENTER THIRUVURU
+153,28,Andhra Pradesh,2142,COMMUNITY HEALTH CENTER THAMBALLAPALLI
+154,28,Andhra Pradesh,2264,COMMUNITY HEALTH CENTER TALLAREVU
+155,28,Andhra Pradesh,2126,COMMUNITY HEALTH CENTER SUNNIPENTA
+156,28,Andhra Pradesh,2124,COMMUNITY HEALTH CENTER SULLURPETA
+157,28,Andhra Pradesh,2216,COMMUNITY HEALTH CENTER SOMPETA
+158,28,Andhra Pradesh,2263,COMMUNITY HEALTH CENTER SIDHOUT
+159,28,Andhra Pradesh,2269,COMMUNITY HEALTH CENTER SHAIK RAJA SAHEB
+160,28,Andhra Pradesh,2089,AHDHONE
+161,28,Andhra Pradesh,2086,Community Health Center Sathyavedu
+162,28,Andhra Pradesh,2240,COMMUNITY HEALTH CENTER SAMALKOT
+163,28,Andhra Pradesh,2262,COMMUNITY HEALTH CENTER RAZOLE
+164,28,Andhra Pradesh,2239,COMMUNITY HEALTH CENTER RAILWAYKODUR
+165,28,Andhra Pradesh,2140,COMMUNITY HEALTH CENTER PUTTUR
+166,28,Andhra Pradesh,2090,AH GIDDALUR
+167,28,Andhra Pradesh,2174,AREA HOSPITAL AGANAMPUDI
+168,28,Andhra Pradesh,950000006,AREA HOSPITAL AMALAPURAM
+169,28,Andhra Pradesh,2258,COMMUNITY HEALTH CENTER PORUMAMILLA
+170,28,Andhra Pradesh,2223,COMMUNITY HEALTH CENTER POLAVARAM
+171,28,Andhra Pradesh,2138,Community health Center P Kothakota
+172,28,Andhra Pradesh,2235,COMMUNITY HEALTH CENTER PITHAPURAM
+173,28,Andhra Pradesh,2261,COMMUNITY HEALTH CENTER PGANNAVARAM
+174,28,Andhra Pradesh,2175,AREA HOSPITAL ANAPARTHY
+175,28,Andhra Pradesh,950000016,AREA HOSPITAL ARAKU VALLEY
+176,28,Andhra Pradesh,2070,COMMUNITY HEALTH CENTER PENUKONDA
+177,28,Andhra Pradesh,2212,COMMUNITY HEALTH CENTER PENUGONDA
+178,28,Andhra Pradesh,2092,AreaHospitalBanaganapalli
+179,28,Andhra Pradesh,2260,COMMUNITY HEALTH CENTER PENDURTHI
+180,28,Andhra Pradesh,950000047,AREA HOSPITAL BAPATLA
+181,28,Andhra Pradesh,2273,AREA HOSPITAL BHIMAVARAM
+182,28,Andhra Pradesh,2211,COMMUNITY HEALTH CENTER PEDDAPURAM
+183,28,Andhra Pradesh,2113,COMMUNITY HEALTH CENTER PEDAKURAPADU
+184,28,Andhra Pradesh,2076,Community Health Center Pamidi
+185,28,Andhra Pradesh,2209,COMMUNITY HEALTH CENTER PALASA
+186,28,Andhra Pradesh,2137,Community Health Center Owk
+187,28,Andhra Pradesh,2259,COMMUNITY HEALTH CENTER NIDADAVOLU
+188,28,Andhra Pradesh,2136,COMMUNITY HEALTH CENTER NARAVARIPALLI
+189,28,Andhra Pradesh,2257,COMMUNITY HEALTH CENTER NAKKAPALLI
+190,28,Andhra Pradesh,2106,COMMUNITY HEALTH CENTER NAIDUPETA
+191,28,Andhra Pradesh,2169,COMMUNITY HEALTH CENTER NAGARAM
+192,28,Andhra Pradesh,2256,COMMUNITY HEALTH CENTER MYLAVARAM
+193,28,Andhra Pradesh,2255,COMMUNITY HEALTH CENTER MYDUKUR
+194,28,Andhra Pradesh,2271,COMMUNITY HEALTH CENTER MUNCHANGIPUT
+195,28,Andhra Pradesh,2206,COMMUNITY HEALTH CENTER MUMMIDIVARAM
+196,28,Andhra Pradesh,2205,COMMUNITY HEALTH CENTER MANDAPETA
+197,28,Andhra Pradesh,2150,COMMUNITY HEALTH CENTER MACHERLA
+198,28,Andhra Pradesh,2254,COMMUNITY HEALTH CENTER LAKKIREDDYPALLI
+199,28,Andhra Pradesh,2194,AREA HOSPITAL CHEEPURUPALLI
+200,28,Andhra Pradesh,2253,COMMUNITY HEALTH CENTER KUNAVARAM
+201,28,Andhra Pradesh,2233,COMMUNITY HEALTH CENTER KOTHAPETA
+202,28,Andhra Pradesh,2203,COMMUNITY HEALTH CENTER KOTAURATLA
+203,28,Andhra Pradesh,2202,COMMUNITY HEALTH CENTER KOTABOMMALI
+204,28,Andhra Pradesh,2149,AREA HOSPITAL CHILKALURIPET
+205,28,Andhra Pradesh,2176,AREA HOSPITAL CHINTALAPUDI
+206,28,Andhra Pradesh,2077,Community Health Center Konakondla
+207,28,Andhra Pradesh,2104,COMMUNITY HEALTH CENTER KOLLIPARA
+208,28,Andhra Pradesh,2252,COMMUNITY HEALTH CENTER K KOTAPADU
+209,28,Andhra Pradesh,2232,COMMUNITY HEALTH CENTER KAVITI
+210,28,Andhra Pradesh,2231,COMMUNITY HEALTH CENTER KAPILSWARAPURAM
+211,28,Andhra Pradesh,2249,COMMUNITY HEALTH CENTER KAMALAPURAM
+212,28,Andhra Pradesh,2132,Community Health Center Kalikiri
+213,28,Andhra Pradesh,2242,COMMUNITY HEALTH CENTER KAIKALURU
+214,28,Andhra Pradesh,2251,COMMUNITY HEALTH CENTER KADIAM
+215,28,Andhra Pradesh,2200,COMMUNITY HEALTH CENTER JAGGAYYAPETA
+216,28,Andhra Pradesh,2250,COMMUNITY HEALTH CENTER JAGGAMPETA
+217,28,Andhra Pradesh,2161,COMMUNITY HEALTH CENTER IPUR
+218,28,Andhra Pradesh,2199,COMMUNITY HEALTH CENTER ICHAPURAM
+219,28,Andhra Pradesh,2099,COMMUNITY HEALTH CENTER GURAZALA
+220,28,Andhra Pradesh,2198,COMMUNITY HEALTH CENTER GUDURU
+221,28,Andhra Pradesh,2177,AREA HOSPITAL CHINTAPALLI
+222,28,Andhra Pradesh,2270,COMMUNITY HEALTH CENTER GOPALAPURAM
+223,28,Andhra Pradesh,2069,COMMUNITY HEALTH CENTER GOOTY
+224,28,Andhra Pradesh,2248,COMMUNITY HEALTH CENTER GOKAVARAM
+225,28,Andhra Pradesh,2196,COMMUNITY HEALTH CENTER GANNAVARAM
+226,28,Andhra Pradesh,2247,COMMUNITY HEALTH CENTER CHODAVARAM
+227,28,Andhra Pradesh,950000027,AREA HOSPITAL CHIRALA
+228,28,Andhra Pradesh,2067,AREA HOSPITAL DHARMAVARAM
+229,28,Andhra Pradesh,2195,AREA HOSPITAL GAJAPATHINAGARAM
+230,28,Andhra Pradesh,950000012,AREA HOSPITAL GUDIWADA
+231,28,Andhra Pradesh,2228,COMMUNITY HEALTH CENTER CHENNUR
+232,28,Andhra Pradesh,950000029,AREA HOSPITAL GUNTAKAL
+233,28,Andhra Pradesh,2178,AREA HOSPITAL JAMMALAMADUGU
+234,28,Andhra Pradesh,2193,COMMUNITY HEALTH CENTER CHALLAPALLI
+235,28,Andhra Pradesh,2192,COMMUNITY HEALTH CENTER BUTTAIGUDEM
+236,28,Andhra Pradesh,2191,COMMUNITY HEALTH CENTER BUDITHI
+237,28,Andhra Pradesh,2241,COMMUNITY HEALTH CENTER BOBBILI
+238,28,Andhra Pradesh,2246,COMMUNITY HEALTH CENTER BHIMADOLE
+239,28,Andhra Pradesh,2189,COMMUNITY HEALTH CENTER BHEEUMINIPATNAM
+240,28,Andhra Pradesh,2183,COMMUNITY HEALTH CENTER BHADRAGIRI
+241,28,Andhra Pradesh,2129,Community Health Center Bethamcherla
+242,28,Andhra Pradesh,950000039,AREA HOSPITAL JANGAREDDYGUDEM
+243,28,Andhra Pradesh,2188,COMMUNITY HEALTH CENTER BARUVA
+244,28,Andhra Pradesh,2128,Community Health center Bangarupalyam
+245,28,Andhra Pradesh,2245,COMMUNITY HEALTH CENTER BADVEL
+246,28,Andhra Pradesh,2186,COMMUNITY HEALTH CENTER AVANIGADDA
+247,28,Andhra Pradesh,2125,COMMUNITY HEALTH CENTER ATMAKUR
+248,28,Andhra Pradesh,2152,COMMUNITY HEALTH CENTER AMARAVATHI
+249,28,Andhra Pradesh,2185,COMMUNITY HEALTH CENTER AMADALAVALASA
+250,28,Andhra Pradesh,2170,COMMUNITY HEALTH CENTER ALLAGADDA
+251,28,Andhra Pradesh,2244,COMMUNITY HEALTH CENTER ALAMURU
+252,28,Andhra Pradesh,2226,COMMUNITY HEALTH CENTER AKIVIDU
+253,28,Andhra Pradesh,950000030,AREA HOSPITAL KADARI
+254,28,Andhra Pradesh,950000031,AREA HOSPITAL KUPPAM
+255,28,Andhra Pradesh,2184,COMMUNITY HEALTH CENTER ACHANTA
+256,28,Andhra Pradesh,2123,CIVIL DISPENSARY KURNOOL
+257,28,Andhra Pradesh,950000032,AREA HOSPITAL NAGARI
+258,28,Andhra Pradesh,2207,AREA HOSPITAL NANDIGAMA
+259,28,Andhra Pradesh,2221,CIVIL DISPENSARY APVVP
+260,28,Andhra Pradesh,2122,CIVIL DISPENSARY AP SECRETARIAT VELAGAPUDI
+261,28,Andhra Pradesh,2179,AREA HOSPITAL NARASANNAPETA
+262,28,Andhra Pradesh,2166,CHEST DISEASE HOSPITAL ANANTAPURAMU
+263,28,Andhra Pradesh,2071,CHC URAVAKONDA
+264,28,Andhra Pradesh,2079,CHC THANAKAL HOSPITAL
+265,28,Andhra Pradesh,2118,CHC SODAM 
+266,28,Andhra Pradesh,2116,CHC PODILI
+267,28,Andhra Pradesh,2115,CHC Penumuru
+268,28,Andhra Pradesh,2180,AREA HOSPITAL NARASAPURAM
+269,28,Andhra Pradesh,950000045,AREA HOSPITAL NARASARAOPETA
+270,28,Andhra Pradesh,2114,CHC PEDDA DORNALA
+271,28,Andhra Pradesh,2054,GOVTERMENT MATERNITY HOSPITAL
+272,28,Andhra Pradesh,2041,DISTRICT HOSPITAL MADANAPALLE
+273,28,Andhra Pradesh,2210,CHC PEDAPUDI
+274,28,Andhra Pradesh,2112,CHCPATTIKONDA
+275,28,Andhra Pradesh,950000007,AREA HOSPITAL NARSIPATNAM
+276,28,Andhra Pradesh,950000017,AREA HOSPITAL NUZVIDU
+277,28,Andhra Pradesh,2171,AREA HOSPITAL PALAKOL
+278,12,Arunachal Pradesh,3006,CHC ITAFORT
+279,18,Assam,4008,Mangaldai Civil Hospital
+280,18,Assam,4016,S K Roy Civil Hospital
+281,18,Assam,1239,Mukalmua SDCH
+282,18,Assam,1008,Sdch Bilasipara Diparkuti
+283,18,Assam,4012,Dr Ravi Boro Civil Hospital Baksa
+284,18,Assam,4002,Silchar Medical College Hospital
+285,18,Assam,1098,Ch Bsf Patgaon
+286,18,Assam,1782,Agchia Sc
+287,18,Assam,4001,LGB Regional Institute of Mental Health
+288,18,Assam,1240,Tinsukia Medical College And Hospital
+289,18,Assam,1217,Composite Hospital Crpf Dayapur Silchar
+290,18,Assam,1201,100 Bedded Composite Hospital
+291,18,Assam,4028,"Cardiothoracic and Neurosciences Center Gauhati Medical College and Hospital,Assam"
+292,18,Assam,1007,Hamren Sub Divisional Civil Hospital
+293,18,Assam,1202,Fakhruddin Ali Ahmed Medical College And Hospital
+294,18,Assam,91188105,AIIMS Guwahati
+295,18,Assam,61800001,Pragjyotishpur Medical College And Hospital
+296,18,Assam,870,Composite Hospital Ssb Salonibari
+297,18,Assam,1009,"Swahid Kamalamiri Civil Hospital, Bokakhat"
+298,10,Bihar,5003,"Divisional Railway Hospital, Danapur"
+299,10,Bihar,5010,"Sukhdev Prasad Verma Referral Hospital Makhdampur, Jehanabad"
+300,10,Bihar,5001,"Indira Gandhi Institute of Medical Sciences,Patna"
+301,10,Bihar,5009,DISTRICT HOSPITAL JEHANABAD
+302,10,Bihar,91100097,Joy Poly Clinic
+303,10,Bihar,937,Composite Hospital Ssb
+304,10,Bihar,5002,Instance five test hospital
+305,10,Bihar,91100007,"AIIMS, Patna, Bihar"
+306,4,Chandigarh,91040035,Command Hospital Chandimandir
+307,4,Chandigarh,91040002,"PGIMER, Chandigarh"
+308,4,Chandigarh,6002,CIVIL HOSPITAL 45
+309,4,Chandigarh,6003,"Government Multi Specialty Hospital,Sector-16,Chandigarh"
+310,4,Chandigarh,91040003,"GMC Hospital, Sector 32,Chandigarh"
+311,4,Chandigarh,1110,Composite Hospital ITBP Chandigarh
+312,22,Chhatisgarh,1931,Community Health Center Rajpur
+313,22,Chhatisgarh,1892,Chc Bhairamgarh
+314,22,Chhatisgarh,1921,Community Health Center Ramanujganj
+315,22,Chhatisgarh,1917,Chc Tamanr
+316,22,Chhatisgarh,367,Sant Baba Guru Ghasidas Ji Memorial Govt Hospital
+317,22,Chhatisgarh,1225,District Ayurved Hospital Jagdalpur
+318,22,Chhatisgarh,369,PT JNM MEDICAL COLLEGE AND ASSOCIATED DR BHIM RAO AMBEDKAR MEMORIAL HOSPITAL RAIPUR
+319,22,Chhatisgarh,7007,District Hospital Raipur
+320,22,Chhatisgarh,1878,Chc Gurur
+321,22,Chhatisgarh,91220002,"AIIMS, Raipur, Chattisgarh"
+322,22,Chhatisgarh,1961,Chc Bhanupratappur
+323,22,Chhatisgarh,99900431,"KUMAR SAHAB LATE SHREE DILIP SINGH JUDEV JI GOVERNMENT SUPERSPECIALITY HOSPITAL, BILASPUR"
+324,22,Chhatisgarh,1873,Govt  Hospital  Chc Bade Kilepal
+325,22,Chhatisgarh,37182,Chc Kirandul
+326,22,Chhatisgarh,388,Late Baliram Kashyap Memorial Govt Medical College Jagdalpur
+327,22,Chhatisgarh,1951,Chc Kartala
+328,22,Chhatisgarh,1871,Community Health Center Risali
+329,22,Chhatisgarh,1923,Civil Hospital Wadrafnagar
+330,22,Chhatisgarh,1995,Chc Saraipali
+331,22,Chhatisgarh,1858,Chc Nawagarh
+332,22,Chhatisgarh,1814,Chc Bhaiyathan
+333,22,Chhatisgarh,7005,District Hospital Dantewada
+334,22,Chhatisgarh,99900530,Phc Junwanikhurd
+335,22,Chhatisgarh,1981,Civil Hospital Deobhog
+336,22,Chhatisgarh,7013,Lt. Bisahu Das Mahant Memorial Medical College Associated Indira Gandhi Hospital Korba
+337,22,Chhatisgarh,99900474,Phc Birkoni
+338,22,Chhatisgarh,379,CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES BILASPUR (C. G.)
+339,22,Chhatisgarh,1236,Composite Hospital CRPF Raipur
+340,22,Chhatisgarh,1889,Chc Thankhamhariya
+341,22,Chhatisgarh,1819,Chc Ramanujnagar
+342,22,Chhatisgarh,1973,Chc Darima
+343,22,Chhatisgarh,1978,Chc Akaltara
+344,22,Chhatisgarh,7017,Barrister Thakur Chhedilal
+345,22,Chhatisgarh,1957,Chc Pandariya
+346,22,Chhatisgarh,1943,Chc Bamnidih
+347,22,Chhatisgarh,1948,Chc Arjunda
+348,22,Chhatisgarh,99900572,Phc Khamhariya
+349,22,Chhatisgarh,1916,Chc Dabhara
+350,22,Chhatisgarh,1815,Chc Odgi
+351,22,Chhatisgarh,1982,Chc Malkharoda
+352,22,Chhatisgarh,1969,Chc Lawan
+353,22,Chhatisgarh,1863,Chc Lormi
+354,22,Chhatisgarh,1986,Chc Lakhanpur
+355,22,Chhatisgarh,1869,Chc Jheet
+356,22,Chhatisgarh,1897,Community Health Center Geedam
+357,22,Chhatisgarh,1949,Rani Dhanraj Devi Kunwar Phc Korba
+358,22,Chhatisgarh,1221,COMPOSITE HOSPITAL CRPF JAGDALPUR
+359,22,Chhatisgarh,1222,Government Ayurved Hospital Dallirajhara
+360,22,Chhatisgarh,37179,Chc Gobranawapara
+361,22,Chhatisgarh,1919,Chc Bagicha
+362,22,Chhatisgarh,2006,Chc Bilaigarh
+363,22,Chhatisgarh,1942,Chc Chhuikhadan
+364,22,Chhatisgarh,37224,Community Health Center Chhotedongar
+365,22,Chhatisgarh,1864,Chc Dondi
+366,22,Chhatisgarh,99900529,Phc Tendukona
+367,22,Chhatisgarh,489,District Hospital Gaurella Pendra Marwahi
+368,22,Chhatisgarh,1945,Chc Marwahi
+369,22,Chhatisgarh,37181,Chc Awapalli
+370,22,Chhatisgarh,37193,Chc Basaguda
+371,22,Chhatisgarh,99900049,CHC Sanna
+372,22,Chhatisgarh,1912,Chcjaijaipur
+373,22,Chhatisgarh,1908,Civil Hospital Nagri
+374,22,Chhatisgarh,1915,Chc Duldula
+375,22,Chhatisgarh,1941,District Hospital Sarangarh
+376,22,Chhatisgarh,99900582,Phc Mungaser
+377,22,Chhatisgarh,1954,Chc Katghora
+378,22,Chhatisgarh,1959,Chc Charama
+379,22,Chhatisgarh,1813,Chc Bhatgaon
+380,26,Dadra & Nagar Haveli,91260001,"Shri Vinoba Bhave Civil Hospital, Silvassa, Dadra & Nagar Haveli"
+381,7,Delhi,99901690,Mcd Dispensary Samaypur Badli
+382,7,Delhi,99901375,Guru Teg Bahadur Hospital
+383,7,Delhi,37231,Hindu Rao Hospital
+384,7,Delhi,99901372,Indira Gandhi Hospital
+385,7,Delhi,487,Institute of Human Behaviour and Allied Sciences (IHBAS)
+386,7,Delhi,10063,DELHI STATE CANCER INSTITUTES  (WEST)
+387,7,Delhi,10062,MAULANA AZAD INSTITUTE OF DENTAL SCIENCES
+388,7,Delhi,99901629,Mcw Shakti Nagar
+389,7,Delhi,99901604,Mcw Rani Bagh
+390,7,Delhi,99901610,Chest Clinic Gulabi Bagh
+391,7,Delhi,99901316,Chacha Nehru Bal Chikitsalaya
+392,7,Delhi,37295,Rajan Babu Institute Of Pulmonary Medicine And Tubercolusis
+393,7,Delhi,99901322,Ambedkar Nagar Hospital Dakshinpuri
+394,7,Delhi,99901321,Deen Dayal Upadhyay Hospital
+395,7,Delhi,10017,"NDMC Golf Link Dispensary, New Delhi"
+396,7,Delhi,99901633,Mcw Peeragarhi
+397,7,Delhi,99902495,Puhc Cum Maternity Home And Polyclinic Tughlakabad
+398,7,Delhi,99901706,Polyclinic And Maternity Home Munirka
+399,7,Delhi,91070235,SAFDARJUNG HOSPITAL SSB BLOCK 
+400,7,Delhi,37232,Kasturba Hospital
+401,7,Delhi,99901307,Lal Bahadur Shastri Hospital
+402,7,Delhi,99901624,Mcw Satyawati Park Behind Laxmi Bai College
+403,7,Delhi,99901655,Mcw Naraina
+404,7,Delhi,99901314,"Lok Nayak Hospital , GNCTD"
+405,7,Delhi,99902456,Mcd Polyclinic Nangloi
+406,7,Delhi,99901715,Azadpur Dispensary
+407,7,Delhi,99901317,Bhagwan Mahavir Hospital Pitampura
+408,7,Delhi,99900465,Swami Dayanand Hospital
+409,7,Delhi,99902455,Mcw Baprolla
+410,7,Delhi,99901696,Pitampura  Allopathic Dispensary
+411,7,Delhi,99901504,Onkar Nagar Polyclinic
+412,7,Delhi,91070526,"Cantonment General Hospital,  Delhi Cantt"
+413,7,Delhi,91070546,"Mini Dispensary, Naraina"
+414,7,Delhi,91070545,"DCB Dispensary, Jharera"
+415,7,Delhi,99901374,Maharishi Valmiki Hospital
+416,7,Delhi,37331,Mata Gujri Hospital Tilak Nagar
+417,7,Delhi,99901699,Nimri Colony Polyclinic
+418,7,Delhi,99901327,Nehru Homeopathic Medical College And Hospital
+419,7,Delhi,99901373,Pt Madan Mohan Malviya Hospital
+420,7,Delhi,10058,Rajiv Gandhi Super Speciality Hospital Tahirpur Delhi
+421,7,Delhi,99901329,Rao Tula Ram Memorial Hospital
+422,7,Delhi,99901714,Maternity Home Haiderpur
+423,7,Delhi,99901675,Mcw Hari Nagar
+424,7,Delhi,10055,LHMC   SMT.SUCHETA KRIPLANI HOSPITAL NEW DELHI
+425,7,Delhi,10059,DELHI STATE CANCER INSTITUTES
+426,7,Delhi,99901662,Mcw Fateh Nagar
+427,7,Delhi,91070548,Base Hospital Delhi
+428,7,Delhi,10024,"Kalawati Saran Childrens Hospital, New Delhi"
+429,7,Delhi,4,"AIIMS, New Delhi"
+430,7,Delhi,91070747,All India Institute of Ayurveda AIIA  New Delhi
+431,7,Delhi,99901620,Mcw A Block Jahangirpuri
+432,7,Delhi,99901478,Sanjay Gandhi Memorial Hospital
+433,7,Delhi,99900063,Veer Savarkar Aarogya Sansthan
+434,7,Delhi,10007,"NDMC Palika Maternity Hospital, Lodhi Colony, New Delhi"
+435,7,Delhi,10011,VMMC and  SAFDARJUNG HOSPITAL
+436,7,Delhi,10014,"NDMC Babar Road Medical Center and Dispensary, New Delhi"
+437,7,Delhi,99901754,Uphc Fatehpurberi
+438,7,Delhi,10056,VALLABHBHAI PATEL CHEST INSTITUTE
+439,7,Delhi,10022,"NDMC Rohini Dispensary, New Delhi"
+440,7,Delhi,91070542,Institute of Human Behaviour and Allied Sciences
+441,7,Delhi,37188,Chaudhry Brahm Prakash Ayurved Charak Sansthan
+442,7,Delhi,99901324,Deep Chand Bandhu Hospital
+443,7,Delhi,37294,Doctor Shyama Prasad Mukherjee Chest Hospital
+444,7,Delhi,99901518,Maternity Home Sriniwaspuri
+445,7,Delhi,99901320,Dr. Baba Saheb Ambedkar Hospital
+446,7,Delhi,99901377,SATYAWADI RAJA HARISHCHANDRA HOSPITAL
+447,7,Delhi,99901720,Uphc Mansaram Park
+448,7,Delhi,37296,Balak Ram Hospital
+449,7,Delhi,99901661,Mcw Tilak Nagar
+450,7,Delhi,99901379,Ayurvedic And Unani Tibbia College And Hospital
+451,7,Delhi,99901499,Uphc Madanpur Khadar
+452,7,Delhi,99901310,ATTAR SAIN JAIN EYE & GENERAL HOSPITAL
+453,7,Delhi,99901308,Acharyashree Bhikshu Govt Hospital
+454,7,Delhi,99901664,Mcw Ranjeet Nagar
+455,7,Delhi,99901328,Burari Hospital
+456,7,Delhi,99901708,Uphc Daryaganj
+457,7,Delhi,99901726,Uphc Amar Colony
+458,7,Delhi,99901713,Uhc Karol Bagh
+459,7,Delhi,99901612,Uhc Dhaka Dispensary
+460,7,Delhi,99902531,Puhc Uttam Nagar
+461,7,Delhi,99901743,Puhc Sadar Bazar
+462,7,Delhi,99901739,Puhc Bawana
+463,7,Delhi,99901718,Polyclinic Masjid More
+464,7,Delhi,99901684,Polyclinic Ghummanhera
+465,7,Delhi,99901498,Aam Uphc Defence Colony
+466,7,Delhi,99901330,Dh Jpc Hospital
+467,7,Delhi,99902500,Mobile Dispensary 19
+468,7,Delhi,99901326,Dr B R Sur Homoeopathic Medical College Hospital And Research Centre
+469,7,Delhi,99901634,Mcw Kirti Nagar
+470,7,Delhi,10020,"NDMC Polyclinic, Shaheed Bahgat Singh marg, New Delhi"
+471,7,Delhi,10018,"NDMC Harish Chandra Mathur Lane Dispensary, New Delhi"
+472,7,Delhi,99903008,Mobile Dispensary 12
+473,7,Delhi,99903007,Mobile Dispensary 10
+474,7,Delhi,99901707,Maternity Home Jwalapuri
+475,7,Delhi,99901646,Mcw Paharganj
+476,7,Delhi,99901631,Mcw Center Wazirpur
+477,7,Delhi,99901719,Indira Gandhi Polyclinic shakurpur
+478,7,Delhi,99902989,Md-2 Narela
+479,7,Delhi,99901668,Mcw Shastri Nagar
+480,7,Delhi,99902436,Mcw Sarai Mohalla
+481,7,Delhi,10005,"NDMC Charak Palika Hospital, Moti Bagh, New Delhi"
+482,7,Delhi,91070067,"NDMC  Ayush Polyclinic, Mandir Marg, New Delhi"
+483,7,Delhi,91070018,"National Institute of Tuberculosis and Respiratory Diseases, New Delhi"
+484,7,Delhi,10012,"NDMC Lodhi Road Dispensary, New Delhi"
+485,7,Delhi,99901642,Mcw Janak Puri
+486,7,Delhi,99901510,Mcw Grdn Laxmi Nagar
+487,7,Delhi,3,Dr. Ram Manohar Lohia Hospital
+488,7,Delhi,99901614,Mcw Giri Nagar
+489,7,Delhi,99901644,Mcw Devli And Uphc Tigri
+490,7,Delhi,99901618,Mcw Centre Burari
+491,7,Delhi,99901511,Allopathic Dispensary Patparganj
+492,7,Delhi,99902516,Allopathic Dispensary Rajapuri (mcd)
+493,7,Delhi,99902507,Allopathic Dispensary Sagarpur West
+494,7,Delhi,99902428,Polyclinic Chota Bazar Shahdara
+495,7,Delhi,99901689,Dr Sahib Singh Verma Polyclinic Burari
+496,7,Delhi,99902433,Goenka Road Dispensary
+497,7,Delhi,99901701,Gtb Polyclinic Hudson Lane
+498,7,Delhi,99902511,Puhc Rajinder Nagar
+499,7,Delhi,99902991,Mcw Bijwasan
+500,7,Delhi,99901514,Allopathic Dispensary Patparganj Industrial Area
+501,7,Delhi,99901627,Mcw B Block Jahangirpuri
+502,7,Delhi,99901669,Mcw Bagh Kare Khan
+503,7,Delhi,99901623,Mcw Badli
+504,7,Delhi,99901691,Maternity Home Shahbad Daulatpur
+505,7,Delhi,99900458,Ayush Wellness Centre Dharam Marg New Delhi
+506,7,Delhi,99902426,Pooth Kala Allopathic Dispensary
+507,7,Delhi,99901491,Mcd-dr Apj Abdul Kalam Unani And Allopathic Dispensary
+508,7,Delhi,99901323,Dr Hedgewar Arogya Sansthan
+509,7,Delhi,99901309,Dr N C Joshi Memorial Hospital
+510,7,Delhi,836,FHQ BSF
+511,7,Delhi,99901755,Allopathic Dispensary Ghitorni
+512,7,Delhi,10006,"NDMC Palika Health Complex, Chanakya Puri, New Delhi"
+513,7,Delhi,966,Composite Hospital CRPF New Delhi
+514,7,Delhi,99901513,Puhc Krishna Nagar
+515,7,Delhi,99901609,Tb Chest Clinic Jhandewalan
+516,7,Delhi,99902429,Chest And Tb Clinic Shahdara
+517,7,Delhi,99901678,Mcw Narela Ii
+518,7,Delhi,99901676,Mcw Nangloi
+519,7,Delhi,10013,"NDMC Sarojini Nagar Dispensary, New Delhi"
+520,7,Delhi,99901710,Mcd Allopathic Dispensary Humayunpur
+521,7,Delhi,10021,"NDMC Netaji Nagar Dispensary, New Delhi"
+522,7,Delhi,99901325,Shri Dada Dev Matri Avum Shishu Chikitsalya Hospital
+523,7,Delhi,99901616,Mcw Mangolpuri A Block
+524,7,Delhi,99901497,Mcw Kondli
+525,7,Delhi,10057,G B PANT INSTITUTE
+526,7,Delhi,99901318,Guru Gobind Singh Govt Hospital
+527,7,Delhi,10023,"NDMC Bapu Dham Dispensary, New Delhi"
+528,7,Delhi,99901319,Sardar Vallabh Bhai Patel Hospital
+529,7,Delhi,99900471,BABU JAGJIVAN RAM MEMORIAL HOSPITAL
+530,7,Delhi,99901679,Mcw Centre Motibagh
+531,7,Delhi,99902445,Mcw Rk Puram
+532,7,Delhi,99901632,Mcwazadpur2
+533,7,Delhi,99901315,Guru Nanak Eye Centre
+534,24,Gujarat,1134,M And J Westrn Regional Institute Of Ophthalamology
+535,24,Gujarat,91240038,Cantonment Health Centre Ahmedabad
+536,24,Gujarat,885,General Hospital Lunawada
+537,24,Gujarat,971,K K Mehta Government Hospital
+538,24,Gujarat,889,Government Hospital Veraval
+539,24,Gujarat,970,Sub District Hospital
+540,24,Gujarat,876,Sub Disctrict Hospital Singarva
+541,24,Gujarat,906,Sub District Hospital Lathi
+542,24,Gujarat,953,General Hospital Tharad
+543,24,Gujarat,911,Sdh Vansda
+544,24,Gujarat,893,Civil Hospital Petlad
+545,24,Gujarat,882,General Hospital Deesa
+546,24,Gujarat,848,G.M.E.R.S. General Hospital Navsari
+547,24,Gujarat,844,"Gmers Medical College Attached Hospital Panchmahal, Godhra"
+548,24,Gujarat,930,"GENERAL HOSPITAL, VIJAPUR"
+549,24,Gujarat,1063,Goverment Hospital Kadi
+550,24,Gujarat,887,General Hospital Ahwa
+551,24,Gujarat,904,Government Hospital Gondal
+552,24,Gujarat,1064,Sub District Hospital Upleta
+553,24,Gujarat,914,Sdh Bardoli
+554,24,Gujarat,920,Sdh Devgadh Baria
+555,24,Gujarat,1066,Sub District Hospital Garudeshwar
+556,24,Gujarat,841,Bhavsinhji General Hospital Porbandar
+557,24,Gujarat,91240056,"All India Institute Of Medical Sciences , Rajkot"
+558,24,Gujarat,895,Sub District Hospital Anjar
+559,24,Gujarat,951,State Hospital Dharampur
+560,24,Gujarat,843,Sir Takhtasinhji Hospital
+561,24,Gujarat,931,Sdh Visnagar
+562,24,Gujarat,902,Sdh Jasdan
+563,24,Gujarat,839,PDU Medical College & Hospital Rajkot
+564,24,Gujarat,900,Government Hospital Wankaner
+565,24,Gujarat,898,Government Hospital Dwarka
+566,24,Gujarat,837,GMERS Medical College & General Hospital Morbi
+567,24,Gujarat,847,Gmers Medical College and General Hospital Himatnagar
+568,24,Gujarat,851,"Gmers General Hospital,Vadnagar"
+569,24,Gujarat,832,Gmers General Hospital Gandhinagar
+570,24,Gujarat,891,General Hospital Jamkhambhaliya
+571,24,Gujarat,1219,Composite Hospital Crpf Gandhinagar
+572,24,Gujarat,924,Sub District Hospital Bhiloda
+573,24,Gujarat,968,SDH DAKOR
+574,24,Gujarat,952,Sub District Hospital Chikhli
+575,24,Gujarat,897,Government Hospital Gandhidham
+576,24,Gujarat,878,J Z M N General Hospital Nadiad
+577,24,Gujarat,857,New Civil Hospital and Government medical college Surat
+578,24,Gujarat,925,Sub District Hospital Idar
+579,24,Gujarat,892,Sdh Viramgam
+580,24,Gujarat,840,Guru Gobindsingh Government Hospital
+581,24,Gujarat,884,District Hospital Chhotaudepur
+582,24,Gujarat,877,General Hospital Anand
+583,24,Gujarat,888,General Hospital Botad
+584,24,Gujarat,907,General Hospital Mahuva
+585,24,Gujarat,933,Sub District Hospital Mansa
+586,6,Haryana,91060114,Command Hospital  WC 
+587,6,Haryana,91060076,"Mother Teresa Saket Orthopaedic Hospital,Sector 1 Panchkula"
+588,6,Haryana,99902835,Hwc Jalalpur Hathin
+589,6,Haryana,91060069,Dispensary Cum Polyclinic Cantonment Board Ambala
+590,6,Haryana,1123,Chc Mullana
+591,6,Haryana,99901158,Sdh Hodal
+592,6,Haryana,99902906,Hwc Shc Nahra
+593,6,Haryana,99902676,Hwc Rawalwas Kalan
+594,6,Haryana,99901161,Community Health Centre Kahanaur
+595,6,Haryana,99902841,Hwc Pingore
+596,6,Haryana,99902945,Hwc Jaidhar
+597,6,Haryana,99902943,Hwc Chholi
+598,6,Haryana,99902465,Community Health Center Punhana
+599,6,Haryana,99902485,Chc Tauru
+600,6,Haryana,14001,COMPOSITE HOSPITAL
+601,6,Haryana,99902878,Hwc Sukhchain
+602,6,Haryana,99902901,Hwc Shc Bhadana
+603,2,Himachal Pradesh,91020056,Cantonment Dispensary Dagshai
+604,2,Himachal Pradesh,91020012,"Netaji Subhash Chandra Bose Zonal Hospital, Mandi,Himachal Pradesh"
+605,2,Himachal Pradesh,91020009,"Civil Hospital, Sunder Nagar,Himachal Pradesh"
+606,2,Himachal Pradesh,91020013,"Regional Hospital, Kullu, Himachal Pradesh"
+607,2,Himachal Pradesh,91020007,"Civil Hospital,Palampur,Himachal Pradesh"
+608,2,Himachal Pradesh,91020026,CH NURPUR
+609,2,Himachal Pradesh,91020006,"Zonal Hospital, Dharamshala,Himachal Pradesh"
+610,2,Himachal Pradesh,91020002,"PHC HP Secretariat, Shimla,Himachal Pradesh"
+611,2,Himachal Pradesh,91020014,"Civil Hospital, Manali, Himachal Pradesh"
+612,2,Himachal Pradesh,91020043,Cantt General Hospital Dalhousie
+613,2,Himachal Pradesh,91020051,Cantt. Board Dispensary Jutogh
+614,2,Himachal Pradesh,91020017,"Deen Dayal Upadhyaya Zonal Hospital, Shimla, Himachal Pradesh"
+615,2,Himachal Pradesh,91020011,"Civil Hospital Joginder Nagar,Himachal Pradesh"
+616,2,Himachal Pradesh,91020046,Cantonment General Hospital Bakloh Cantt
+617,2,Himachal Pradesh,91020050,Cantonment Board General Hospital Yol Cantt
+618,2,Himachal Pradesh,13004,SRI LAL BAHADUR SHASTRI MEDICAL COLLEGE   HOSPITAL
+619,2,Himachal Pradesh,91020054,Cantonment General Hospital Kasauli
+620,2,Himachal Pradesh,91020053,Cantonment General Hospital Subathu
+621,2,Himachal Pradesh,868,All India Institute Of Medical Sciences Bilaspur
+622,1,Jammu and Kashmir ,91010231,Raja Sukhdev SIngh District Hospital Poonch
+623,1,Jammu and Kashmir ,91010045,Cantt Board Dispensary
+624,1,Jammu and Kashmir ,91010374,DISTRICT HOSPITAL PULWAMA
+625,1,Jammu and Kashmir ,91010144,Govt Medical College Anantnag and Associated Hospitals
+626,1,Jammu and Kashmir ,1198,Composite Hospital Bsf Srinagar
+627,1,Jammu and Kashmir ,91010046,G B Pant Cantonment General Hospital Jammu Cantt
+628,1,Jammu and Kashmir ,91012546,ASYM District Hospital budgam 
+629,1,Jammu and Kashmir ,91010394,Govt Lalla Ded Hospital
+630,1,Jammu and Kashmir ,91010057,"GOVERNMENT MEDICAL COLLEGE & ASSOCIATED HOSPITAL, KATHUA"
+631,1,Jammu and Kashmir ,91010252,GMC
+632,1,Jammu and Kashmir ,91010033,GOVT. HOSPITAL GANDHI NAGAR JAMMU
+633,1,Jammu and Kashmir ,91010003,"Govt. District Hospital, Bandipora, Jammu and Kashmir"
+634,1,Jammu and Kashmir ,91010047,Govt District Hospital Udhampur
+635,1,Jammu and Kashmir ,91010051,NTPHC Zewan Srinagar
+636,1,Jammu and Kashmir ,91010002,"G. B. Pant Children Hospital, Srinagar, Jammu and Kashmir"
+637,1,Jammu and Kashmir ,91010137,DH SAMBA
+638,1,Jammu and Kashmir ,91010064,SDH Hazratbal Srinagar
+639,1,Jammu and Kashmir ,91010006,Government S.M.H.S Hospital 
+640,1,Jammu and Kashmir ,91010635,DISTRICT HOSPITAL SHOPIAN
+641,1,Jammu and Kashmir ,91010409,Govt. Chest Diseases Hospital Srinagar
+642,1,Jammu and Kashmir ,91010121,DISTRICT HOSPITAL GANDERBAL
+643,1,Jammu and Kashmir ,91010418,GOVERNMENT BONE   JOINT SURGERY HOSPITAL 
+644,1,Jammu and Kashmir ,91010150,Associated Hospital Govt Medical College Baramulla
+645,1,Jammu and Kashmir ,91010107,GMC HANDWARA 
+646,1,Jammu and Kashmir ,91011801,District Hospital Kulgam 
+647,1,Jammu and Kashmir ,91010142,District Hospital Ramban
+648,1,Jammu and Kashmir ,91010049,UPHC Nishat Srinagar
+649,1,Jammu and Kashmir ,91010052,UPHC Batmaloo Srinagar
+650,1,Jammu and Kashmir ,91010322,"Associated Hospital, GMC Rajouri"
+651,1,Jammu and Kashmir ,91010055,UPHC Lasjan Srinagar
+652,1,Jammu and Kashmir ,91010155,SMGS HOPSITAL
+653,1,Jammu and Kashmir ,91010054,MMC Noorbagh Srinagar
+654,1,Jammu and Kashmir ,91010431,Government Psychiatric Diseases Hospital
+655,1,Jammu and Kashmir ,91010525,"Associated Hospital, GMC Rajouri"
+656,1,Jammu and Kashmir ,91010111,Government Medical College Hospital Jammu
+657,1,Jammu and Kashmir ,91010422,Govt.Super Speciality Hospital jammu
+658,20,Jharkhand,15009,Sadar Hospital East Singhbhum
+659,20,Jharkhand,91200004,"District Hospital, Ranchi, Jharkhand"
+660,20,Jharkhand,15004,District Hospital Chatra
+661,20,Jharkhand,15007,District Hospital Ramgarh
+662,20,Jharkhand,553,Sadar Hospital Chaibasa
+663,20,Jharkhand,91205016,All India Institute of Medical Sciences  AIIMS  Deoghar
+664,20,Jharkhand,504,District Hospital
+665,20,Jharkhand,376,Hazaribagh Medical College
+666,20,Jharkhand,372,"MGM Medical College & Hospital, Jamshedpur"
+667,20,Jharkhand,99900593,Community Health Center Meharma
+668,20,Jharkhand,15011,SADAR HOSPITAL BOKARO
+669,20,Jharkhand,2057,Referral Hospital
+670,20,Jharkhand,91205018,Cantt General Hospital Ramgarh
+671,20,Jharkhand,15001,Central Institute Of Psychiatry Government of India
+672,20,Jharkhand,99900535,Community Health Centre Nimdih
+673,20,Jharkhand,15010,Medinirai Medical College Hospital
+674,20,Jharkhand,15005,SADAR HOSPITAL RANCHI
+675,20,Jharkhand,91200010,CIVIL HOSPITAL GUMLA
+676,20,Jharkhand,555,"CH, CRPF Ranchi"
+677,20,Jharkhand,15002,Rajendra Institute Of Medical Sciences 
+678,20,Jharkhand,15008,SADAR HOSPITAL GIRIDIH
+679,20,Jharkhand,91205099,"SADAR HOSPITAL, EAST SINGHBHUM"
+680,29,Karnataka,18028,GENERAL HOSPITAL SRINIVASPURA KOLAR KARNATAKA
+681,29,Karnataka,18008,"District Hospital, Udupi"
+682,29,Karnataka,18093,General Hospital Yelahanka
+683,29,Karnataka,1175,Community Helathcare Centre Soluru
+684,29,Karnataka,1287,Community Health Center Vittal
+685,29,Karnataka,18154,K C General Hospital
+686,29,Karnataka,91290021,All India Institute of Speech   Hearing
+687,29,Karnataka,18127,TALUKA HOSPITAL MUNDGOD
+688,29,Karnataka,18022,CHIGATERI DISTRICT HOSPITAL
+689,29,Karnataka,91298226,Command Hospital Air Force Bangalore  CHAFB 
+690,29,Karnataka,18029,District hospital Bagalkot
+691,29,Karnataka,91298180,Dharwad Institute Of Mental Health And Neurosciences-Dharwad
+692,29,Karnataka,18057,Karnataka Institute of Medical Sciences 
+693,29,Karnataka,18021,KARWAR INSTITUTE OF MEDICAL SCIENCES
+694,29,Karnataka,18013,Sir CV Raman General Hospital
+695,29,Karnataka,18020,WENLOCK DISTRICT HOSPITAL DAKSHINA KANNADA KARNATAKA
+696,29,Karnataka,91298196,Bowring and Lady Curzon Hospital
+697,29,Karnataka,18038,GENERAL HOSPITAL MULBAGAL KOLAR KARNATAKA
+698,29,Karnataka,14,"NIMHANS, Bengaluru, Karnataka"
+699,29,Karnataka,1216,Ch Blr
+700,29,Karnataka,1190,Community Health Center Mangalore
+701,29,Karnataka,18145,General Hospital Kushtagi
+702,29,Karnataka,18082,Sub Division Hospital Gangavthi
+703,29,Karnataka,18091,General Hospital Anekal
+704,29,Karnataka,18035,Taluk Hospital Yelandur Chamarajanagara Karnataka
+705,29,Karnataka,18040,District Hospital Dharwad
+706,29,Karnataka,18075,server 2 final Testing
+707,29,Karnataka,18017,DISTRICT HOSPITAL CHIKKABALLAPUR
+708,29,Karnataka,18014,District Hospital Chitradurga
+709,29,Karnataka,18018,Sub Divisional Hospital Kundapura 
+710,29,Karnataka,18045,"General Hospital, Kadur"
+711,29,Karnataka,18063,General Hospital Mudhol
+712,29,Karnataka,18009,GIMS Gulbarga Institute Of Medical Sciences Hospital Kalaburagi
+713,29,Karnataka,18092,General Hospital KR Puram
+714,29,Karnataka,1180,Primary Health Centre Shashivala
+715,29,Karnataka,18369,Community Health Center Avalahalli
+716,29,Karnataka,18056,General Hospital Jamkhandi Bagalkote Karnataka
+717,29,Karnataka,1279,Urban Community Health Center Ullal
+718,29,Karnataka,1330,Primary Health Centre Bisalavadi
+719,29,Karnataka,1309,Primary Health Center Hallikerehundi
+720,29,Karnataka,18100,GENERAL HOSPITAL JAYANAGAR
+721,29,Karnataka,99900277,Community Health Centre Nuggehally
+722,29,Karnataka,1316,Phc Hundipura
+723,29,Karnataka,1171,M C H Kanakapura
+724,29,Karnataka,549,H Siddaiah Road Referral Hospital
+725,29,Karnataka,1281,Chc Moodbidri
+726,29,Karnataka,1182,Chc Hosakoti
+727,29,Karnataka,1232,Agrahara Dasarahalli General Hospital
+728,29,Karnataka,18036,DISTRICT HOSPITAL TUMKUR
+729,29,Karnataka,18024,DISTRTICT HOSPITAL RAMANAGARA KARNATAKA
+730,29,Karnataka,18012,Taluka Hospital Maddur Mandya Karnataka
+731,29,Karnataka,18031,SUB DIVISION HOSPITAL KOLLEGALA
+732,29,Karnataka,91290001,"Samvaad Institute of Speech and Hearing, Bengaluru, Karnataka"
+733,29,Karnataka,91298188,Belgaum Institute of Medical Science
+734,29,Karnataka,18042,Aralaguppe Mallegowda District Hospital
+735,29,Karnataka,91298113,GOVERNMENT GENERAL HOSPITAL KARKALA
+736,29,Karnataka,18043,Government General Taluka Hospital Shorapur
+737,29,Karnataka,99900278,Primary Health Center Boovanahalli
+738,29,Karnataka,18312,phc kyathanahalli
+739,29,Karnataka,18047,Taluk General Hospital Gundlupete Tq Chamarajanagara District Karnataka
+740,29,Karnataka,1131,Princess Krishnajammanni Super Speciality Hospital
+741,29,Karnataka,18104,Taluk General Hospital Nelamangala
+742,29,Karnataka,18099,District Hopsital Ballari
+743,29,Karnataka,91298213,District Hospital Yadgiri
+744,29,Karnataka,18152,TALUKA GENERAL HOSPITAL BASAVAKALYAN
+745,29,Karnataka,91298214,Government General Taluka Hospital Shahapur
+746,29,Karnataka,91298127,TALUKA GENERAL HOSPITAL MUDDEBIHAL
+747,29,Karnataka,18101,Taluk General Hospital Devanahalli
+748,29,Karnataka,18102,Taluk General Hospital Doddaballapur
+749,29,Karnataka,18060,GENERAL HOSPITAL BANGARPET KOLAR KARNATAKA
+750,29,Karnataka,18103,Taluk General Hospital Hosakote
+751,29,Karnataka,18041,GENERAL HOSPITAL MALUR KOLAR KARNATAKA
+752,29,Karnataka,18015,Government Ladygoschen Hospital
+753,29,Karnataka,18052,GENERAL HOSPITAL T NARASIPURA
+754,29,Karnataka,18105,GENERAL HOSPITAL SOMWARPET KODAGU
+755,29,Karnataka,18019,GENERAL HOSPITAL SIRA
+756,29,Karnataka,18039,GENERAL HOSPITAL KGF KOLAR KARNATAKA
+757,29,Karnataka,18010,Sri Narasimha Raja 
+758,29,Karnataka,18078,SABVMC&RI
+759,29,Karnataka,91298156,Taluk hospital badami
+760,29,Karnataka,18049,District Hospital Haveri Karnataka
+761,29,Karnataka,18011,SUB DIVISIONAL HOSPITAL SAGARA
+762,29,Karnataka,18030,crawford  General Hospital sakaleshpura
+763,29,Karnataka,18055,SRI CHAMARAJENDRA HIMS TEACHING HOSPTAL
+764,29,Karnataka,91298219,"Cantonment General Hospital Camp, Belagavi"
+765,29,Karnataka,18053,DISTRICT HOSPITAL VIJAYAPURA
+766,29,Karnataka,18034,Bidar institute of medical Sciences Teaching Hospital Bidar
+767,32,Kerala,91320135,"GOVT AYURVEDA DISPENSARY, EDAVA"
+768,32,Kerala,99900492,District Ayurveda Hospital Pathanamthitta
+769,32,Kerala,37245,Government Ayurveda Dispensary Edakochi
+770,32,Kerala,37265,Government Ayurveda Dispensary Mudakuzha
+771,32,Kerala,37282,Government Ayurveda Dispensary Palluruthy
+772,32,Kerala,37318,Govt.Ayurveda Dispensary Elamkunnapuzha
+773,32,Kerala,99900537,Govt Ayurveda Dispensary Kaduthuruthy
+774,32,Kerala,37322,Govt Ayurveda Dispensary Marady
+775,32,Kerala,37264,Govt Ayurveda Dispensary Thiruvankulam
+776,32,Kerala,37284,Government Ayurveda Hospital Koothattukulam
+777,32,Kerala,99900601,GOVT AYURVEDA HOSPITAL KADAMPANAD
+778,32,Kerala,37299,SREE VEDA VYASA GOVT AYURVEDA HOSPITAL PUNNAPRA
+779,32,Kerala,37277,Government Ayurveda Dispensary Arakkuzha
+780,32,Kerala,1086,Government Ayurveda Hospital Nayarambalam
+781,32,Kerala,37207,GOVT AYURVEDA DISPENSARY KUDAYATHOOR
+782,32,Kerala,37283,Govt Ayurveda Dispensary Parakkadavu
+783,32,Kerala,37252,Govt Ayurveda Dispensary Valakom
+784,32,Kerala,37314,Govt Ayurveda Dispensary Vallarpadam
+785,32,Kerala,37270,Govt Ayurveda Dispensary Pallarimangalam
+786,32,Kerala,17015,DISTRICT AYURVEDA HOSPITAL KOTTAYAM
+787,32,Kerala,1033,Government Ayurveda Hospital Payyanur
+788,32,Kerala,37308,GOVT AYURVEDA DISPENSARY THRITHALA
+789,32,Kerala,99900760,ALAPPAD GRAMA PANCHAYATH GOVT AYURVEDA DISPENSARY SRAYIKKAD
+790,32,Kerala,960,Avm  Govt  Ayurveda  Hospital  Irinjalakuda
+791,32,Kerala,1205,Composite Hospital Pallipuram
+792,32,Kerala,17026,DISTRICT AYURVEDA HOSPITAL KALPETTA
+793,32,Kerala,37209,Government Ayurveda Dispensary Alakode
+794,32,Kerala,37266,Government Ayurveda Dispensary Amballoor
+795,32,Kerala,37260,Government Ayurveda Dispensary Ayavana
+796,32,Kerala,37281,Government Ayurveda Dispensary Chendamangalam
+797,32,Kerala,99900689,Government Ayurveda Dispensary Chettivilakom
+798,32,Kerala,99900686,Government Ayurveda Dispensary Erayamkudy
+799,32,Kerala,37259,Government Ayurveda Dispensary Kanjoor
+800,32,Kerala,37257,Government Ayurveda Dispensary Kattiparambu
+801,32,Kerala,99900727,Government Ayurveda Dispensary Keezhvaipur
+802,32,Kerala,37240,Government Ayurveda Dispensary Kozhinjampara
+803,32,Kerala,99900704,Government Ayurveda Dispensary  Niranam
+804,32,Kerala,37275,Government Ayurveda Dispensary Paingottoor
+805,32,Kerala,99900713,Government Ayurveda Dispensary Perinjankutty
+806,32,Kerala,99900715,Government Ayurveda Dispensary Pooppara
+807,32,Kerala,942,Government Ayurveda Dispensary Puliyoor
+808,32,Kerala,37320,Government Ayurveda Dispensary Ramamangalam
+809,32,Kerala,99900794,Government Ayurveda Dispensary Vailathur
+810,32,Kerala,37316,Government Ayurveda Dispensary Vengola
+811,32,Kerala,37242,Government Ayurveda Dispensary Vennala
+812,32,Kerala,17039,Government Ayurveda Hospital Kasaragod
+813,32,Kerala,940,Government Ayurveda Hospital Kayamkulam
+814,32,Kerala,1025,Government Ayurveda Hospital Kothala
+815,32,Kerala,99900004,Government Ayurveda Hospital Ponnani
+816,32,Kerala,37306,Government Ayurveda Hospital Vadakkencherry
+817,32,Kerala,1087,GOVT AYURVEDA HOSPITAL OTTAPALAM
+818,32,Kerala,99900791,Government Ayurveda Dispensary Mampuram
+819,32,Kerala,99900797,Govt Ayurveda Dispensary Edavanna
+820,32,Kerala,99900810,Govt Ayurveda Dispensary Keezhuparamba
+821,32,Kerala,99900701,Govt Ayurveda Dispensary Vallamkulam
+822,32,Kerala,99900787,Govt Siddha Hospital Vallakadavu
+823,32,Kerala,37246,Moorkanad Grama Panchayath Government Ayurveda Dispensary Kolathur
+824,32,Kerala,1034,Government Ayurveda Hospital Valapad
+825,32,Kerala,1031,Government Ayurveda Hospital Venganoor
+826,32,Kerala,99900716,GOVT AYURVEDA DISPENSARY (AHWC) VATTIYOORKKAVU
+827,32,Kerala,1084,Govt Ayurveda Dispensary Andikode
+828,32,Kerala,99900540,GOVT AYURVEDA DISPENSARY ARUVIPPURAM
+829,32,Kerala,37243,Govt Ayurveda Dispensary Asamannoor
+830,32,Kerala,99900600,GOVT AYURVEDA DISPENSARY (AYUSH HEALTH AND WELLNESS CENTER) MANNARKAD
+831,32,Kerala,99900730,Govt Ayurveda Dispensary Ayush Health and Wellness Centre Udumbannoor
+832,32,Kerala,37248,Govt Ayurveda Dispensary Ayyampuzha
+833,32,Kerala,99900624,Govt Ayurveda Dispensary Amboori
+834,32,Kerala,99900574,GOVT AYURVEDA HOSPITAL PARASSALA
+835,32,Kerala,99900629,GOVT AYURVEDA DISPENSARY ANGADIPPURAM (AYUSH HEALTH AND WELLNESS CENTRE)
+836,32,Kerala,99900806,Govt Ayurveda Dispensary Chenakkalangadi
+837,32,Kerala,99900685,Govt Ayurveda Dispensary Chenkal
+838,32,Kerala,37251,Govt ayurveda dispensary Cheranalloor KND
+839,32,Kerala,37262,Govt Ayurveda Dispensary Cheranelloor Ck
+840,32,Kerala,99900653,Govt Ayurveda Dispensary Cheruvathur
+841,32,Kerala,37255,Govt Ayurveda Dispensary Edakkattuvayal
+842,32,Kerala,37203,GOVT AYURVEDA DISPENSARY EDAPPATTA
+843,32,Kerala,99900802,Govt Ayurveda Dispensary Elayur
+844,32,Kerala,948,Govt Ayurveda Dispensary Eloor
+845,32,Kerala,99900775,Govt Ayurveda Dispensary Eravipuram
+846,32,Kerala,99900721,Government Ayurveda Dispensary Oachira
+847,32,Kerala,37247,Govt Ayurveda Dispensary Ezhikkara
+848,32,Kerala,99900599,GOVT AYURVEDA DISPENSARY HEALTH AND WELLNESS CENTRE VAZHITHALA
+849,32,Kerala,99900801,Govt Ayurveda Dispensary Irimbiliyam
+850,32,Kerala,37205,GOVT AYURVEDA DISPENSARY IRITTY
+851,32,Kerala,99900807,Govt Ayurveda Dispensary Kaladi
+852,32,Kerala,1091,District Ayurveda Hospital Annex Paremavu
+853,32,Kerala,957,District Ayurveda Hospital Valavannur 
+854,32,Kerala,958,Government Ayurveda Hospital Nedumpana
+855,32,Kerala,99900635,Government Ayurveda Hospital Vengara
+856,32,Kerala,37263,Govt Ayurveda Dispensary Kalady
+857,32,Kerala,37297,Govt Ayurveda Dispensary Kallely
+858,32,Kerala,91320472,"APHC SIDDHA Dispensary,NHM, Chavara South "
+859,32,Kerala,17012,A C Shanmughadas Memorial Ayurvedic Child and Adolescent Care Centre Purakkattiri
+860,32,Kerala,37254,Govt Ayurveda Dispensary Kalloor
+861,32,Kerala,37325,Govt Ayurveda Dispensary Kangarappady
+862,32,Kerala,91320003,"Vaidyarathnam P.S Varier Ayurveda College Hospital, Kottakkal, Kerala"
+863,32,Kerala,91320006,"GOVERNMENT MEDICAL COLLEGE,KOZHIKODE"
+864,32,Kerala,91320007,"Ayurveda College Hospital, Thiruvananthapuram"
+865,32,Kerala,91320002,"Malabar Cancer Centre, Thalassery,Kerala"
+866,32,Kerala,91320109,GAD Edavanakkad
+867,32,Kerala,91320120,GAD AZHIYOOR
+868,32,Kerala,17010,Dist.Ayurveda Hosp.Thodupuzha
+869,32,Kerala,91320065,Dist.Ayurveda Hosp.Malappuram
+870,32,Kerala,91320076,"Dist.Ayurveda Hosp.Kottayam
+"
+871,32,Kerala,91320043,"Dist.Ayurveda Hosp.Ernakulam
+"
+872,32,Kerala,91320071,"Dist.Ayurveda Hosp.Padannakad
+"
+873,32,Kerala,91320040,"Dist.Ayur.Hosp.Pathanamthitta
+"
+874,32,Kerala,91320039,"Dist.Ayurveda.Hosp.Alappuzha
+"
+875,32,Kerala,91320068,"Dist.Ayurveda.Hosp.Palakkad
+"
+876,32,Kerala,91320077,GOVT AYUR DISPENSARY KATTIPPARA
+877,32,Kerala,91320078,"Govt Ayurveda Hospital, Thalavoor"
+878,32,Kerala,91320182,GAD Malayinkeezhu
+879,32,Kerala,1085,Govt Ayurveda Dispensary Karoor
+880,32,Kerala,91320115,GOVT AYURVEDA DISPENSARY MALAYATTOOR
+881,32,Kerala,99900803,Govt Ayurveda Dispensary Karthala
+882,32,Kerala,99900541,GOVT AYURVEDA DISPENSARY KATTAKADA
+883,32,Kerala,91320112,GAD MAZHUVANNOOR
+884,32,Kerala,91320110,GAD Chelakulam
+885,32,Kerala,91320195,"GOVT AYURVEDA DISPENSARY, WANDOOR"
+886,32,Kerala,91320114,"GOVT AYURVEDA DISPENSARY , PERINGALA"
+887,32,Kerala,91320107,GAD Edakochi
+888,32,Kerala,91320103,GAD Nedungapra
+889,32,Kerala,91320099,GAD Sreemoolanagaram
+890,32,Kerala,91320104,GAD Valakom
+891,32,Kerala,91320106,GAD Varapuzha
+892,32,Kerala,91320105,GAH Kadamakudy
+893,32,Kerala,91320096,GAD Elamkunnapuzha
+894,32,Kerala,91320100,GAD Keezhumad
+895,32,Kerala,91320108,GAD Nedumbassery
+896,32,Kerala,91320090,GAD Kadungalloor
+897,32,Kerala,91320125,GOVT AYURVEDA HOSPITAL KOTTARAKKARA
+898,32,Kerala,91320131,"GOVT. AYUR DISPENSARY,PARAPPUR"
+899,32,Kerala,91320122,"GOVERNMENT AYURVEDA DISPENSARY, PERAYAM"
+900,32,Kerala,91320128,GOVT AYU. DISPENSARY ALAYAMON
+901,32,Kerala,91320121,"GOVERNMENT AYURVEDA DISPENSARY, NEDUVATHOOR"
+902,32,Kerala,91320130,"GOVERNMENT AYURVEDA HOSPITAL,NEDUMPANA"
+903,32,Kerala,91320126,Govt. Ayurveada  Hospital Poruvazhy
+904,32,Kerala,91320123,GOVERNMENT AYURVEDA HOSPITAL IVERKALA 
+905,32,Kerala,91320133,"GOVT AYURVEDA DISPENSARY, PAIPRA"
+906,32,Kerala,91320162,GOVT.AYURVEDA MOBILE DISPENSARY TANALUR
+907,32,Kerala,91320178,"Government Ayurveda Hospital, Neyyattinkara"
+908,32,Kerala,91320176,G A D ANJARAKANDY
+909,32,Kerala,91320186,Govt Ayurveda Dispensary Anakkayam 
+910,32,Kerala,91320173,"GOVT.YOGA NAATUROPATHY HOSPITAL,VARKALA"
+911,32,Kerala,91320370,GAH KARUNAGAPPALLY
+912,32,Kerala,91320193,Government Ayurveda Hospital Velimukku
+913,32,Kerala,91320142,Government Ayurveda Dispensary Poothrikka
+914,32,Kerala,91320177,GOVT AYURVEDA DISPENSARY CHOKKAD
+915,32,Kerala,91320197,Government ayurveda dispensary Tirurangadi
+916,32,Kerala,91320183,"GOVT AYURVEDA DISPENSARY ,MELATTUR"
+917,32,Kerala,91320174,GOVERNMENT AYURVEDA DISPENSARY KOLATHUR
+918,32,Kerala,91320164,"Government Ayurveda Dispensary,Karuvarakundu"
+919,32,Kerala,91320152,GOVT AYURVEDA DISPENSARY KOTTAKKAL
+920,32,Kerala,91320167,GovernmentAyurveda Dispensary Paramba
+921,32,Kerala,91320166,G.A.D VETTINAD
+922,32,Kerala,17023,Gov.Ayur.Hosp.Mattanchery
+923,32,Kerala,17020,GAD Aikkaranad
+924,32,Kerala,17027,GAD Veliyathunadu
+925,32,Kerala,17030,"GOVT.AYURVEDA HOSPITAL ,AYOOR"
+926,32,Kerala,91320518,"GOVERNMENT AYURVEDA DISPENSARY, ANCHAL"
+927,32,Kerala,91320517,"GOVERNMENT AYURVEDA DISPENSARY, ADICHANALLOOR"
+928,32,Kerala,91320200,GAD ANDOORKONAM 
+929,32,Kerala,91320219,GOVT AYURVEDA DISPENSARY CHALIAPURAM
+930,32,Kerala,17031,Govt Ayurveda Hospital Paravoor
+931,32,Kerala,17011,"Dist.Ayurveda Hosp.Kozhikode
+"
+932,32,Kerala,17008,Govt Ayur Disp Chadayamangalam
+933,32,Kerala,17018,Govt.Ayurveda Disp.Secretariat
+934,32,Kerala,17019,GAH Pallippuram
+935,32,Kerala,17021,GAD Udayamperoor
+936,32,Kerala,17022,GAD Ezhakkaranad
+937,32,Kerala,17029,GAD Thrikkakara
+938,32,Kerala,17028,GAH Vatakara
+939,32,Kerala,17007,Dist.Ayurveda Hosp.Kannur
+940,32,Kerala,17024,GOVT AYURVEDA HOSPITAL  NORTH PARAVUR
+941,32,Kerala,91320250,GOVT.AYURVEDA HOSPITAL PONNANI
+942,32,Kerala,37276,Govt Ayurveda Dispensary Kavalangadu
+943,32,Kerala,37321,Govt Ayurveda Dispensary Kavana
+944,32,Kerala,37329,GOVT AYURVEDA DISPENSARY KODIKULAM
+945,32,Kerala,37267,Govt Ayurveda Dispensary Kottappady
+946,32,Kerala,37323,Govt Ayurveda Dispensary Kottuvally
+947,32,Kerala,1093,Govt Ayurveda Dispensary Kumarakom
+948,32,Kerala,37206,Govt Ayurveda Dispensary Kumbalam
+949,32,Kerala,37261,Govt Ayurveda Dispensary Kunnukara
+950,32,Kerala,37250,Govt Ayurveda Dispensary Kuttampuzha
+951,32,Kerala,37235,GOVT AYURVEDA DISPENSARY KUZHALMANNAM
+952,32,Kerala,37268,Govt Ayurveda Dispensary Mamalakkandam
+953,32,Kerala,37327,Govt Ayurveda Dispensary Mathur
+954,32,Kerala,99900476,"GOVT AYURVEDA DISPENSARY, NEDUNGOTTUR"
+955,32,Kerala,37312,Govt Ayurveda Dispensary Okkal
+956,32,Kerala,37315,Govt Ayurveda Dispensary Onakkoor South
+957,32,Kerala,99900792,Govt Ayurveda Dispensary Oorakam
+958,32,Kerala,17035,GOVT AYURVEDA DISPENSARY PALLICKAL
+959,32,Kerala,37208,Govt Ayurveda Dispensary Pallikunnu
+960,32,Kerala,99900784,Govt Ayurveda Dispensary Peruvampadam
+961,32,Kerala,99900639,Govt Ayurveda Dispensary Pilicode
+962,32,Kerala,99900798,Govt Ayurveda Dispensary Ponmala
+963,32,Kerala,99900746,Govt Ayurveda Dispensary Poothakulam
+964,32,Kerala,37273,Govt Ayurveda dispensary Pothanikkad
+965,32,Kerala,99900543,GOVT AYURVEDA DISPENSARY PRAMADAM
+966,32,Kerala,37305,GOVT AYURVEDA DISPENSARY PUDUPARIYARAM
+967,32,Kerala,37274,Govt Ayurveda Dispensary Pulluvazhi
+968,32,Kerala,37298,GOVT AYURVEDA DISPENSARY PUTHUCODE
+969,32,Kerala,99900538,GOVT AYURVEDA DISPENSARY RANNI SOUTH
+970,32,Kerala,37244,Govt Ayurveda Dispensary Thaikkattukara
+971,32,Kerala,99900789,Govt Ayurveda Dispensary Thennala
+972,32,Kerala,99900477,GOVT AYURVEDA DISPENSARY THIRUMITTACODE
+973,32,Kerala,37279,Govt Ayurveda Dispensary  Thuruthikkara
+974,32,Kerala,2091,Govt Ayurveda Dispensary Vadasserikkara
+975,32,Kerala,99900808,Govt Ayurveda Dispensary Valluvambram
+976,32,Kerala,37280,Govt Ayurveda Dispensary Vavakkad
+977,32,Kerala,37326,Govt Ayurveda Dispensary Vazhakulam South
+978,32,Kerala,99900536,GOVT AYURVEDA DISPENSARY VECHOOCHIRA
+979,32,Kerala,99900649,Govt Ayurveda Dispensary Veeyapuram
+980,32,Kerala,99900681,Govt Ayurveda Dispensary Vellarada
+981,32,Kerala,943,Govt Ayurveda Dispensary Venmony
+982,32,Kerala,99900575,Govt. Ayurveda Dispersary Cheramaanthuruth
+983,32,Kerala,99900644,Govt Ayurveda Hospital Angadickal North
+984,32,Kerala,941,Govt Ayurveda Hospital Aroor
+985,32,Kerala,1022,Govt Ayurveda Hospital Ayoor
+986,32,Kerala,37304,GOVT AYURVEDA HOSPITAL CHALAVARA
+987,32,Kerala,1030,Govt Ayurveda Hospital Chelakkara
+988,32,Kerala,939,Govt Ayurveda Hospital Cherthala
+989,32,Kerala,956,Govt Ayurveda Hospital Edakkara
+990,32,Kerala,1032,GOVT AYURVEDA HOSPITAL IRINAVU
+991,32,Kerala,961,Govt Ayurveda Hospital Kallar
+992,32,Kerala,99900780,Govt Ayurveda Hospital Kottoor
+993,32,Kerala,99900723,Govt Ayurveda Hospital Manjeri
+994,32,Kerala,37278,Govt Ayurveda Hospital Mannathoor
+995,32,Kerala,99900814,Govt Ayurveda Hospital Mavelikkara
+996,32,Kerala,1023,GOVT AYURVEDA HOSPITAL MEENADOM
+997,32,Kerala,99900579,Govt Ayurveda Hospital Muvattupuzha
+998,32,Kerala,99900539,GOVT AYURVEDA HOSPITAL NATTAKOM
+999,32,Kerala,99900576,GOVT AYURVEDA HOSPITAL NEDUMANGAD
+1000,32,Kerala,1021,GOVT AYURVEDA HOSPITAL NELLIPPARA ALAKODE
+1001,32,Kerala,1338,Govt Ayurveda Hospital Nochad
+1002,32,Kerala,99900578,GOVT AYURVEDA HOSPITAL PALA
+1003,32,Kerala,37301,Govt Ayurveda Hospital Palakuzha
+1004,32,Kerala,1092,Govt Ayurveda Hospital Piravom
+1005,32,Kerala,1083,Govt Ayurveda Hospital Tarur
+1006,32,Kerala,1024,Govt Ayurveda Hospital Thalassery
+1007,32,Kerala,1089,Govt Ayurveda Hospital Thathamanagalam
+1008,32,Kerala,1090,Govt Ayurveda Hospital Vaikom
+1009,32,Kerala,1026,Govt Ayurveda Hospital Veliyannoor
+1010,32,Kerala,962,Govt Ayurveda Panchakarma Hospital Alappuzha
+1011,32,Kerala,37199,Govt Ayurveda Tribal Dispensary Naranammoozhi
+1012,32,Kerala,37258,Govt Ayurveda Tribal Dispensary Pinavoorkudy
+1013,32,Kerala,37198,Govt Ayurveda Visha Vaidya Dispensary Maradu
+1014,32,Kerala,17003,GOVT DISTRICT AYURVEDA HOSPITAL VARKALA
+1015,32,Kerala,37307,GOVT MODEL AYURVEDA DISPENSARY MUNDUR
+1016,32,Kerala,99900664,Govt Taluk Ayurveda Hospital Sulthan Bathery
+1017,32,Kerala,17017,GOVT UNANI DISPENSARY MOGRAL
+1018,32,Kerala,99900748,KOLLAM CORPORATION GOVT AYURVEDA DISPENSARY VADAKKEVILA
+1019,32,Kerala,37241,Payyoli Municipality Taluk Ayurveda Hospital
+1020,32,Kerala,99900633,PERINTHALMANNA MUNICIPALITY GOVT AYURVEDA HOSPITAL PERINTHALMANNA
+1021,32,Kerala,17025,RAMAVARMA DISTRICT AYURVEDA HOSPITAL THRISSUR
+1022,32,Kerala,1035,V K Sm M Govt.ayurveda Hospital Santhipuram
+1023,32,Kerala,17009,DISTRICT AYURVEDA HOSPITAL KOLLAM
+1024,37,Ladakh,37001,District Hospital Kargil
+1025,37,Ladakh,16001,Sonam Nurboo Memorial Hospital
+1026,31,Lakshadweep,19002,Indira Gandhi Hospital Kavaratti
+1027,31,Lakshadweep,1100,Community Health Centre Amini
+1028,23,Madhya Pradesh,23045,District Hospital Khargone
+1029,23,Madhya Pradesh,23009,District Hospital Barwani
+1030,23,Madhya Pradesh,23042,Community Health Center Budni District Sehore
+1031,23,Madhya Pradesh,91233201,D.P.Cantt General Hospital Mhow
+1032,23,Madhya Pradesh,23026,sardar vallabhbhai patel district hospital satna
+1033,23,Madhya Pradesh,91233194,Gorabazar Dispensary
+1034,23,Madhya Pradesh,91233193,Motilal Nehru Hospital
+1035,23,Madhya Pradesh,23049,district bhoj hospital dhar
+1036,23,Madhya Pradesh,23058,District Hospital Sidhi
+1037,23,Madhya Pradesh,23063,District Hospital Vidisha
+1038,23,Madhya Pradesh,23020,District hospital damoh
+1039,23,Madhya Pradesh,23008,"District Hospital Morar , Gwalior"
+1040,23,Madhya Pradesh,23060,DISTRICT HOSPITAL DINDORI
+1041,23,Madhya Pradesh,23050,District Hospital Umaria
+1042,23,Madhya Pradesh,23054,CIVIL HOSPITAL MAIHAR
+1043,23,Madhya Pradesh,983,Composite Hospital Crpf Bhopal
+1044,23,Madhya Pradesh,23059,District Hospital Sagar
+1045,23,Madhya Pradesh,1233,Composite Hospital Crpf Neemuch
+1046,23,Madhya Pradesh,23068,District Hospital Harda
+1047,23,Madhya Pradesh,23034,District hospital Rajgarh
+1048,23,Madhya Pradesh,23025,"CHC, NASRULLAGANJ, SEHORE"
+1049,23,Madhya Pradesh,1197,Civil Hospital Hazira
+1050,23,Madhya Pradesh,23053,J.P Hospital district bhopal
+1051,23,Madhya Pradesh,23006,Bundelkhand Medical College Sagar
+1052,23,Madhya Pradesh,23064,shaheed bhagat singh district hospital balaghat
+1053,23,Madhya Pradesh,23035,Distrcit Hospital Ujjain
+1054,23,Madhya Pradesh,23043,Community Health Center Shyampur District Sehore
+1055,23,Madhya Pradesh,23044,District hospital Khandwa
+1056,23,Madhya Pradesh,23067,District Hospital Chhatarpur
+1057,23,Madhya Pradesh,23056,District hodpital Burhanpur
+1058,23,Madhya Pradesh,23033,district hospital sehore
+1059,23,Madhya Pradesh,23065,District Hospital Datia
+1060,23,Madhya Pradesh,23066,Vijyaraje sindhiya Distrcit Hospital Neemuch
+1061,23,Madhya Pradesh,23057,District Hospital Jhabua
+1062,23,Madhya Pradesh,23062,District Hospital Singrauli
+1063,23,Madhya Pradesh,23030,District Hospital Sheopur
+1064,23,Madhya Pradesh,23048,District Hospital Ratlam
+1065,23,Madhya Pradesh,23051,District Hospital Narsinghpur
+1066,23,Madhya Pradesh,23017,district hospital betul
+1067,23,Madhya Pradesh,23028,District Hospital Panna
+1068,23,Madhya Pradesh,23023,District Hospital Morena
+1069,23,Madhya Pradesh,23047,District Hospital Indore
+1070,23,Madhya Pradesh,23012,mahatma gandhi jila chikitsalay dewas
+1071,23,Madhya Pradesh,23007,District Hospital Katni
+1072,23,Madhya Pradesh,23061,Indra Gandhi Distrcit Hospital Mandsaur
+1073,23,Madhya Pradesh,23041,Distrcit Hospital Anuppur
+1074,23,Madhya Pradesh,23010,"M.G.M. Medical College and associated Hospitals, Indore"
+1075,23,Madhya Pradesh,23013,"District Hospital Bhind,M.P."
+1076,23,Madhya Pradesh,23027,District Hospital Guna
+1077,23,Madhya Pradesh,23005,Netaji Subhash Chandra Bose Medical college Jabalpur
+1078,23,Madhya Pradesh,91233205,Cantonment Board Pachmarhi Dispensary
+1079,23,Madhya Pradesh,23021,Dr. Rajendra prasad Hospital Tikamgarh
+1080,23,Madhya Pradesh,23029,Seth Govind Das Distrcit Hospital Jabalpur
+1081,23,Madhya Pradesh,23046,Bhimrao Ambedkar District Hospital Shajapur
+1082,23,Madhya Pradesh,23032,Distrcit Hospital Narmadapuram
+1083,23,Madhya Pradesh,23036,shri kushabhau thakre district hospital shahdol
+1084,23,Madhya Pradesh,23024,District Hospital Shivpuri
+1085,23,Madhya Pradesh,23018,Distrcit Hospital chhindwara
+1086,23,Madhya Pradesh,23031,Distrcit hospital raisen
+1087,23,Madhya Pradesh,91233195,Cantt General Hospital Saugro
+1088,23,Madhya Pradesh,23015,District Hospital Alirajpur
+1089,23,Madhya Pradesh,23022,District Hospital Ashoknagar
+1090,23,Madhya Pradesh,91233196,"Cantonment General Hospital, Morar Cantt"
+1091,27,Maharashtra,91270248,"Primary Health Centre , Kangaon"
+1092,27,Maharashtra,1056,Sri Bhausaheb Hire Government Medical College And Sarvopchar Rugnalay Dhule
+1093,27,Maharashtra,1054,Shri Vasantrao Naik Government Medical College And Hospital Yavatmal
+1094,27,Maharashtra,1157,Padmabhushan Vasantdada Patil Government Hospital Sangli
+1095,27,Maharashtra,950,Shri Sainath Hospital 
+1096,27,Maharashtra,1139,Rural Health Trainning Centre Shirur Pune
+1097,27,Maharashtra,1155,M A Podar Ayurved Hospital
+1098,27,Maharashtra,1042,Government Medical College And Superspeciality Hospital Nagpur
+1099,27,Maharashtra,1117,Government Medical College And Hospital Baramati
+1100,27,Maharashtra,1080,Government Homeopathy Hospital
+1101,27,Maharashtra,1081,Government Ayurved Hospital Jalgaon
+1102,27,Maharashtra,1039,Government Ayurved College And Hospital Nanded
+1103,27,Maharashtra,1052,Government  Ayurved College and Hospital
+1104,27,Maharashtra,1147,Goverment Dental College
+1105,27,Maharashtra,1037,Gokuldas Tejpal Hospital Mumbai
+1106,27,Maharashtra,91270006,"Kasturba Hospital,Sevagram,Wardha, Maharashtra"
+1107,27,Maharashtra,91270206,MARKET DISPENSARY
+1108,27,Maharashtra,91270002,"PHC Valsang, Maharashtra"
+1109,27,Maharashtra,91270037,ALI YAVAR JUNG NATIONAL INSTITUTE OF SPEECH AND HEARING DISABILITIES  DIVYANGJAN 
+1110,27,Maharashtra,91270198,Aurangabad Cantonment General Hospital
+1111,27,Maharashtra,91270195,Cantonment General Hospital Kamptee
+1112,27,Maharashtra,91270190,Cantonment General Hopsital Devlali
+1113,27,Maharashtra,91270196,"Dr. Babasaheb Ambedkar Cantonment General Hospital,Dehuroad"
+1114,27,Maharashtra,91270202,Dr Babasaheb Ambedkar Cantonment General Hospital
+1115,27,Maharashtra,91270192,Sardar Vallabhbhai Patel Cantonment General Hospital Pune
+1116,27,Maharashtra,91270189,"All India Institute of Medical Sciences, Nagpur"
+1117,27,Maharashtra,91270227,Primary health center Rohana
+1118,27,Maharashtra,91270279,PHC POHANA
+1119,27,Maharashtra,91270262,Police Hospital
+1120,27,Maharashtra,1137,Government Medical College And Hospital Sindhudurg
+1121,27,Maharashtra,1048,Directorate Of Medical Education And Research
+1122,27,Maharashtra,1161,Government Ayurved College And Hospital Dharashiv
+1123,27,Maharashtra,1051,Government Ayurved College Baramati
+1124,27,Maharashtra,1121,Government Dental College and  Hospital
+1125,27,Maharashtra,1120,Government Homoeopathy College And Hospital Jalgaon
+1126,27,Maharashtra,1058,Dr Vaishyampayan  Memorial Medical College And Shri Ch Shivaji Maharaj Sarvopchar Rugnalaya Solapur
+1127,27,Maharashtra,1038,Government Medical College And Hospital Miraj
+1128,27,Maharashtra,1148,Rural Health Training Center Paithan
+1129,27,Maharashtra,1118,Dr Shankarrao Chavan Government Medical College Nanded
+1130,27,Maharashtra,1097,Crpf Composite Hospital
+1131,27,Maharashtra,1050,Cama And Albless Hospital
+1132,27,Maharashtra,1053,B. J. Govt Medical College and Sasoon General Hospital
+1133,27,Maharashtra,21003,All India Institute of Physical Medicine and Rehabilitation
+1134,27,Maharashtra,1115,Swami Ramanad  Teerth Rural Government Medical College And Hospital Ambajogai
+1135,27,Maharashtra,1095,Indira Gandhi Government Medical College And Hospital
+1136,27,Maharashtra,210,Grant Government Medical College And Sir Jj Group Of Hospital Mumbai
+1137,27,Maharashtra,1145,Government Medical College Chandrapur
+1138,27,Maharashtra,1125,Chhatrapati Sambhaji Maharaj Government Medical College and Hospital Satara
+1139,27,Maharashtra,1162,Vilasrao Deshmukh Goverment Medical Colleage And Superspeciality Hospital Latur
+1140,27,Maharashtra,1163,Government Medical College and Superspeciality Hospital
+1141,27,Maharashtra,91270254,Rural Hospital Karanja  Gh 
+1142,27,Maharashtra,91270256,"PRIMARY HEALTH CENTER,NACHANGAON"
+1143,27,Maharashtra,91270258,Urban Primary Health
+1144,27,Maharashtra,1114,Government Medical College And Hospital Jalgaon
+1145,27,Maharashtra,91270272,Primary Health center Waifad
+1146,27,Maharashtra,91270217,Rural Hospital Ashti 
+1147,27,Maharashtra,91270263,Railway Hospital
+1148,27,Maharashtra,91270226,Primary Health Centre Vijaygopal
+1149,27,Maharashtra,91270253,Primary Health Center Talegaon T 
+1150,27,Maharashtra,91270201,"Dr. B. R. Ambedkar Cantonment Hospital,Ahmednagar"
+1151,27,Maharashtra,91270246,PHC SINDHI RAILWAY
+1152,27,Maharashtra,91270239,"Primary health center, sarwadi"
+1153,27,Maharashtra,91270260,Primary Health Center Sahur
+1154,27,Maharashtra,91270243,"Primary Health Centre ,Nandori"
+1155,27,Maharashtra,91270264,Civil Hospital Vaccination Centre
+1156,27,Maharashtra,91270236,Primary Health Center Hamdapur
+1157,27,Maharashtra,91270265,Gandhi Memorial Leprosy Foundation
+1158,27,Maharashtra,21001,"NMMC General Hospital, Vashi, Maharashtra"
+1159,27,Maharashtra,91270229,Primary Health Center Burkoni
+1160,27,Maharashtra,91270244,PRIMARY HEALTH CENTER KHARANGANA MORANGANA 
+1161,27,Maharashtra,91270245,"Primary Health Centre, Muradgaon  B "
+1162,27,Maharashtra,91270221,primary health centre antora
+1163,27,Maharashtra,91270209,Command Hospital  SC  Pune
+1164,27,Maharashtra,91270136,District Women Hospital Akola
+1165,27,Maharashtra,91270152,B. J. GOVT MEDICAL COLLEGE   SASSOON GENERAL HOSPITALS PUNE
+1166,27,Maharashtra,1130,Rajarshee Chhatrapati Shahu Maharaj Government Medical College and Chhatrapati Pramilatai Raje Hospital
+1167,27,Maharashtra,1112,"Government Medical College and Hospital, Nandurbar"
+1168,27,Maharashtra,1127,Government Medical College And Hospital Dharashiv
+1169,27,Maharashtra,1116,Government Medical College and Hospital
+1170,27,Maharashtra,91270210,INHS Asvini
+1171,27,Maharashtra,91270231,Primary Health Centre Girad
+1172,27,Maharashtra,1129,Health Unit Palghar
+1173,27,Maharashtra,1096,Composite Hospital Crpf Nagpur
+1174,27,Maharashtra,1057,Urban Health Centre Bandra
+1175,14,Manipur,22001,Regional Institute of Medical Sciences
+1176,14,Manipur,405,Chc Kangpokpi
+1177,17,Meghalaya,91170015,Jeevan Ram Goenka Cantonment General Hospital
+1178,17,Meghalaya,1107,Meghalaya Institute of Mental Health and Neurological Science
+1179,17,Meghalaya,99901070,100 Bedded Mch Hospital Jowai
+1180,17,Meghalaya,20005,Tura Civil Hospital
+1181,17,Meghalaya,20004,civil hospital shillong
+1182,17,Meghalaya,1045,Capfs Composite Bsf Shillong
+1183,17,Meghalaya,2010,Tirot Sing Memorial Civil Hospital
+1184,17,Meghalaya,91170005,"NEIGRIHMS, Shillong, Meghalaya"
+1185,17,Meghalaya,20002,NORTH EASTERN INDIRA GANDHI REGIONAL INSTITUTE OF HEALTH AND MEDICAL SCIENCES
+1186,15,Mizoram,973,Zoram Medical College and Hospital Falkawn
+1187,15,Mizoram,1206,Capfs Composite Hospital Bsf Aizawl
+1188,13,Nagaland,1059,Assam Rifles Composite Hospital
+1189,13,Nagaland,99901118,District Hospital Tuensang Nagaland
+1190,21,Odisha,91210009,"S.V.P Post Graduate Institute Of Pediatrics, Cuttack, Odisha"
+1191,21,Odisha,26002,Swami Vivekanand National Institute of Rehabilitation Training and Research
+1192,21,Odisha,91210005,"AIIMS, Bhubaneswar, Odisha"
+1193,21,Odisha,91210006,"Acharya Harihar Regional Cancer Centre, Cuttack, Odisha"
+1194,21,Odisha,1234,Composite Hospital Crpf Nayapalli
+1195,34,Puducherry,91340005,"Govt General Hospital, Yanam"
+1196,34,Puducherry,91340020,"COMMUNITY HEALTH CENTRE, PALLOOR"
+1197,34,Puducherry,27004,INDIRA GANDHI GOVERNMENT GENERAL HOSPITAL AND POST GRADUATE INSTITUTE
+1198,34,Puducherry,27005,RAJIV GANDHI GOVERNMENT WOMEN AND CHILDREN HOSPITAL
+1199,34,Puducherry,27006,Indira Gandhi Medical College and Research Institute
+1200,3,Punjab,275,Guru Nanak Dev Hospital Complex
+1201,3,Punjab,1213,Composite Hospital Bsf Jalandhar
+1202,3,Punjab,211,Government Medical College and Rajindra Hospital
+1203,3,Punjab,363,"Guru Gobind Singh Medical College Hospital, Faridkot (Punjab)"
+1204,3,Punjab,946,Dr Br Ambedkar State Institute Of Medical Sciences
+1205,3,Punjab,91030049,Government Medical College and Rajindera Hospital 
+1206,3,Punjab,91030026,War Memorial XXIX Punjabis Cantonment General Hospital
+1207,3,Punjab,91030024,"Cantonment General Hospital, Cantonment Board Ferozepur"
+1208,3,Punjab,66,Demo HospitAL
+1209,3,Punjab,91030025,Cantonment Board Dispensary Amritsar Cantt
+1210,3,Punjab,91030019,AIIMS Bathinda
+1211,8,Rajasthan,10004,DEMO ORS G
+1212,8,Rajasthan,91080062,Cantonment Board Ajmer Dispensary
+1213,8,Rajasthan,91080006,"National Institute of Ayurveda Hospital, Jaipur, Rajasthan"
+1214,8,Rajasthan,1036,COMPOSITE HOSPITAL BSF JODHPUR
+1215,8,Rajasthan,1215,Composite Hospital Crpf Ajmer
+1216,33,Tamil Nadu,91330038,Shri. Gulabchand Jain Cantonment Dispensary Pallavaram
+1217,33,Tamil Nadu,91330039,"Cantonment Dispensary Cum Maternity Centre, St. Thomas Mount"
+1218,33,Tamil Nadu,1200,Composite Hospital Crpf
+1219,33,Tamil Nadu,91330035,"Cantonment General Hospital, Wellington"
+1220,36,Telangana,36001,"Government General Hospital, Nizamabad, Telangana"
+1221,36,Telangana,36002,Gov.Area Hospital Narayanpet
+1222,36,Telangana,36004,KOSGI CIVIL HOSPITAL
+1223,36,Telangana,91360054,"Sardar Vallabhbhai Patel Cantonment General Hospital Bolaram, Secunderabad"
+1224,36,Telangana,1218,Ch Crpf Hyd
+1225,36,Telangana,36006,"Gov.General Hospital,Mahabubnagar,Telangana"
+1226,36,Telangana,36003,CHC BADEPALLY
+1227,36,Telangana,91360057,"CANTONMENT DISPENSARY, BALAMRAI."
+1228,36,Telangana,91360001,DEMO ORS STANDALONE
+1229,36,Telangana,91360056,"CANTONMENT DISPENSARY, PICKET"
+1230,36,Telangana,36008,AREA HOSPITAL NIRMAL
+1231,36,Telangana,91360055,CANTONMENT DISPENSARY TRIMULGHERYY 
+1232,16,Tripura,32033,Gandacherra SDH
+1233,16,Tripura,32034,Bimal Sinha Memorial Subdivisional Hospital
+1234,16,Tripura,91162042,Tripura Medical College & Dr. BRAM Teaching Hospital
+1235,16,Tripura,32038,Longtharai Vallley Sub Divisional Hospital
+1236,16,Tripura,32019,Gomati District Hospital
+1237,16,Tripura,32022,Melaghar S D Hospital
+1238,16,Tripura,32020,Tripura Sundari Sub Divisional Hospital
+1239,16,Tripura,32032,Belonia SDH
+1240,16,Tripura,32036,Kanchanpur Sub Divisional Hospital
+1241,16,Tripura,32037,Rajib Gandhi Memorial Sub Divisional Hospital
+1242,16,Tripura,32030,Dhalai District Hospital
+1243,16,Tripura,32021,Indira Gandhi Memorial Hospital
+1244,16,Tripura,32024,Khowai District Hospital
+1245,16,Tripura,32029,District Hospital North Tripura Dharmanagar
+1246,16,Tripura,32018,AMARPUR SUB DIVISIONAL HOSPITAL
+1247,16,Tripura,32027,District Hospital South Tripura Santirbazar
+1248,16,Tripura,32028,UNAKOTI DISTRICT HOSPITAL
+1249,16,Tripura,32031,Bishalghar Sub Divisional Hospital
+1250,16,Tripura,32035,Sabroom Sub Divisional Hospital
+1251,16,Tripura,91160006,Regional Cancer Center Agartala Tripura
+1252,16,Tripura,2048,Gachirampara Primary Health Centre
+1253,16,Tripura,1,AGMC & Gobind Ballav Pant Hospital
+1254,5,Uttarakhand,91050016,"LD Bhatt Govt. Hospital, Kashipur, Udham Singh Nagar"
+1255,5,Uttarakhand,91050070,"CHC, Jaspur, Udham Singh Nagar"
+1256,5,Uttarakhand,91050028,"District Hospital, Rudraprayag"
+1257,5,Uttarakhand,91050160,Cantonment General Hospital Lansdowne
+1258,5,Uttarakhand,91050059,"Govt. Combined Hospital, Kotdwar, Pauri Garhwal"
+1259,5,Uttarakhand,91050049,"Sri Dev Suman Combined Hospital, Narendernagar, Tehri Garhwal"
+1260,5,Uttarakhand,91050044,"B D Pandey Female Hospital, Nainital"
+1261,5,Uttarakhand,91050154,Pandit Madan Mohan Upadhyay Cantt Dispensary Ranikhet
+1262,5,Uttarakhand,91050021,"Combined Hospital, Tanakpur, Champawat"
+1263,5,Uttarakhand,1245,Jnsm Government Hospital
+1264,5,Uttarakhand,91050056,"Soban Singh Jeena Base Hospital, Haldwani, Nainital"
+1265,5,Uttarakhand,91050027,"Government Mela Hospital, Haridwar"
+1266,5,Uttarakhand,91050048,"District Hospital, Baurari, Tehri garhwal"
+1267,5,Uttarakhand,33007,"Govt. Doon Medical College Hospital, Dehradun"
+1268,5,Uttarakhand,91050068,"CHC, Sitarganjngh, Udham Singh Nagar"
+1269,5,Uttarakhand,91050069,"CHC, Khatima, Udham Singh Nagar"
+1270,5,Uttarakhand,91050013,"Jawahar Lal Nehru District Hospital, Rudrapur, Udham Singh Nagar"
+1271,5,Uttarakhand,91050046,"Shyam Lal Sah District Hospital, Bageshwar"
+1272,5,Uttarakhand,91050050,"Combined Hospital, Premnagar, Dehradun"
+1273,5,Uttarakhand,91050018,"H.M.G District Hospital, Haridwar"
+1274,5,Uttarakhand,91050067,"S B B Patel CHC, Kichha, Udham Singh Nagar"
+1275,5,Uttarakhand,91050040,"M S Mehta CHC Baijnath, Bageshwar"
+1276,5,Uttarakhand,91050038,"B D Pandey District Hospital, Pithoragarh"
+1277,5,Uttarakhand,91050025,"District Hospital, Uttarkashi"
+1278,5,Uttarakhand,91050053,"H.G.Pant District Female Hospital, Pithoragarh"
+1279,5,Uttarakhand,91050003,"L S  N S Bhandari Smarak, District Hospital, Gopeswhar, Chamoli"
+1280,5,Uttarakhand,91050055,"Victor Mohan Joshi Female Hospital, Almora"
+1281,5,Uttarakhand,91050058,"Govardhan Tiwari Base Hospital,  Almora"
+1282,5,Uttarakhand,91050051,"St. Marys Hospital, Mussoorie, Dehradun"
+1283,5,Uttarakhand,91050164,Cantt Board Dispensary Almora Cantt
+1284,5,Uttarakhand,91050041,"SPS Government Hospital, Rishikesh"
+1285,5,Uttarakhand,91050061,"District Women Hospital, Pauri Garhwal"
+1286,5,Uttarakhand,91050023,"Combined Hospital, Ramnagar, Nainital"
+1287,5,Uttarakhand,91050086,"CHC, Gairsain, Chamoli
+"
+1288,5,Uttarakhand,91050155,Cantonment General Hospital Dehradun
+1289,5,Uttarakhand,91050047,"CHC, Lohaghat, Champawat"
+1290,5,Uttarakhand,91050026,"J.N Sinha Memorial Hospital, Roorkee, Haridwar"
+1291,5,Uttarakhand,91050071,"CHC, Bazpur, Udham Singh Nagar
+"
+1292,5,Uttarakhand,91050157,Cantonment Board Dispensary Nainital
+1293,5,Uttarakhand,33001,"All India Institute of Medical Sciences,Rishikesh"
+1294,5,Uttarakhand,33002,District Hospital Almora
+1295,5,Uttarakhand,91050064,"Combined Hospital, Srinagar, Pauri Garhwal"
+1296,5,Uttarakhand,91050080,"B D Pandey Male Hospital, Nainital
+"
+1297,5,Uttarakhand,91050090,District Hospital Champawat
+1298,5,Uttarakhand,91050159,"Cantonment Board General Hospital, Roorkee"
+1299,5,Uttarakhand,91050074,"CHC, Karanprayag, Chamoli"
+1300,5,Uttarakhand,91050063,"District Hospital, Pauri Garhwal"
+1301,5,Uttarakhand,91050054,"Government Female Hospital, Haldwani, Nainital"
+1302,5,Uttarakhand,91050156,"Cantonment General Hospital, Clement Town"
+1303,5,Uttarakhand,91050024,"District Female Hospital, Haridwar"
+1304,5,Uttarakhand,91050037,"CHC, Doiwala, Dehradun"
+1305,5,Uttarakhand,33006,"Pandit Deen Dayal Upadhyay(Coronation Hospital), Dehradun"
+1306,5,Uttarakhand,91050030,"CHC, Vikasnagar, Dehradun"
+1307,5,Uttarakhand,91050075,"CHC, Joshimath,Chamoli
+"
+1308,5,Uttarakhand,99900007,Freedom Fighter Autar Singh Topwal              District Hospital Baurari
+1309,9,Uttar Pradesh,99597,100 Bedded Mother & Child Hospital Wing Chandauli
+1310,9,Uttar Pradesh,99605,Primary Health Centre Ashnahar
+1311,9,Uttar Pradesh,99607,Primary Health Centre Khairatiya
+1312,9,Uttar Pradesh,99610,Community Health Centre Hargaon
+1313,9,Uttar Pradesh,99413,Community Health Centre Khaga
+1314,9,Uttar Pradesh,99611,Community Health Centre Sanda (Sakran)
+1315,9,Uttar Pradesh,99133,Bhau Rao Devras Combined Hospital Lucknow
+1316,9,Uttar Pradesh,99341,District Female Hospital Ghazipur
+1317,9,Uttar Pradesh,99596,Rana Beni Madhaw Singh District Hospital Raebareli
+1318,9,Uttar Pradesh,99296,District Combined Hospital Sant Kabir Nagar
+1319,9,Uttar Pradesh,99192,District Combined Hospital Shrawasti
+1320,9,Uttar Pradesh,99269,Community Health Centre Baghpat
+1321,9,Uttar Pradesh,99166,Uma Shanker Dixit District Female Hospital Unnao
+1322,9,Uttar Pradesh,99565,Community Health Centre Campierganj
+1323,9,Uttar Pradesh,99599,District Women Hospital Pratapgarh Attach ASMC Pratapgarh
+1324,9,Uttar Pradesh,99900174,Uphc Meerabhavan
+1325,9,Uttar Pradesh,99900357,Uphc Natbir Puliya
+1326,9,Uttar Pradesh,99153,Community Health Centre Marwatiya
+1327,9,Uttar Pradesh,99228,Community Health Centre Sahjanwan
+1328,9,Uttar Pradesh,99353,Community Health Centre Phoolpur
+1329,9,Uttar Pradesh,99354,Community Health Centre Bardah
+1330,9,Uttar Pradesh,99231,Community Health Centre Jasrana
+1331,9,Uttar Pradesh,99274,Community Health Centre Anupshehar
+1332,9,Uttar Pradesh,99158,District Hospital Lakhimpur Kheri
+1333,9,Uttar Pradesh,99608,Primary Health Centre Baniyani
+1334,9,Uttar Pradesh,99264,District Women Hospital KMC Bulandshahr
+1335,9,Uttar Pradesh,99638,Community Health Centre Amauli
+1336,9,Uttar Pradesh,99625,Community Health Centre Rohaniya
+1337,9,Uttar Pradesh,99275,Community Health Centre Muni
+1338,9,Uttar Pradesh,99276,Community Health Centre Siyana
+1339,9,Uttar Pradesh,99277,Community Health Centre Shikarpur
+1340,9,Uttar Pradesh,99288,Community Health Centre Dudhi
+1341,9,Uttar Pradesh,99289,Community Health Centre Ghorwal
+1342,9,Uttar Pradesh,99294,Community Health Centre Mall
+1343,9,Uttar Pradesh,99297,Community Health Centre Bah
+1344,9,Uttar Pradesh,99147,Community Health Centre Koilsa Azamgarh
+1345,9,Uttar Pradesh,99300,Community Health Centre Fatehabad
+1346,9,Uttar Pradesh,99308,Community Health Centre Shamli
+1347,9,Uttar Pradesh,99327,Community Health Centre Mitoli
+1348,9,Uttar Pradesh,99330,Community Health Centre Mohammadi
+1349,9,Uttar Pradesh,99331,Community Health Centre Nighasan
+1350,9,Uttar Pradesh,99334,Community Health Centre Aalapur
+1351,9,Uttar Pradesh,99307,Community Health Centre Kairana
+1352,9,Uttar Pradesh,99639,Community Health Centre Reusa
+1353,9,Uttar Pradesh,99381,Community Health Centre Beheri
+1354,9,Uttar Pradesh,99336,Community Health Centre Bhiti
+1355,9,Uttar Pradesh,99342,Community Health Centre Musafirkhana
+1356,9,Uttar Pradesh,99343,Community Health Centre Tiloi
+1357,9,Uttar Pradesh,99347,Community Health Centre Naugawan Sadat
+1358,9,Uttar Pradesh,99613,Community Health Centre Tambour
+1359,9,Uttar Pradesh,99386,Community Health Centre Ramnagar (Bareilly)
+1360,9,Uttar Pradesh,99382,Community Health Centre Bithrichainpur
+1361,9,Uttar Pradesh,99384,Community Health Centre Mirganj
+1362,9,Uttar Pradesh,99385,Community Health Centre Nawabganj
+1363,9,Uttar Pradesh,99387,Community Health Centre Aurai
+1364,9,Uttar Pradesh,99389,Community Health Centre Bilsi
+1365,9,Uttar Pradesh,99161,District Hospital (Male) Lalitpur
+1366,9,Uttar Pradesh,99220,Community Health Centre Dibiyapur
+1367,9,Uttar Pradesh,99392,Community Health Centre Dataganj
+1368,9,Uttar Pradesh,99391,Community Health Centre Bisauli
+1369,9,Uttar Pradesh,99394,Community Health Centre Sakaldeeha
+1370,9,Uttar Pradesh,99612,Community Health Centre Aliya
+1371,9,Uttar Pradesh,99614,Community Health Centre Pahla
+1372,9,Uttar Pradesh,99348,Community Health Centre Bikapur
+1373,9,Uttar Pradesh,99350,Community Health Centre Rudauli
+1374,9,Uttar Pradesh,99351,Community Health Centre Sohawal
+1375,9,Uttar Pradesh,99399,Community Health Centre Manikpur
+1376,9,Uttar Pradesh,99352,Community Health Centre Milkipur
+1377,9,Uttar Pradesh,99356,Community Health Centre Kaiserganj
+1378,9,Uttar Pradesh,99185,Community Health Centre Sikandra Rao
+1379,9,Uttar Pradesh,99358,Community Health Centre Motipur (Mihinpurwa)
+1380,9,Uttar Pradesh,99359,Community Health Centre Nanpara
+1381,9,Uttar Pradesh,99360,Community Health Centre Payagpur
+1382,9,Uttar Pradesh,99249,District Women Hospital Barabanki
+1383,9,Uttar Pradesh,99176,District Hospital Mahoba
+1384,9,Uttar Pradesh,99408,Community Health Centre Baraun
+1385,9,Uttar Pradesh,99409,Community Health Centre Kayamganj
+1386,9,Uttar Pradesh,99219,Community Health Centre Ayana
+1387,9,Uttar Pradesh,99615,Community Health Centre Parsendi
+1388,9,Uttar Pradesh,99217,District Combined Hospital Amroha
+1389,9,Uttar Pradesh,99149,District Male Hospital Hardoi
+1390,9,Uttar Pradesh,99361,Community Health Centre Narhi
+1391,9,Uttar Pradesh,99362,Community Health Centre Rasra
+1392,9,Uttar Pradesh,99152,District Male Hospital Orai
+1393,9,Uttar Pradesh,99214,District Women Hospital Rampur
+1394,9,Uttar Pradesh,99410,Community Health Centre Rajepur
+1395,9,Uttar Pradesh,99412,Community Health Centre Husainganj
+1396,9,Uttar Pradesh,99414,Community Health Centre Sirsaganj
+1397,9,Uttar Pradesh,99416,Community Health Centre Dadri
+1398,9,Uttar Pradesh,99238,Community Health Centre Baldeo
+1399,9,Uttar Pradesh,99323,Community Health Centre Sidhauli
+1400,9,Uttar Pradesh,99211,Mahatma Jyotiba Phule District Hospital Ambedkar Nagar
+1401,9,Uttar Pradesh,99247,Community Health Centre Siau
+1402,9,Uttar Pradesh,99418,Community Health Centre Dasna
+1403,9,Uttar Pradesh,99626,Community Health Centre Nasirabad
+1404,9,Uttar Pradesh,99363,Community Health Centre Reoti
+1405,9,Uttar Pradesh,99364,Community Health Centre Sikenderpur
+1406,9,Uttar Pradesh,99196,District Combined Hospital Balrampur
+1407,9,Uttar Pradesh,99420,Community Health Centre Muradnagar
+1408,9,Uttar Pradesh,99617,Community Health Centre Hathgam
+1409,9,Uttar Pradesh,99421,Community Health Centre Baruin Zamania
+1410,9,Uttar Pradesh,99637,Community Health Centre Rampur Mathura
+1411,9,Uttar Pradesh,99419,Community Health Centre Loni
+1412,9,Uttar Pradesh,99423,Community Health Centre Jakhania
+1413,9,Uttar Pradesh,99425,Community Health Centre Mohammdabad
+1414,9,Uttar Pradesh,99450,Community Health Centre Mariyahoo
+1415,9,Uttar Pradesh,99451,Community Health Centre Shahganj
+1416,9,Uttar Pradesh,99227,Community Health Centre Sarsai Nawar
+1417,9,Uttar Pradesh,99533,Community Health Centre Gunnour
+1418,9,Uttar Pradesh,99534,Community Health Centre Sambhal
+1419,9,Uttar Pradesh,99569,District Combined Hospital Chakia
+1420,9,Uttar Pradesh,99398,Community Health Centre Naugarh
+1421,9,Uttar Pradesh,99194,100 Bedded MCH Wing District Female Hospital Mainpuri
+1422,9,Uttar Pradesh,99365,Community Health Centre Siyar
+1423,9,Uttar Pradesh,99345,Community Health Centre Dhanaura
+1424,9,Uttar Pradesh,99366,Community Health Centre Sonwani
+1425,9,Uttar Pradesh,99367,Community Health Centre Nand Nagar Khajuria
+1426,9,Uttar Pradesh,99368,Community Health Centre Tulsipur
+1427,9,Uttar Pradesh,99457,Community Health Centre Chhibramau
+1428,9,Uttar Pradesh,99458,Community Health Centre Kannauj
+1429,9,Uttar Pradesh,99369,Community Health Centre Uttraula
+1430,9,Uttar Pradesh,99216,District Combined Hospital Shamli
+1431,9,Uttar Pradesh,99306,Community Health Centre Rampur Maniharan
+1432,9,Uttar Pradesh,99225,Community Health Centre Rajpur
+1433,9,Uttar Pradesh,99461,Community Health Centre Derapur
+1434,9,Uttar Pradesh,99463,Community Health Centre Rasulabad
+1435,9,Uttar Pradesh,99335,Community Health Centre Akbarpur
+1436,9,Uttar Pradesh,99370,Community Health Centre Atarra
+1437,9,Uttar Pradesh,99371,Community Health Centre Baberu
+1438,9,Uttar Pradesh,99465,Community Health Centre Sikandra
+1439,9,Uttar Pradesh,99467,Community Health Centre Ghatampur
+1440,9,Uttar Pradesh,99468,Community Health Centre Kalyanpur
+1441,9,Uttar Pradesh,99469,Community Health Centre Sarsaul
+1442,9,Uttar Pradesh,99372,Community Health Centre Bisanda
+1443,9,Uttar Pradesh,99148,Community Health Centre Bilariaganj
+1444,9,Uttar Pradesh,99205,District Combined Hospital Kushinagar
+1445,9,Uttar Pradesh,99316,Community Health Centre Chayal
+1446,9,Uttar Pradesh,99303,Community Health Centre Deoband
+1447,9,Uttar Pradesh,99473,Community Health Centre Hata
+1448,9,Uttar Pradesh,99621,Community Health Centre Bachharawan
+1449,9,Uttar Pradesh,99476,Community Health Centre Kasia
+1450,9,Uttar Pradesh,99478,Community Health Centre Tamkuhi
+1451,9,Uttar Pradesh,99490,Community Health Centre Ghosi
+1452,9,Uttar Pradesh,99339,Community Health Centre Amethi
+1453,9,Uttar Pradesh,99373,Community Health Centre Jaspura
+1454,9,Uttar Pradesh,99374,Community Health Centre Naraini
+1455,9,Uttar Pradesh,99375,Community Health Centre Jatabarauli
+1456,9,Uttar Pradesh,99376,Community Health Centre Fatehpur
+1457,9,Uttar Pradesh,99377,Community Health Centre Haidargarh
+1458,9,Uttar Pradesh,99378,Community Health Centre Ramnagar
+1459,9,Uttar Pradesh,99379,Community Health Centre Ramsanehighat
+1460,9,Uttar Pradesh,99401,Community Health Centre Pahari
+1461,9,Uttar Pradesh,99630,Community Health Centre Bhangha Shrawasti
+1462,9,Uttar Pradesh,99486,Community Health Centre Nichlaul
+1463,9,Uttar Pradesh,99488,Community Health Centre Kishani
+1464,9,Uttar Pradesh,99222,Community Health Centre Bharthana
+1465,9,Uttar Pradesh,99622,Community Health Centre Deen Shah Gaura
+1466,9,Uttar Pradesh,99380,Community Health Centre Sirauli Gauspur
+1467,9,Uttar Pradesh,99388,Community Health Centre Gopiganj
+1468,9,Uttar Pradesh,99395,Community Health Centre Bogwara
+1469,9,Uttar Pradesh,99396,Community Health Centre Chakiya
+1470,9,Uttar Pradesh,99397,Community Health Centre Dhnapur
+1471,9,Uttar Pradesh,99400,Community Health Centre Mau
+1472,9,Uttar Pradesh,99454,Community Health Centre Gursarai
+1473,9,Uttar Pradesh,99455,Community Health Centre Mauranipur
+1474,9,Uttar Pradesh,99570,District Hospital Rampur
+1475,9,Uttar Pradesh,99494,Community Health Centre Lalganj (Mirzapur)
+1476,9,Uttar Pradesh,99495,Community Health Centre Marihan
+1477,9,Uttar Pradesh,99497,Community Health Centre Bilari
+1478,9,Uttar Pradesh,99498,Community Health Centre Kanth
+1479,9,Uttar Pradesh,99499,Community Health Centre Mundapandey
+1480,9,Uttar Pradesh,99500,Community Health Centre Thakurdwara
+1481,9,Uttar Pradesh,99503,Community Health Centre Makhiyali
+1482,9,Uttar Pradesh,99504,Community Health Centre Amaria
+1483,9,Uttar Pradesh,99629,Community Health Centre Jatuatappa
+1484,9,Uttar Pradesh,99245,Community Health Centre Nagina
+1485,9,Uttar Pradesh,99299,Community Health Centre Etmadpur
+1486,9,Uttar Pradesh,99403,Community Health Centre Barhaj
+1487,9,Uttar Pradesh,99631,Community Health Centre Dhata
+1488,9,Uttar Pradesh,99402,Community Health Centre Shivrampur
+1489,9,Uttar Pradesh,99493,Community Health Centre Chunar
+1490,9,Uttar Pradesh,99332,Community Health Centre Pallia
+1491,9,Uttar Pradesh,99404,Community Health Centre Bhatni
+1492,9,Uttar Pradesh,99429,Community Health Centre Khargupur
+1493,9,Uttar Pradesh,99251,100 Bedded Combined Hospital Sirauli Gauspur Barabanki
+1494,9,Uttar Pradesh,99428,Community Health Centre Colonelganj
+1495,9,Uttar Pradesh,99509,Community Health Centre Kunda
+1496,9,Uttar Pradesh,99464,Community Health Centre Shivali
+1497,9,Uttar Pradesh,99405,Community Health Centre Gauribazar
+1498,9,Uttar Pradesh,99407,Community Health Centre Salempur
+1499,9,Uttar Pradesh,99406,Community Health Centre Rudrapur
+1500,9,Uttar Pradesh,99618,Community Health Centre Harchandpur
+1501,9,Uttar Pradesh,99511,Community Health Centre Patti
+1502,9,Uttar Pradesh,99514,Community Health Centre Jasra
+1503,9,Uttar Pradesh,99430,Community Health Centre Mankapur
+1504,9,Uttar Pradesh,99432,Community Health Centre Bansgaon
+1505,9,Uttar Pradesh,99433,Community Health Centre Chauri Chaura
+1506,9,Uttar Pradesh,99434,Community Health Centre Bhathat
+1507,9,Uttar Pradesh,99436,Community Health Centre Ahirori
+1508,9,Uttar Pradesh,99437,Community Health Centre Bilgram
+1509,9,Uttar Pradesh,99435,Community Health Centre Gola Gorakhpur
+1510,9,Uttar Pradesh,99519,Community Health Centre Phulpur
+1511,9,Uttar Pradesh,99516,Community Health Centre Karchhana
+1512,9,Uttar Pradesh,99518,Community Health Centre Meja
+1513,9,Uttar Pradesh,99510,Community Health Centre Lalganj (Pratapgarh)
+1514,9,Uttar Pradesh,99286,Community Health Centre Marhara
+1515,9,Uttar Pradesh,99532,Community Health Centre Chandausi
+1516,9,Uttar Pradesh,99438,Community Health Centre Pihani
+1517,9,Uttar Pradesh,99442,Community Health Centre Kalpi
+1518,9,Uttar Pradesh,99443,Community Health Centre Konch
+1519,9,Uttar Pradesh,99527,Community Health Centre Bilaspur
+1520,9,Uttar Pradesh,99528,Community Health Centre Milak
+1521,9,Uttar Pradesh,99529,Community Health Centre Shahbad
+1522,9,Uttar Pradesh,99536,Community Health Centre Mehdawal
+1523,9,Uttar Pradesh,99444,Community Health Centre Madhougarh
+1524,9,Uttar Pradesh,99445,Community Health Centre Dakore
+1525,9,Uttar Pradesh,99540,Community Health Centre Powayan
+1526,9,Uttar Pradesh,99531,Community Health Centre Tanda (Rampur)
+1527,9,Uttar Pradesh,99452,Community Health Centre Babina
+1528,9,Uttar Pradesh,99324,Community Health Centre Khairabad
+1529,9,Uttar Pradesh,99267,District Women Hospital Ghaziabad
+1530,9,Uttar Pradesh,99440,Community Health Centre Savayjpur
+1531,9,Uttar Pradesh,99439,Community Health Centre Sandila
+1532,9,Uttar Pradesh,99195,Maharaja Tej Singh District Hospital Mainpuri
+1533,9,Uttar Pradesh,99453,Community Health Centre Chirgaon
+1534,9,Uttar Pradesh,99456,Community Health Centre Moth
+1535,9,Uttar Pradesh,99470,Community Health Centre Kasganj
+1536,9,Uttar Pradesh,99474,Community Health Centre Kahdda Turkaha
+1537,9,Uttar Pradesh,99552,Community Health Centre Dubeypur
+1538,9,Uttar Pradesh,99620,Community Health Centre Amawan
+1539,9,Uttar Pradesh,99554,Community Health Centre Kadipur
+1540,9,Uttar Pradesh,99555,Community Health Centre Lambhua
+1541,9,Uttar Pradesh,99556,Community Health Centre Bangarmau
+1542,9,Uttar Pradesh,99558,Community Health Centre Hasanganj
+1543,9,Uttar Pradesh,99560,Community Health Centre Purwa
+1544,9,Uttar Pradesh,99562,Community Health Centre Araziline
+1545,9,Uttar Pradesh,99559,Community Health Centre Patan
+1546,9,Uttar Pradesh,99285,Community Health Centre Jalesar
+1547,9,Uttar Pradesh,99551,Community Health Centre Baldirai
+1548,9,Uttar Pradesh,99563,Community Health Centre Cholapur
+1549,9,Uttar Pradesh,99479,Community Health Centre Bar
+1550,9,Uttar Pradesh,99522,Community Health Centre Dalmau
+1551,9,Uttar Pradesh,99480,Community Health Centre Birdha
+1552,9,Uttar Pradesh,99481,Community Health Centre Madawara
+1553,9,Uttar Pradesh,99482,Community Health Centre Mahroni
+1554,9,Uttar Pradesh,99483,Community Health Centre Talbehat
+1555,9,Uttar Pradesh,99489,Community Health Centre Fatehpur Mandaon
+1556,9,Uttar Pradesh,99492,Community Health Centre Mohammdabad (Mau)
+1557,9,Uttar Pradesh,99496,Community Health Centre Vindhyachal (Mirzapur)
+1558,9,Uttar Pradesh,99411,Community Health Centre Bindki
+1559,9,Uttar Pradesh,99507,Community Health Centre Puranpur
+1560,9,Uttar Pradesh,99415,Community Health Centre Dadha
+1561,9,Uttar Pradesh,99513,Community Health Centre Sandwa Chandrika
+1562,9,Uttar Pradesh,99515,Community Health Centre Chaka (Sadar Tehsil)
+1563,9,Uttar Pradesh,99521,Community Health Centre Belabhela
+1564,9,Uttar Pradesh,99321,Community Health Centre Mahmudabad
+1565,9,Uttar Pradesh,99623,Community Health Centre Shivgarh
+1566,9,Uttar Pradesh,99134,Ram Sagar Mishra 100 Bedded Combined Hospital
+1567,9,Uttar Pradesh,99315,Community Health Centre Karari
+1568,9,Uttar Pradesh,99491,Community Health Centre Kopaganj
+1569,9,Uttar Pradesh,99523,Community Health Centre Lalganj (Raebareli)
+1570,9,Uttar Pradesh,99524,Community Health Centre Mahrajganj
+1571,9,Uttar Pradesh,99344,Community Health Centre Amroha
+1572,9,Uttar Pradesh,99525,Community Health Centre Salon
+1573,9,Uttar Pradesh,99526,Community Health Centre Unchahar
+1574,9,Uttar Pradesh,99537,Community Health Centre Dadraul
+1575,9,Uttar Pradesh,99426,Community Health Centre Saidpur
+1576,9,Uttar Pradesh,99427,Community Health Centre Subhakharpur
+1577,9,Uttar Pradesh,99538,Community Health Centre Jalalabad
+1578,9,Uttar Pradesh,99141,100 Bedded MCH Hospital Sonbhadra
+1579,9,Uttar Pradesh,99140,District Women Hospital Mirzapur
+1580,9,Uttar Pradesh,99328,Community Health Centre Gola
+1581,9,Uttar Pradesh,99624,Community Health Centre Sareni Raebareli
+1582,9,Uttar Pradesh,99270,Community Health Centre Baraut
+1583,9,Uttar Pradesh,99142,District Combined Hospital Sonbhadra
+1584,9,Uttar Pradesh,99138,Community Health Centre Haiser Bazar
+1585,9,Uttar Pradesh,99131,Rani Laxmi Bai Combined Hospital Lucknow
+1586,9,Uttar Pradesh,99539,Community Health Centre Khudaganj
+1587,9,Uttar Pradesh,99167,District Combined Hospital Auraiya
+1588,9,Uttar Pradesh,99159,District Women Hospital Jhansi
+1589,9,Uttar Pradesh,99169,District Combined Hospital Chicholi Auraiya
+1590,9,Uttar Pradesh,99541,Community Health Centre Tilhar
+1591,9,Uttar Pradesh,99165,District Male Hospital Sitapur
+1592,9,Uttar Pradesh,99160,District Women Hospital Lakhimpur Kheri
+1593,9,Uttar Pradesh,99163,District Women Hospital Sitapur
+1594,9,Uttar Pradesh,99180,District Women Hospital Hamirpur
+1595,9,Uttar Pradesh,99143,District Women Hospital Orai
+1596,9,Uttar Pradesh,99164,District Women Hospital Lalitpur
+1597,9,Uttar Pradesh,99627,Community Health Centre Jagatpur
+1598,9,Uttar Pradesh,99168,Uma Shanker Dixit District Male Hospital Unnao
+1599,9,Uttar Pradesh,99151,Community Health Centre Lalganj (Azamgarh)
+1600,9,Uttar Pradesh,99172,Community Health Centre Kabrai
+1601,9,Uttar Pradesh,99182,KPM Hospital Kanpur Nagar
+1602,9,Uttar Pradesh,99204,District Women Hospital Gorakhpur
+1603,9,Uttar Pradesh,99542,Community Health Centre Bhinga
+1604,9,Uttar Pradesh,99544,Community Health Centre Malhipur
+1605,9,Uttar Pradesh,99229,Community Health Centre Didamai
+1606,9,Uttar Pradesh,99212,District Women Hospital Bijnor
+1607,9,Uttar Pradesh,99209,District Women Hospital Saharanpur
+1608,9,Uttar Pradesh,99309,Community Health Centre Unn
+1609,9,Uttar Pradesh,99545,Community Health Centre Basantpur
+1610,9,Uttar Pradesh,99199,District Combined Hospital Vrindavan Mathura
+1611,9,Uttar Pradesh,99201,District Women Hospital Azamgarh
+1612,9,Uttar Pradesh,99202,District Women Hospital Mathura
+1613,9,Uttar Pradesh,99206,District Combined Hospital Maharajganj
+1614,9,Uttar Pradesh,99628,Community Health Centre Khiron
+1615,9,Uttar Pradesh,99207,District Women Hospital Muzaffar Nagar
+1616,9,Uttar Pradesh,99221,Community Health Centre Basreher
+1617,9,Uttar Pradesh,99632,Community Health Centre Jahanabad
+1618,9,Uttar Pradesh,99240,Community Health Centre Mant
+1619,9,Uttar Pradesh,99242,Community Health Centre Rall
+1620,9,Uttar Pradesh,99243,Community Health Centre Dhampur
+1621,9,Uttar Pradesh,99223,Community Health Centre Jaswantnagar
+1622,9,Uttar Pradesh,99177,District Women Hospital Hathras
+1623,9,Uttar Pradesh,99190,District Combined Hospital Kasganj
+1624,9,Uttar Pradesh,99248,District Women Hospital Ayodhya
+1625,9,Uttar Pradesh,99250,Rafi Ahmad Kidwai Memorial District Male Hospital Barabanki
+1626,9,Uttar Pradesh,99253,District Women Hospital Sultanpur
+1627,9,Uttar Pradesh,99178,Deewan Satrughan Singh District Men Hospital
+1628,9,Uttar Pradesh,99197,District Memorial Male Hospital Balrampur
+1629,9,Uttar Pradesh,99200,District Women Hospital Gonda
+1630,9,Uttar Pradesh,99318,Community Health Centre Handia
+1631,9,Uttar Pradesh,99259,Community Health Centre Dhaulana Hapur
+1632,9,Uttar Pradesh,99322,Community Health Centre Mishrikh
+1633,9,Uttar Pradesh,99258,Community Health Centre Hapur
+1634,9,Uttar Pradesh,99284,Community Health Centre Aliganj
+1635,9,Uttar Pradesh,99254,District Women Hospital Meerut
+1636,9,Uttar Pradesh,99546,Community Health Centre Bewa
+1637,9,Uttar Pradesh,99547,Community Health Centre Itwa
+1638,9,Uttar Pradesh,99298,Community Health Centre Baroli Ahir
+1639,9,Uttar Pradesh,99548,Community Health Centre Sohratgarh
+1640,9,Uttar Pradesh,99287,Community Health Centre Mubarakpur
+1641,9,Uttar Pradesh,99549,Community Health Centre Uska Bazar
+1642,9,Uttar Pradesh,99261,District Combined Hospital Hapur
+1643,9,Uttar Pradesh,99266,District MMG Hospital Ghaziabad
+1644,9,Uttar Pradesh,99633,"Community Health Centre Sarai Khalis, Asothar"
+1645,9,Uttar Pradesh,99144,District Women Hospital Bareilly
+1646,9,Uttar Pradesh,99295,District Women Hospital Budaun
+1647,9,Uttar Pradesh,99325,Community Health Centre Maholi
+1648,9,Uttar Pradesh,99271,Community Health Centre Khekra
+1649,9,Uttar Pradesh,99550,Community Health Centre Madhupur (Robertsganj)
+1650,9,Uttar Pradesh,99566,Community Health Centre Harnahi
+1651,9,Uttar Pradesh,99135,Community Health Centre Achnera
+1652,9,Uttar Pradesh,99317,Community Health Centre Sirathu
+1653,9,Uttar Pradesh,99305,Community Health Centre Puwarka
+1654,9,Uttar Pradesh,99273,Community Health Centre Dibai
+1655,9,Uttar Pradesh,99292,Community Health Centre Mohanlalganj
+1656,9,Uttar Pradesh,99900608,100 Beded Dch Sarpataha Bhadohi
+1657,9,Uttar Pradesh,99291,Community Health Centre Kakori
+1658,9,Uttar Pradesh,99293,Community Health Centre Sarojini Nagar
+1659,9,Uttar Pradesh,99268,District Combined Hospital GB Nagar
+1660,9,Uttar Pradesh,99635,Community Health Centre Gondlamau
+1661,9,Uttar Pradesh,99260,Community Health Centre Garh
+1662,9,Uttar Pradesh,99333,Community Health Centre Phardhan
+1663,9,Uttar Pradesh,99422,Community Health Centre Bhadaura
+1664,9,Uttar Pradesh,99313,Civil Hospital Linziganj Farrukhabad
+1665,9,Uttar Pradesh,99314,District Combined Hospital Manjhanpur Kaushambi
+1666,9,Uttar Pradesh,99311,Community Health Centre Budhana
+1667,9,Uttar Pradesh,99337,Community Health Centre Jalaalpur
+1668,9,Uttar Pradesh,99146,District Women Hospital Prayagraj
+1669,9,Uttar Pradesh,99302,Community Health Centre Behat
+1670,9,Uttar Pradesh,99310,Community Health Centre Bhawanpur
+1671,9,Uttar Pradesh,99634,Community Health Centre Gajipur
+1672,9,Uttar Pradesh,99304,Community Health Centre Nakur
+1673,9,Uttar Pradesh,99616,Community Health Centre Asafpur
+1674,9,Uttar Pradesh,99230,Community Health Centre Dhanpura
+1675,9,Uttar Pradesh,99232,Community Health Centre Tundla
+1676,9,Uttar Pradesh,99900606,100 Saiyaa Combined Hospital Hardoi
+1677,9,Uttar Pradesh,99226,Community Health Centre Saifai
+1678,9,Uttar Pradesh,99417,Community Health Centre Jewar
+1679,9,Uttar Pradesh,99255,Community Health Centre Mawana
+1680,9,Uttar Pradesh,99462,Community Health Centre Pukhraya
+1681,9,Uttar Pradesh,99459,Community Health Centre Tirwa
+1682,9,Uttar Pradesh,99466,Community Health Centre Bilhaur
+1683,9,Uttar Pradesh,99256,Community Health Centre Sardhana
+1684,9,Uttar Pradesh,99471,Community Health Centre Patiyali
+1685,9,Uttar Pradesh,99472,Community Health Centre Sahawar
+1686,9,Uttar Pradesh,99636,Community Health Centre Machhrehta
+1687,9,Uttar Pradesh,99477,Community Health Centre Kubernath
+1688,9,Uttar Pradesh,99517,Community Health Centre Koraon
+1689,9,Uttar Pradesh,99383,Community Health Centre Faridpur
+1690,9,Uttar Pradesh,99484,Community Health Centre Farenda
+1691,9,Uttar Pradesh,99485,Community Health Centre Maharajganj
+1692,9,Uttar Pradesh,99487,Community Health Centre Ratanpur
+1693,9,Uttar Pradesh,99215,District Combined Hospital Sambhal
+1694,9,Uttar Pradesh,99319,Community Health Centre Biswan
+1695,9,Uttar Pradesh,99320,Community Health Centre Laharpur
+1696,9,Uttar Pradesh,99501,Community Health Centre Jansath
+1697,9,Uttar Pradesh,99502,Community Health Centre Khatauli
+1698,9,Uttar Pradesh,99390,Community Health Centre Binawar
+1699,9,Uttar Pradesh,99506,Community Health Centre Neoria
+1700,9,Uttar Pradesh,99530,Community Health Centre Swar
+1701,9,Uttar Pradesh,99512,Community Health Centre Raniganj
+1702,9,Uttar Pradesh,99505,Community Health Centre Biselpur
+1703,9,Uttar Pradesh,99508,Community Health Centre Madho Tanda
+1704,9,Uttar Pradesh,99520,Community Health Centre Soraon
+1705,9,Uttar Pradesh,99553,Community Health Centre Jaisinghpur
+1706,9,Uttar Pradesh,99535,Community Health Centre Khalilabad
+1707,9,Uttar Pradesh,99272,Community Health Centre Gulawati
+1708,9,Uttar Pradesh,99326,Community Health Centre Dhaurahra
+1709,9,Uttar Pradesh,99393,Community Health Centre Sahaswan
+1710,9,Uttar Pradesh,99340,Community Health Centre Gauriganj
+1711,9,Uttar Pradesh,99543,Community Health Centre Ikauna
+1712,9,Uttar Pradesh,99588,District Women Hospital Jaunpur
+1713,9,Uttar Pradesh,99139,Community Health Centre Bhadohi
+1714,9,Uttar Pradesh,99145,District Women Hospital Basti
+1715,9,Uttar Pradesh,99155,Community Health Centre Harraiya Basti
+1716,9,Uttar Pradesh,99595,Mahatma Gandhi District Combined Hospital Siddharth Nagar
+1717,9,Uttar Pradesh,99278,Community Health Centre Lakhawati
+1718,9,Uttar Pradesh,99252,District Hospital Sultanpur
+1719,9,Uttar Pradesh,99154,Community Health Centre Bhanpur
+1720,9,Uttar Pradesh,99208,Swami Kalyan Dev District Hospital Muzaffar Nagar
+1721,9,Uttar Pradesh,99174,Bagla District Hospital Hathras
+1722,9,Uttar Pradesh,99187,Community Health Centre Maudaha
+1723,9,Uttar Pradesh,99263,District Combined Hospital Sikandrabad
+1724,9,Uttar Pradesh,99424,Community Health Centre Kashimabad
+1725,9,Uttar Pradesh,99901794,Chc Amrawlisomali Saltuwa
+1726,9,Uttar Pradesh,99338,Community Health Centre Tanda (Ambedkar Nagar)
+1727,9,Uttar Pradesh,99162,Community Health Centre Chhani
+1728,9,Uttar Pradesh,99184,Community Health Centre Nauranga
+1729,9,Uttar Pradesh,99186,Community Health Centre Muskara
+1730,9,Uttar Pradesh,99355,Community Health Centre Chittaura
+1731,9,Uttar Pradesh,99581,District Female Hospital MCH Wing Akbarpur Kanpur Dehat
+1732,9,Uttar Pradesh,99239,Community Health Centre Goverdhan
+1733,9,Uttar Pradesh,99346,Community Health Centre Hasanpur
+1734,9,Uttar Pradesh,99150,Community Health Centre Mehnagar
+1735,9,Uttar Pradesh,99198,District Women Hospital Balrampur
+1736,9,Uttar Pradesh,99441,Community Health Centre Jalaun
+1737,9,Uttar Pradesh,99246,Community Health Centre Najibabad
+1738,9,Uttar Pradesh,99301,Community Health Centre Kheragarh
+1739,9,Uttar Pradesh,99156,Community Health Centre Rudhauli Basti
+1740,9,Uttar Pradesh,99900461,CHC BANI AT KOTWA BAHADURPUR
+1741,9,Uttar Pradesh,99583,100 Beded Combined Hospital Atrauliya Azamgarh
+1742,9,Uttar Pradesh,99557,Community Health Centre Bichhiya
+1743,9,Uttar Pradesh,99561,Community Health Centre Safipur
+1744,9,Uttar Pradesh,99431,Community Health Centre Wazeerganj
+1745,9,Uttar Pradesh,99446,Community Health Centre Badlapur
+1746,9,Uttar Pradesh,99460,Community Health Centre Akbarpur Kanpur Dehat
+1747,9,Uttar Pradesh,99564,Community Health Centre Gangapur
+1748,9,Uttar Pradesh,99447,Community Health Centre Buxa At Naupedwa
+1749,9,Uttar Pradesh,99449,Community Health Centre Machhalishahar
+1750,9,Uttar Pradesh,99448,Community Health Centre Kerakat
+1751,9,Uttar Pradesh,99567,District Male Hospital Budaun
+1752,9,Uttar Pradesh,99210,Community Health Centre Panwari
+1753,9,Uttar Pradesh,99173,Community Health Centre Charkhari
+1754,9,Uttar Pradesh,99233,Community Health Centre Bhogaon
+1755,9,Uttar Pradesh,99234,Community Health Centre Ghiror (Godhna)
+1756,9,Uttar Pradesh,99235,Community Health Centre Karhal
+1757,9,Uttar Pradesh,99213,Pandit Deendayal Upadyaya District Combined Hospital Bijnor
+1758,9,Uttar Pradesh,99312,District Combined Hospital Chitrakoot
+1759,9,Uttar Pradesh,99188,Community Health Centre Tahbarpur
+1760,9,Uttar Pradesh,99236,Community Health Centre Kuchela
+1761,9,Uttar Pradesh,99237,Community Health Centre Kurawali
+1762,9,Uttar Pradesh,99241,Community Health Centre Chhata
+1763,9,Uttar Pradesh,99244,Community Health Centre Haldaur
+1764,9,Uttar Pradesh,99262,Babu Banarasi Das Gupta Government District Hospital Bulandshahr
+1765,9,Uttar Pradesh,99137,Maharaja Chet Singh District Hospital Bhadohi
+1766,9,Uttar Pradesh,99575,Joint Hospital Bachraun Amroha
+1767,9,Uttar Pradesh,99900491,100 Saiyaa Combined Hospital Kumarganj Faizabad Ayodhya
+1768,9,Uttar Pradesh,99574,SSMJ Hospital Khurja Bulandshahar
+1769,9,Uttar Pradesh,99571,Pandit Kamalapati Tripathi District Hospital Chandauli
+1770,9,Uttar Pradesh,99573,100 Bedded Combined Hospital Chhibramau Kannauj
+1771,9,Uttar Pradesh,99900609,30 Bedded Mch Wing Machalisahar Jaunpur
+1772,9,Uttar Pradesh,99579,District Hospital Mau
+1773,9,Uttar Pradesh,99580,District Women Hospital Mau
+1774,9,Uttar Pradesh,99584,100 Bedded Combined Hospital Tarwa Azamgarh
+1775,9,Uttar Pradesh,99136,Maharaja Balavant Singh District Hospital
+1776,9,Uttar Pradesh,99577,District Women Hospital Moradabad
+1777,9,Uttar Pradesh,99572,District Combined Hospital Kannauj
+1778,9,Uttar Pradesh,99576,Rajkiya Mahila chikitsalay Mughal Sarai Chandauli
+1779,9,Uttar Pradesh,99578,District Women Hospital Varanasi
+1780,9,Uttar Pradesh,99589,Dr B R Ambedkar District Women Hospital Etawah
+1781,9,Uttar Pradesh,99582,District Women Hospital Pilibhit
+1782,9,Uttar Pradesh,99181,Community Health Centre Sadabad
+1783,9,Uttar Pradesh,99179,Community Health Centre Mursan
+1784,9,Uttar Pradesh,99901433,Kanaili Bara
+1785,9,Uttar Pradesh,99591,District Hospital Male Kanpur Dehat
+1786,9,Uttar Pradesh,99592,District Male Hospital Ballia
+1787,9,Uttar Pradesh,99585,District Male Hospital Ayodhya
+1788,9,Uttar Pradesh,99183,Community Health Centre Sasni
+1789,9,Uttar Pradesh,99203,Maharshi Dayanand Saraswati District Male Hospital Mathura
+1790,9,Uttar Pradesh,99590,District Women Hospital Mother & Child Hospital Raebareli
+1791,9,Uttar Pradesh,99594,District Male Hospital Pilibhit
+1792,9,Uttar Pradesh,99586,District Women Hospital Banda
+1793,9,Uttar Pradesh,99587,Shri Chittu Pandey District Women Hospital Ballia
+1794,9,Uttar Pradesh,99593,Amar Shaheed UmaNath Singh District Hospital Jaunpur
+1795,9,Uttar Pradesh,99900603,30 Bedded Mch Wing Mohanlalganj Lucknow
+1796,9,Uttar Pradesh,99900493,50 BEDED COMBINED HOSPITAL CHANDARNAGAR
+1797,9,Uttar Pradesh,99900604,50 Beded Mch Wing Chinhut Lucknow
+1798,9,Uttar Pradesh,99901415,Agota
+1799,9,Uttar Pradesh,99901851,CHC Bawan
+1800,9,Uttar Pradesh,34021,AHM DUFFERIN HOSPITAL KANPUR NAGAR
+1801,9,Uttar Pradesh,99901574,Akhandnagar
+1802,9,Uttar Pradesh,99900819,Arra
+1803,9,Uttar Pradesh,99900139,Ashok Nagar Gaura Manjhanpur
+1804,9,Uttar Pradesh,34014,AUTONOMOUS STATE MEDICAL COLLAGE BABU ISHWAR SHARAN HOSPITAL GONDA
+1805,9,Uttar Pradesh,99900522,"Autonomous State Medical College, Sonebhadra"
+1806,9,Uttar Pradesh,99902508,"Baba Kinaram Autonomous State Medical College (Associated),Pandit Kamalapati Tripathi District Combined Hospital, Chandauli"
+1807,9,Uttar Pradesh,99901406,Babhanjot
+1808,9,Uttar Pradesh,99901473,Badraon
+1809,9,Uttar Pradesh,99901793,Bahadurpur
+1810,9,Uttar Pradesh,99900821,Bangali Mohal
+1811,9,Uttar Pradesh,99900072,Baskhari
+1812,9,Uttar Pradesh,99901760,Bazar Shukul
+1813,9,Uttar Pradesh,99901417,B B Nagar
+1814,9,Uttar Pradesh,99900824,Begumpurwa
+1815,9,Uttar Pradesh,99901575,Bhadaiyan
+1816,9,Uttar Pradesh,99900455,Bhanpur
+1817,9,Uttar Pradesh,99900348,Bhathat
+1818,9,Uttar Pradesh,99901380,Bhiyon
+1819,9,Uttar Pradesh,99901576,Chc Dehdhagupur
+1820,9,Uttar Pradesh,99901458,Chc Doharighat
+1821,9,Uttar Pradesh,99901582,Chc Durgaganj
+1822,9,Uttar Pradesh,99901763,CHC Fursatganj
+1823,9,Uttar Pradesh,99901800,Chc Gainsari Lathawer
+1824,9,Uttar Pradesh,99901392,Chc Jaitpur
+1825,9,Uttar Pradesh,99901438,Chc Kandhla
+1826,9,Uttar Pradesh,99901553,CHC Kharkhoda
+1827,9,Uttar Pradesh,99901554,CHC Machhra
+1828,9,Uttar Pradesh,99901442,Chc Maidhi
+1829,9,Uttar Pradesh,99901459,Chc Majhwara
+1830,9,Uttar Pradesh,99901403,CHC Pachpedwa
+1831,9,Uttar Pradesh,99901396,Chc Payagpur Kot Bazar
+1832,9,Uttar Pradesh,99901386,Chc Ranipur
+1833,9,Uttar Pradesh,37217,Chc Sarnath
+1834,9,Uttar Pradesh,99901573,Chc Satha At Loharsan
+1835,9,Uttar Pradesh,99901408,C H C Tarabganj
+1836,9,Uttar Pradesh,99900514,Chinhat
+1837,9,Uttar Pradesh,99900025,City Polyclinic Basantpur
+1838,9,Uttar Pradesh,99900438,Combined Hospital Thakurganj Lucknow
+1839,9,Uttar Pradesh,99901407,Community Health Center Chhapaiya
+1840,9,Uttar Pradesh,99900499,Community Health Center Gudamba
+1841,9,Uttar Pradesh,99900083,"COMMUNITY HEALTH CENTER,KAPTANGANJ"
+1842,9,Uttar Pradesh,99900081,Community Health Centre Kudraha
+1843,9,Uttar Pradesh,1220,Composite Hospital Crpf Rampur
+1844,9,Uttar Pradesh,1062,Composite Hospital SSB Gorakhpur
+1845,9,Uttar Pradesh,99901470,Dakor
+1846,9,Uttar Pradesh,99901419,Danpur
+1847,9,Uttar Pradesh,99900833,Dharmendra Nagar
+1848,9,Uttar Pradesh,34028,DISTRICT HOSPITAL BASTI
+1849,9,Uttar Pradesh,34036,District Male Hospital Banda
+1850,9,Uttar Pradesh,34006,DISTRICT WOMEN HOSPITAL AGRA
+1851,9,Uttar Pradesh,34008,Divisional District Hospital Azamgarh
+1852,9,Uttar Pradesh,99901577,Dostpur
+1853,9,Uttar Pradesh,34025,Dr Bhimrao Ambedkar Combined Male Hospital Etawah
+1854,9,Uttar Pradesh,99900834,Gajju Purwa Jajmau
+1855,9,Uttar Pradesh,99900835,Ganeshpur Gaon
+1856,9,Uttar Pradesh,99900082,Gaur
+1857,9,Uttar Pradesh,99900500,Gosaiganj
+1858,9,Uttar Pradesh,34043,GSVM MEDICAL COLLEGE AND ASSOCIATED HOSPITAL KANPUR 
+1859,9,Uttar Pradesh,99900154,Gulab Bagh
+1860,9,Uttar Pradesh,99900152,Harraiya
+1861,9,Uttar Pradesh,99901432,Ismailpur
+1862,9,Uttar Pradesh,99903033,Itaunja
+1863,9,Uttar Pradesh,99901764,Jagdishpur
+1864,9,Uttar Pradesh,99901381,Jahangir Ganj
+1865,9,Uttar Pradesh,99901421,Jahngirabad
+1866,9,Uttar Pradesh,99901765,Jamon
+1867,9,Uttar Pradesh,99901202,Jatau
+1868,9,Uttar Pradesh,408,Jawaharlal Nehru Medical College & Hospital
+1869,9,Uttar Pradesh,99901578,Karodikala
+1870,9,Uttar Pradesh,99900070,Katehari
+1871,9,Uttar Pradesh,99901543,Kaurihar
+1872,9,Uttar Pradesh,99900848,Kda Jajmau
+1873,9,Uttar Pradesh,34005,King Georges Medical University
+1874,9,Uttar Pradesh,99901439,Kudana
+1875,9,Uttar Pradesh,99901391,Kurara
+1876,9,Uttar Pradesh,99901579,Kurebhar
+1877,9,Uttar Pradesh,99901587,Kyara
+1878,9,Uttar Pradesh,99901422,Lakhawati
+1879,9,Uttar Pradesh,34024,Lal Bahadur Shastri Hospital Ramnagar Varanasi
+1880,9,Uttar Pradesh,99901270,Laxman Das Jatia Rajkiya Mahila Chikitshalya
+1881,9,Uttar Pradesh,34013,LOK BANDHU RAJNARAYAN COMBINED HOSPITAL
+1882,9,Uttar Pradesh,34012,MAHARANA PRATAP DISTRICT COMBINED HOSPITAL
+1883,9,Uttar Pradesh,99900856,Makdi Kheda
+1884,9,Uttar Pradesh,99900511,Malihabad
+1885,9,Uttar Pradesh,34031,Malkhan Singh District Hospital
+1886,9,Uttar Pradesh,34035,Manyawar kanshiram combined hospital and trauma center
+1887,9,Uttar Pradesh,431,Muzaffarnagar Medical College Muzaffarnagar
+1888,9,Uttar Pradesh,99901456,Nadigaon
+1889,9,Uttar Pradesh,99900155,Nagareeya Peer Bahoda
+1890,9,Uttar Pradesh,99900510,Nagram
+1891,9,Uttar Pradesh,99900859,Narayan Purwa
+1892,9,Uttar Pradesh,34041,NEHRU HOSPITAL BRD MEDICAL COLLEGE GORAKHPUR
+1893,9,Uttar Pradesh,34015,Netaji Subhash Chandra Bose District Hospital Gorakhpur
+1894,9,Uttar Pradesh,99901423,Pahasu
+1895,9,Uttar Pradesh,99900344,Pali
+1896,9,Uttar Pradesh,34034,PANDIT DEEN DAYAL UPADHYAY DISTRICT HOSPITAL MORADABAD
+1897,9,Uttar Pradesh,34007,Pandit Deen Dayal Upadhyay Government Hospital
+1898,9,Uttar Pradesh,99901389,Parashrampur
+1899,9,Uttar Pradesh,99901814,Parasiya Chandaur
+1900,9,Uttar Pradesh,99901400,Phakharpur
+1901,9,Uttar Pradesh,99900064,Phc Annewa
+1902,9,Uttar Pradesh,99900069,Phc Ariauna
+1903,9,Uttar Pradesh,99900068,Phc Badagoan Ebrahimpur
+1904,9,Uttar Pradesh,99900044,Phc Baggul Sher Khan
+1905,9,Uttar Pradesh,99900347,Phc Chargawan
+1906,9,Uttar Pradesh,37219,Phc Chiraigaon
+1907,9,Uttar Pradesh,99900158,Phc Haswar
+1908,9,Uttar Pradesh,99900066,Phc Jamunipur
+1909,9,Uttar Pradesh,99901009,Phc Kashiram Colony
+1910,9,Uttar Pradesh,99900504,Phc Katara Bakkash
+1911,9,Uttar Pradesh,99901393,Phc Kharela
+1912,9,Uttar Pradesh,99900065,Phc Mundera
+1913,9,Uttar Pradesh,99900232,Phc Obra
+1914,9,Uttar Pradesh,99900164,Phc Purkaji
+1915,9,Uttar Pradesh,99900320,Phc Saltauwa
+1916,9,Uttar Pradesh,99900349,Phc Sardar Nagar
+1917,9,Uttar Pradesh,99900075,Phc Sikanderpur
+1918,9,Uttar Pradesh,99900076,Phc Tarakhurd
+1919,9,Uttar Pradesh,99900073,Phc Uthrethu
+1920,9,Uttar Pradesh,99900346,Pipraeach
+1921,9,Uttar Pradesh,34018,PL SHARMA DISTRICT HOSPITAL MEERUT
+1922,9,Uttar Pradesh,34030,Pt Deen Dayal Upadhyay Joint Hospital Aligarh
+1923,9,Uttar Pradesh,99900864,Rail Bazar
+1924,9,Uttar Pradesh,99900119,Rampura
+1925,9,Uttar Pradesh,99900231,Renukoot Pipri
+1926,9,Uttar Pradesh,99901443,Sahabganj
+1927,9,Uttar Pradesh,99901758,Sahpau
+1928,9,Uttar Pradesh,99901434,Sarai Akil
+1929,9,Uttar Pradesh,99900084,Saughat
+1930,9,Uttar Pradesh,34017,SBD district hospital saharanpur
+1931,9,Uttar Pradesh,99901817,Sidhua
+1932,9,Uttar Pradesh,34026,S.S.P.G. Divisional District Hospital Varanasi
+1933,9,Uttar Pradesh,34040,Swaroop Rani Nehru Hospital Prayagraj (Motilal Nehru Medical College)
+1934,9,Uttar Pradesh,34020,Tej Bahadur Sapru Hospital
+1935,9,Uttar Pradesh,99901440,Thnabhawan
+1936,9,Uttar Pradesh,99900605,Trauma Centre
+1937,9,Uttar Pradesh,37218,Uchc Chaukaghat
+1938,9,Uttar Pradesh,37215,Uchc Durgakund
+1939,9,Uttar Pradesh,99900439,UCHC Kashividhyapeeth
+1940,9,Uttar Pradesh,37216,Uchc Shivpur
+1941,9,Uttar Pradesh,34011,UHM District Male Hospital Kanpur Nagar
+1942,9,Uttar Pradesh,99901331,Uhwc Abhisheknagar Jharana Tola
+1943,9,Uttar Pradesh,99901332,Uhwc Ali Nagar Deewan Bazar
+1944,9,Uttar Pradesh,99901033,Uhwc Baba Raghavdas Nagar Shivpur Shahbajganj
+1945,9,Uttar Pradesh,99900933,Uhwc Bada Chandganj
+1946,9,Uttar Pradesh,99900820,Uhwc Bakarganj
+1947,9,Uttar Pradesh,99900822,Uhwc Bara Sirohi
+1948,9,Uttar Pradesh,99900935,Uhwc Baraura Husainbari
+1949,9,Uttar Pradesh,99900823,Uhwc Barra Gaon
+1950,9,Uttar Pradesh,99901334,Uhwc Budh Vihar Civil Line
+1951,9,Uttar Pradesh,99901468,Uhwc Canttoment
+1952,9,Uttar Pradesh,99900937,Uhwc C Block Rajajipuram
+1953,9,Uttar Pradesh,99900830,Uhwc Chhatmara
+1954,9,Uttar Pradesh,99900831,Uhwc Chudi Wali Gali
+1955,9,Uttar Pradesh,99900832,Uhwc Damodar Nagar
+1956,9,Uttar Pradesh,99900939,Uhwc Dhawan Telco Road
+1957,9,Uttar Pradesh,99901335,Uhwc Divya Nagar Rampur
+1958,9,Uttar Pradesh,99901336,Uhwc Dwarikapuri Coloby Nathmalpur
+1959,9,Uttar Pradesh,99901337,Uhwc Ganga Nagar Jatepur Gorakhpur
+1960,9,Uttar Pradesh,99901339,Uhwc Gayatri Nagar Bichchiya
+1961,9,Uttar Pradesh,99900836,Uhwc Goba Garden
+1962,9,Uttar Pradesh,99900837,Uhwc Gujaini Gaon Ravidashpuram
+1963,9,Uttar Pradesh,99901340,Uhwc Gulharia Shahpur Gorakhpur
+1964,9,Uttar Pradesh,99900941,Uhwc Hajji Tola
+1965,9,Uttar Pradesh,99900942,Uhwc Hansh Khera
+1966,9,Uttar Pradesh,99901029,Uhwc Hansupur Turkmanpur
+1967,9,Uttar Pradesh,99900944,Uhwc Hardaasi Kheda
+1968,9,Uttar Pradesh,99900945,Uhwc Hariharpur Mallak Road
+1969,9,Uttar Pradesh,99901341,Uhwc Indira Nagar
+1970,9,Uttar Pradesh,99900295,Uhwc Johra Bag Bahraich
+1971,9,Uttar Pradesh,99901342,Uhwc Kajakpur Taramanda
+1972,9,Uttar Pradesh,99900847,Uhwc Kakadev Navin Ngar
+1973,9,Uttar Pradesh,99900391,Uhwc Khatta Road
+1974,9,Uttar Pradesh,99900200,Uhwc Khwajajahanpur
+1975,9,Uttar Pradesh,99900850,Uhwc Kidwai Nagar Dakshni
+1976,9,Uttar Pradesh,99900947,Uhwc Kothari Bandhu
+1977,9,Uttar Pradesh,99900851,Uhwc Koyla Nagar
+1978,9,Uttar Pradesh,99900853,Uhwc Lakshmi Purwa
+1979,9,Uttar Pradesh,99900855,Uhwc Mahadev Nagar
+1980,9,Uttar Pradesh,99901346,Uhwc Mahadevpuram Colony Rampur
+1981,9,Uttar Pradesh,99901347,Uhwc Mahewa Betaihata
+1982,9,Uttar Pradesh,99900201,Uhwc Matalupur
+1983,9,Uttar Pradesh,99901349,Uhwc Mirzapur Humayunpur
+1984,9,Uttar Pradesh,99901350,Uhwc Mohanapur Shivpur Sahbajganj
+1985,9,Uttar Pradesh,99901351,Uhwc Moharipur Gorakhnath
+1986,9,Uttar Pradesh,99901352,Uhwc Nanda Nagar Jharna Tola
+1987,9,Uttar Pradesh,99900949,Uhwc Naya Gaon
+1988,9,Uttar Pradesh,99900950,Uhwc Nishatganj
+1989,9,Uttar Pradesh,99900951,Uhwc Pakka Bagh
+1990,9,Uttar Pradesh,99900862,Uhwc Pashupati Nagar
+1991,9,Uttar Pradesh,99901354,Uhwc Purana Gorakhpur Nathmalpur
+1992,9,Uttar Pradesh,99900863,Uhwc Purana Kanpur
+1993,9,Uttar Pradesh,99901356,Uhwc Ramnagar Colony Mohaddipur
+1994,9,Uttar Pradesh,99900389,Uhwc Shahpeer Gate
+1995,9,Uttar Pradesh,99901359,Uhwc Shakti Nagar Shahpur
+1996,9,Uttar Pradesh,99900872,Uhwc Shiv Katra
+1997,9,Uttar Pradesh,99901360,Uhwc Shiv Nagar Jatepur
+1998,9,Uttar Pradesh,99901365,Uhwc Surajkund Jafra Bazar
+1999,9,Uttar Pradesh,99900873,Uhwc Sutarganj
+2000,9,Uttar Pradesh,99900874,Uhwc Swaraj Nagar
+2001,9,Uttar Pradesh,99901367,Uhwc Urwarak Nagar Gorakhnath
+2002,9,Uttar Pradesh,99901368,Uhwc Vishnupuram Shahpur
+2003,9,Uttar Pradesh,99900878,Uhwc Vishnu Puri
+2004,9,Uttar Pradesh,99901424,Unchagaon
+2005,9,Uttar Pradesh,99901463,Uphc Abbu Sarai
+2006,9,Uttar Pradesh,99900398,Uphc Abullapur
+2007,9,Uttar Pradesh,99900428,Uphc Adampur
+2008,9,Uttar Pradesh,99900033,Uphc Adhiyari Bagh
+2009,9,Uttar Pradesh,99900028,Uphc Agra Road
+2010,9,Uttar Pradesh,99900880,Uphc Ahirwan
+2011,9,Uttar Pradesh,99900241,Uphc Ajeetpur Jwalanagar
+2012,9,Uttar Pradesh,99900166,Uphc Allapur
+2013,9,Uttar Pradesh,99900996,Uphc Aman Vihar
+2014,9,Uttar Pradesh,99900520,Uphc Aonla
+2015,9,Uttar Pradesh,99901014,Uphc Asfak Nagar
+2016,9,Uttar Pradesh,99900299,Uphc Atarra
+2017,9,Uttar Pradesh,99900963,Uphc Aurangabad
+2018,9,Uttar Pradesh,99900513,Uphc Azad Nagar
+2019,9,Uttar Pradesh,99900297,Uphc Azad Nagar
+2020,9,Uttar Pradesh,99900271,Uphc Bada Baghada
+2021,9,Uttar Pradesh,99900427,Uphc Badi Bazar
+2022,9,Uttar Pradesh,99900240,Uphc Bag Chote Sahab Rmc
+2023,9,Uttar Pradesh,99900120,Uphc Baghaura
+2024,9,Uttar Pradesh,99900092,Uphc Bahadurganj Ujhani
+2025,9,Uttar Pradesh,99900080,Uphc Baheri
+2026,9,Uttar Pradesh,99900614,Uphc Bajardiha
+2027,9,Uttar Pradesh,99900310,Uphc Bakarganj
+2028,9,Uttar Pradesh,99900192,Uphc Bangla Gaon
+2029,9,Uttar Pradesh,99900304,Uphc Bankhana
+2030,9,Uttar Pradesh,99900341,Uphc Baraula
+2031,9,Uttar Pradesh,99900217,Uphc Barawan Kala
+2032,9,Uttar Pradesh,99900239,Uphc Bareilly Gate
+2033,9,Uttar Pradesh,99900227,Uphc Barkhandi
+2034,9,Uttar Pradesh,99901015,Uphc Beniya
+2035,9,Uttar Pradesh,99900885,Uphc Benjhawar
+2036,9,Uttar Pradesh,99900027,Uphc Betiyahata
+2037,9,Uttar Pradesh,99900202,Uphc Bhadeshra
+2038,9,Uttar Pradesh,99900101,Uphc Bhangel
+2039,9,Uttar Pradesh,99900203,Uphc Bharau Ka Pura
+2040,9,Uttar Pradesh,99900964,Uphc Bharwara Stp Plant
+2041,9,Uttar Pradesh,99900366,Uphc Bhatipura
+2042,9,Uttar Pradesh,99900149,Uphc Bhim Nagar
+2043,9,Uttar Pradesh,99900367,Uphc Bhogaon
+2044,9,Uttar Pradesh,99900176,Uphc Bhola Ka Pura
+2045,9,Uttar Pradesh,99900022,Uphc Bichhiya
+2046,9,Uttar Pradesh,99900238,Uphc Bilaspur Gate
+2047,9,Uttar Pradesh,99900886,Uphc Birhana Road  Mtc
+2048,9,Uttar Pradesh,99900882,Uphc B N Bhalla
+2049,9,Uttar Pradesh,99900161,Uphc Budhana Uphc
+2050,9,Uttar Pradesh,99900440,Uphc Cantoment
+2051,9,Uttar Pradesh,99900156,Uphc C B Ganj
+2052,9,Uttar Pradesh,99900888,Uphc Chacha Nehru
+2053,9,Uttar Pradesh,99900097,Uphc Chakiyawa Dhala
+2054,9,Uttar Pradesh,99900111,Uphc Chamri
+2055,9,Uttar Pradesh,99900085,Uphc Chandpur
+2056,9,Uttar Pradesh,99900298,Uphc Chhabi Talab
+2057,9,Uttar Pradesh,99900034,Uphc Chhotekazipur
+2058,9,Uttar Pradesh,99900965,Uphc Chittwapur Hp
+2059,9,Uttar Pradesh,99900966,Uphc Chittwapur Ufwc
+2060,9,Uttar Pradesh,99900204,Uphc Choti Maharaniya
+2061,9,Uttar Pradesh,99900029,Uphc Civil Lines
+2062,9,Uttar Pradesh,99900516,Uphc Civil Lines
+2063,9,Uttar Pradesh,99900198,Uphc Cph Naya Gaon
+2064,9,Uttar Pradesh,99900167,Uphc Dakshini Khalapar
+2065,9,Uttar Pradesh,99900266,Uphc Daraganj I
+2066,9,Uttar Pradesh,99900267,Uphc Daraganj Ii
+2067,9,Uttar Pradesh,99900273,Uphc Dariyabad
+2068,9,Uttar Pradesh,99900967,Uphc Daulatganj
+2069,9,Uttar Pradesh,99900324,Uphc Dhamda Adda
+2070,9,Uttar Pradesh,99900086,Uphc Dhampur
+2071,9,Uttar Pradesh,99900262,Uphc Dharikar Basti
+2072,9,Uttar Pradesh,99900237,Uphc Diamond Colony
+2073,9,Uttar Pradesh,99900031,Uphc Diwan Bazar
+2074,9,Uttar Pradesh,99900205,Uphc Domanpura
+2075,9,Uttar Pradesh,99900881,Uphc Dtc Anwarganj
+2076,9,Uttar Pradesh,99900894,Uphc Dtc Geeta Nagar
+2077,9,Uttar Pradesh,99900896,Uphc Dtc Gujaini
+2078,9,Uttar Pradesh,99900899,Uphc Dtc Harjendra Nagar
+2079,9,Uttar Pradesh,99900907,Uphc Dtc Kpm
+2080,9,Uttar Pradesh,99900916,Uphc Dtc Nawabganj
+2081,9,Uttar Pradesh,99900924,Uphc Dtc Sarvodaya Nagar
+2082,9,Uttar Pradesh,99900236,Uphc Dumhela
+2083,9,Uttar Pradesh,99901016,Uphc Durgakund
+2084,9,Uttar Pradesh,99900199,Uphc Esi Townhall
+2085,9,Uttar Pradesh,99900365,Uphc Faizullaganj
+2086,9,Uttar Pradesh,99900193,Uphc Fakeerpura
+2087,9,Uttar Pradesh,99900519,Uphc Faridpur
+2088,9,Uttar Pradesh,99900243,Uphc Galla Bazar
+2089,9,Uttar Pradesh,99900362,Uphc Gandhinagar Manjhanpur
+2090,9,Uttar Pradesh,99900305,Uphc Gangapuram
+2091,9,Uttar Pradesh,99900968,Uphc Garhi Kanauara
+2092,9,Uttar Pradesh,99900153,Uphc Garhi Pilkhuwa
+2093,9,Uttar Pradesh,99900169,Uphc Gaushala
+2094,9,Uttar Pradesh,99900242,Uphc Gaus Nagar
+2095,9,Uttar Pradesh,99900235,Uphc Ghair Miyan Khan
+2096,9,Uttar Pradesh,99900517,Uphc Gher Jafar Khan
+2097,9,Uttar Pradesh,99901539,Uphc Ghosiyana
+2098,9,Uttar Pradesh,99900325,Uphc Girdhari Nagar
+2099,9,Uttar Pradesh,99900360,Uphc Gokhale Nagar
+2100,9,Uttar Pradesh,99900249,Uphc Gopigung
+2101,9,Uttar Pradesh,99901541,Uphc Gorabazar
+2102,9,Uttar Pradesh,99900026,Uphc Gorakhanath
+2103,9,Uttar Pradesh,99900133,Uphc Gotaiyabag
+2104,9,Uttar Pradesh,99900211,Uphc Govindnagar
+2105,9,Uttar Pradesh,99900274,Uphc Govindpur
+2106,9,Uttar Pradesh,99900248,Uphc Gulaura Naibazar Bhadohi
+2107,9,Uttar Pradesh,99900323,Uphc Gulawathi
+2108,9,Uttar Pradesh,99900308,Uphc Hajiyapur
+2109,9,Uttar Pradesh,99900406,Uphc Hanumangari
+2110,9,Uttar Pradesh,99900206,Uphc Hanuman Nagar
+2111,9,Uttar Pradesh,99900307,Uphc Haru Nagla
+2112,9,Uttar Pradesh,99900407,Uphc Hatim Sarai
+2113,9,Uttar Pradesh,99900368,Uphc Hindpuram
+2114,9,Uttar Pradesh,99900339,Uphc Hosiyarpur
+2115,9,Uttar Pradesh,99900019,Uphc Humayunpur
+2116,9,Uttar Pradesh,99900970,Uphc Iim Road
+2117,9,Uttar Pradesh,99900013,Uphc Ilahibagh
+2118,9,Uttar Pradesh,99900178,Uphc Indira Colony Gulabbadi
+2119,9,Uttar Pradesh,99900401,Uphc Islamabad
+2120,9,Uttar Pradesh,99900017,Uphc Ismaylchak Jafara Bazar
+2121,9,Uttar Pradesh,99900309,Uphc Izzat Nagar
+2122,9,Uttar Pradesh,99900015,Uphc Jafara Bazar
+2123,9,Uttar Pradesh,99900301,Uphc Jagatpur
+2124,9,Uttar Pradesh,99900254,Uphc Jagdeeshpura
+2125,9,Uttar Pradesh,99900055,Uphc Jahangirabad
+2126,9,Uttar Pradesh,99901525,Uphc Jai Bheemnagar
+2127,9,Uttar Pradesh,99900429,Uphc Jaitpura
+2128,9,Uttar Pradesh,99900043,Uphc Jali Kothi Old Distt Hos
+2129,9,Uttar Pradesh,99900502,Uphc Jankipuram
+2130,9,Uttar Pradesh,99900315,Uphc Jasoli
+2131,9,Uttar Pradesh,99900021,Uphc Jatepur
+2132,9,Uttar Pradesh,99900010,Uphc Jharana Tola
+2133,9,Uttar Pradesh,99900127,Uphc Jhokan Bag
+2134,9,Uttar Pradesh,99900506,Uphc Jiamau
+2135,9,Uttar Pradesh,99900035,Uphc Joshitola
+2136,9,Uttar Pradesh,99900971,Uphc Jugauli
+2137,9,Uttar Pradesh,99900409,Uphc Kabir Mohalla
+2138,9,Uttar Pradesh,99900225,Uphc Kairana
+2139,9,Uttar Pradesh,99900316,Uphc Kalibadi
+2140,9,Uttar Pradesh,99900905,Uphc Kanghi Mohal
+2141,9,Uttar Pradesh,99900194,Uphc Kanoon Goyan
+2142,9,Uttar Pradesh,99900258,Uphc Karaila Bag
+2143,9,Uttar Pradesh,99900229,Uphc Karaudiya
+2144,9,Uttar Pradesh,99900265,Uphc Kareli
+2145,9,Uttar Pradesh,99900094,Uphc Karwi
+2146,9,Uttar Pradesh,99900230,Uphc Kashiram
+2147,9,Uttar Pradesh,99900247,Uphc Kashiram Avash
+2148,9,Uttar Pradesh,99900150,Uphc Kashiram Nagar Colony Hamirpur
+2149,9,Uttar Pradesh,99900218,Uphc Kashmiri Mohalla
+2150,9,Uttar Pradesh,99900122,Uphc Katghara
+2151,9,Uttar Pradesh,99900972,Uphc Khargapur
+2152,9,Uttar Pradesh,99900259,Uphc Kharkauni Naini 2
+2153,9,Uttar Pradesh,99900223,Uphc Khatauli Budhana Road
+2154,9,Uttar Pradesh,99900613,Uphc Kiratpur
+2155,9,Uttar Pradesh,99900183,Uphc Kisrol
+2156,9,Uttar Pradesh,99900177,Uphc Kothiwal Nagar
+2157,9,Uttar Pradesh,99900908,Uphc Krishna Nagar
+2158,9,Uttar Pradesh,99900168,Uphc Krishnapuri
+2159,9,Uttar Pradesh,99900395,Uphc Kunda
+2160,9,Uttar Pradesh,99901005,Uphc Labour Colony
+2161,9,Uttar Pradesh,99900413,Uphc Laharpur
+2162,9,Uttar Pradesh,99900400,Uphc Lakhipura
+2163,9,Uttar Pradesh,99900195,Uphc Lal Bag
+2164,9,Uttar Pradesh,99900827,Chakeri
+2165,9,Uttar Pradesh,34033,UP NIC Test Hospital
+2166,9,Uttar Pradesh,99901390,Chani
+2167,9,Uttar Pradesh,34037,Cantonment General Hospital Lucknow Cantt
+2168,9,Uttar Pradesh,34029,District Hospital Jhansi
+2169,9,Uttar Pradesh,99900507,Uphc Lalbagh Ufwc
+2170,9,Uttar Pradesh,99900410,Uphc Lodhipur
+2171,9,Uttar Pradesh,99900425,Uphc Madanpura
+2172,9,Uttar Pradesh,99900441,Uphc Madhopur
+2173,9,Uttar Pradesh,34047,DR RAM MANOHAR LOHIA DISTT MALE HOSPITAL
+2174,9,Uttar Pradesh,99900359,Uphc Madhugarhi
+2175,9,Uttar Pradesh,99900303,Uphc Madinath
+2176,9,Uttar Pradesh,99900245,Uphc Maghar
+2177,9,Uttar Pradesh,99900974,Uphc Mahanagar Ufwc
+2178,9,Uttar Pradesh,99900328,Uphc Mahmoodpur
+2179,9,Uttar Pradesh,99900414,Uphc Mahmudabad
+2180,9,Uttar Pradesh,99901549,Chc Bhoodbarall
+2181,9,Uttar Pradesh,99900148,Uphc Majidpura
+2182,9,Uttar Pradesh,99900975,Uphc Maleshemau
+2183,9,Uttar Pradesh,99900300,Uphc Malgodam Road
+2184,9,Uttar Pradesh,99900394,Uphc Maliyana
+2185,9,Uttar Pradesh,99900508,Uphc Martinpurwa Ballu Aada
+2186,9,Uttar Pradesh,99901017,Uphc Mata Anandmayi
+2187,9,Uttar Pradesh,99900123,Uphc Matapur
+2188,9,Uttar Pradesh,99900105,Uphc Maudaha
+2189,9,Uttar Pradesh,99900306,Uphc Maula Nagar
+2190,9,Uttar Pradesh,99900976,Uphc Mawaiya
+2191,9,Uttar Pradesh,99900393,Uphc Mawana
+2192,9,Uttar Pradesh,99900246,Uphc Mehdawal
+2193,9,Uttar Pradesh,99900911,Uphc Mirzapur
+2194,9,Uttar Pradesh,99900023,Uphc Mohaddipur
+2195,9,Uttar Pradesh,99900352,Uphc Mohalla Bibijai
+2196,9,Uttar Pradesh,99900087,Uphc Mohalla Jabtaganj Najibabad
+2197,9,Uttar Pradesh,99900088,Uphc Moh Kazijadgan Chandpur
+2198,9,Uttar Pradesh,99900196,Uphc Mukarabpur
+2199,9,Uttar Pradesh,99900501,Uphc Mukarim Nagar
+2200,9,Uttar Pradesh,99900417,Uphc Munshiganj
+2201,9,Uttar Pradesh,99900977,Uphc Nadarganj
+2202,9,Uttar Pradesh,99900311,Uphc Nadosi
+2203,9,Uttar Pradesh,99900146,Uphc Nagina
+2204,9,Uttar Pradesh,99900256,Uphc Naini
+2205,9,Uttar Pradesh,99900322,Uphc Najibabad
+2206,9,Uttar Pradesh,99900509,Uphc Naka Ufwc
+2207,9,Uttar Pradesh,99900912,Uphc Nankari
+2208,9,Uttar Pradesh,99900011,Uphc Nathmapur
+2209,9,Uttar Pradesh,99900915,Uphc Naubasta
+2210,9,Uttar Pradesh,99900160,Uphc Naurangabad
+2211,9,Uttar Pradesh,99900197,Uphc Nawabpura
+2212,9,Uttar Pradesh,99900296,Uphc Nazirpura Bahraich
+2213,9,Uttar Pradesh,91094614,"Veerangana Jhalkaribai Mahila Hospital Lucknow	"
+2214,9,Uttar Pradesh,99901007,Uphc Neharu Markat
+2215,9,Uttar Pradesh,99900093,Uphc Nekpur Badaun
+2216,9,Uttar Pradesh,91094459,All India Institute of Medical Sciences Raebareli
+2217,9,Uttar Pradesh,99900978,Uphc New Haiderganj
+2218,9,Uttar Pradesh,99900979,Uphc Nilmatha
+2219,9,Uttar Pradesh,99900212,Uphc Nirmalnagar
+2220,9,Uttar Pradesh,99900012,Uphc Nizampur
+2221,9,Uttar Pradesh,99900423,Uphc Orderli Bazar
+2222,9,Uttar Pradesh,99900250,Uphc Pakari Bhadohi
+2223,9,Uttar Pradesh,99901018,Uphc Pandaypur
+2224,9,Uttar Pradesh,99900219,Uphc Para
+2225,9,Uttar Pradesh,99900329,Uphc Parahupur
+2226,9,Uttar Pradesh,99900980,Uphc Pata Nala
+2227,9,Uttar Pradesh,99900162,Charthaval
+2228,9,Uttar Pradesh,99900981,Uphc Patel Nagar
+2229,9,Uttar Pradesh,99900251,Uphc Peetal Basti
+2230,9,Uttar Pradesh,99900982,Uphc Pipraghat
+2231,9,Uttar Pradesh,99900327,Uphc Purana Shahar
+2232,9,Uttar Pradesh,99900106,Uphc Purani Phc Rath
+2233,9,Uttar Pradesh,99900016,Uphc Purdilpur
+2234,9,Uttar Pradesh,99900983,Uphc Quila Mohammadi
+2235,9,Uttar Pradesh,99900102,Uphc Raipur
+2236,9,Uttar Pradesh,99900985,Uphc Rajendra Nagar Ufwc
+2237,9,Uttar Pradesh,99900421,Uphc Rajghat
+2238,9,Uttar Pradesh,99900264,Uphc Rajrooppur
+2239,9,Uttar Pradesh,99900986,Uphc Ram Nagar
+2240,9,Uttar Pradesh,99900095,Uphc Ramnath Deoria
+2241,9,Uttar Pradesh,99900170,Uphc Rampuri
+2242,9,Uttar Pradesh,99900350,Uphc Rampur Ramgarh
+2243,9,Uttar Pradesh,99900114,Uphc Rani Ka Nagla
+2244,9,Uttar Pradesh,99900275,Uphc Rani Mandi
+2245,9,Uttar Pradesh,99900124,Uphc Rasulabad
+2246,9,Uttar Pradesh,99900321,Uphc Ravidas Nagar
+2247,9,Uttar Pradesh,99900518,Uphc Jatavpura
+2248,9,Uttar Pradesh,34023,Cantonment General Hospital Allahabad
+2249,9,Uttar Pradesh,99901548,Bahriya
+2250,9,Uttar Pradesh,34022,Cantt General Hospital Bareilly Cantt
+2251,9,Uttar Pradesh,99901570,Chc Nathnagar
+2252,9,Uttar Pradesh,99901550,Chc Phalawada
+2253,9,Uttar Pradesh,99901571,Chc Pouli At Shivbhakhari      Under Construction
+2254,9,Uttar Pradesh,99901572,Chc Semariyawa
+2255,9,Uttar Pradesh,99900921,Uphc Rawat Pur
+2256,9,Uttar Pradesh,99901551,Daurala
+2257,9,Uttar Pradesh,99901583,Deegh
+2258,9,Uttar Pradesh,99900607,Kachhawan
+2259,9,Uttar Pradesh,99901398,Kaisarganj
+2260,9,Uttar Pradesh,99901542,Kaundhiyara
+2261,9,Uttar Pradesh,99901431,Chc Alamchand
+2262,9,Uttar Pradesh,99901544,Manda
+2263,9,Uttar Pradesh,99901581,Motigarpur
+2264,9,Uttar Pradesh,99901557,Rohta
+2265,9,Uttar Pradesh,99901546,Saidabad
+2266,9,Uttar Pradesh,99901437,Shahpur
+2267,9,Uttar Pradesh,99901547,Shankargarh
+2268,9,Uttar Pradesh,99901584,Suriaywan
+2269,9,Uttar Pradesh,99901338,Uhwc Gautam Vihar Civil Line
+2270,9,Uttar Pradesh,91094286,Government Institute of Medical Sciences (GIMS)
+2271,9,Uttar Pradesh,91094242,Cantonment General Hospital Agra
+2272,9,Uttar Pradesh,99901362,Uhwc Siddartha Nagar Colony Taramandal
+2273,9,Uttar Pradesh,99901363,Uhwc Subhash Chandra Bose Nagar
+2274,9,Uttar Pradesh,99901538,Uphc Dewanandpur
+2275,9,Uttar Pradesh,99901448,Uphc Kashmiri Mohalla
+2276,9,Uttar Pradesh,99900098,Uphc Radha Nagar
+2277,9,Uttar Pradesh,99901834,Udi
+2278,9,Uttar Pradesh,91094285,Neeta Memorial Polyclinic 
+2279,9,Uttar Pradesh,91094272,Command Hospital  CC  Lucknow
+2280,9,Uttar Pradesh,34003,"Dr Ram Manohar Lohia Institute of Medical Sciences, Lucknow"
+2281,9,Uttar Pradesh,91094241,"Cantonment Board Dispensary, Mathura Cantt."
+2282,9,Uttar Pradesh,34038,SHAIKH UL HIND MAULANA MAHMOOD HASAN MEDICAL COLLEGE SAHARANPUR
+2283,9,Uttar Pradesh,99901436,Chc Bhopa
+2284,9,Uttar Pradesh,99900137,Uphc Talpura
+2285,9,Uttar Pradesh,99900892,Uphc Fethphul Ganj
+2286,9,Uttar Pradesh,99900999,Uphc Chawki Sarai
+2287,9,Uttar Pradesh,99900909,Uphc Lalpur
+2288,9,Uttar Pradesh,99900917,Uphc Nehru Nagar
+2289,9,Uttar Pradesh,99900902,Uphc Jarouli
+2290,9,Uttar Pradesh,99900173,Uphc Ajit Nagar Dhakoria
+2291,9,Uttar Pradesh,99900351,Uphc Barauni Kila Market Ppc
+2292,9,Uttar Pradesh,99900412,Uphc Biswan
+2293,9,Uttar Pradesh,99900353,Uphc Chandipurwa
+2294,9,Uttar Pradesh,99900415,Uphc Ismilpur
+2295,9,Uttar Pradesh,99900386,Uphc Kosikalan
+2296,9,Uttar Pradesh,99900175,Uphc Pandey Ka Purwa Kunda
+2297,9,Uttar Pradesh,34044,S N Medical College Agra
+2298,9,Uttar Pradesh,99900858,Naramau
+2299,9,Uttar Pradesh,99900828,Uhwc Chamanganj
+2300,9,Uttar Pradesh,99900846,Uhwc Kailash Nagar
+2301,9,Uttar Pradesh,99900889,Uphc Chatai Mohal
+2302,9,Uttar Pradesh,99900257,Uphc Kydganj
+2303,9,Uttar Pradesh,99901387,Ratanpura
+2304,9,Uttar Pradesh,99900861,Nirala Nagar
+2305,9,Uttar Pradesh,99900109,Sapnawat
+2306,9,Uttar Pradesh,99900135,Uphc Bilram Get
+2307,9,Uttar Pradesh,99900037,Uphc Bisalpur
+2308,9,Uttar Pradesh,99900906,Uphc Dtc Kidwai Nagar
+2309,9,Uttar Pradesh,99900292,Uphc Jeevan Garh
+2310,9,Uttar Pradesh,99900330,Uphc Uphc  Hathoda
+2311,9,Uttar Pradesh,99900961,Uhwc Takrohi Ambedker Nagar Crossing
+2312,9,Uttar Pradesh,99900390,Uhwc Thapar Nagar
+2313,9,Uttar Pradesh,99900418,Uphc Arjunpur
+2314,9,Uttar Pradesh,99900852,Uhwc Lakhanpur
+2315,9,Uttar Pradesh,99900891,Uphc Dharipurwa
+2316,9,Uttar Pradesh,34046,MLB Medical College and Hospital Jhansi
+2317,9,Uttar Pradesh,99900342,Uphc Harola
+2318,9,Uttar Pradesh,34042,LPS INSTITUTE OF CARDIOLOGY
+2319,9,Uttar Pradesh,99900399,Uphc Kaseru Baksar
+2320,9,Uttar Pradesh,99900103,Uphc Sadarpur
+2321,9,Uttar Pradesh,99900364,Uphc Kasaibada
+2322,9,Uttar Pradesh,99900337,Uphc Surajpur
+2323,9,Uttar Pradesh,34039,L L R M Medical college Meerut
+2324,9,Uttar Pradesh,34045,J.K Cancer Institute
+2325,9,Uttar Pradesh,34004,Balrampur Hospital Lucknow .
+2326,9,Uttar Pradesh,34002,Dr Shyama prasad Mukherjee Civil Hospital
+2327,9,Uttar Pradesh,99901031,Uhwc Madhowadi
+2328,9,Uttar Pradesh,99901030,Uhwc Maheshpura
+2329,9,Uttar Pradesh,34019,MOTI LAL NEHRU DIVISIONAL HOSPITAL PRAYAGRAJ
+2330,9,Uttar Pradesh,34027,District Hospital Agra
+2331,9,Uttar Pradesh,99900922,Uphc Sajari
+2332,9,Uttar Pradesh,99901041,Deoband
+2333,9,Uttar Pradesh,99900456,Dubuliya
+2334,9,Uttar Pradesh,99900841,Harsh Nagar
+2335,9,Uttar Pradesh,99901208,Phc Karhara
+2336,9,Uttar Pradesh,99900934,Uhwc Baraulia
+2337,9,Uttar Pradesh,99900377,Uhwc Jigar Colony
+2338,9,Uttar Pradesh,99901034,Uhwc Kunwarpur
+2339,9,Uttar Pradesh,34009,Divisional District Male Hospital Mirzapur
+2340,9,Uttar Pradesh,99900867,Uhwc Roshan Nagar
+2341,9,Uttar Pradesh,99900890,Uphc Darshanpurwa
+2342,9,Uttar Pradesh,99900893,Uphc Gangapur
+2343,9,Uttar Pradesh,99900901,Uphc Jageshwar
+2344,9,Uttar Pradesh,99900903,Uphc Juhi
+2345,9,Uttar Pradesh,99900904,Uphc Jyora
+2346,9,Uttar Pradesh,99900446,Uphc Krishna Nagar Modinagar
+2347,9,Uttar Pradesh,34016,"District Hospital, Faizabad"
+2348,9,Uttar Pradesh,99900336,Uphc Naya Bans
+2349,9,Uttar Pradesh,99900918,Uphc Prem Nagar
+2350,9,Uttar Pradesh,99900445,Uphc Saraswati Colony Sahibabad
+2351,9,Uttar Pradesh,37220,Chc Hathi Bazar
+2352,9,Uttar Pradesh,99901201,Eka
+2353,9,Uttar Pradesh,99901210,Phc Bhanupura
+2354,9,Uttar Pradesh,99900233,Uphc Robertsganj
+2355,9,Uttar Pradesh,99901217,Phc Kotla
+2356,9,Uttar Pradesh,99901199,Phc Madanpur
+2357,9,Uttar Pradesh,99901205,Phc Singhamai
+2358,9,Uttar Pradesh,99900884,Uphc Barra
+2359,9,Uttar Pradesh,99901213,Uphc Dammamal Nagar
+2360,9,Uttar Pradesh,99901211,Uphc Nagala Bari
+2361,9,Uttar Pradesh,99900079,Uphc Pathankot
+2362,9,Uttar Pradesh,99900077,Uphc Patti Chodhran
+2363,9,Uttar Pradesh,99901206,Uphc Ram Nagar
+2364,9,Uttar Pradesh,99901216,Uphc Rukunpura
+2365,9,Uttar Pradesh,99900078,Uphc Thakur Dwara
+2366,9,Uttar Pradesh,99900447,Uphc Vasundhra Prahladgarhi
+2367,9,Uttar Pradesh,99901008,Uphc New Gopal Nagar
+2368,9,Uttar Pradesh,99901020,Uphc Sewa Sadan
+2369,9,Uttar Pradesh,99900244,Uphc Khalilabad
+2370,9,Uttar Pradesh,34048,DR RAM MANOHAR LOHIA FEMALE HOSPITAL
+2371,9,Uttar Pradesh,99901355,Uhwc Rajiv Nagar Jatepur Gorakhpur
+2372,9,Uttar Pradesh,99900424,Uphc Koniya
+2373,9,Uttar Pradesh,99901580,CHC Kurwar
+2374,9,Uttar Pradesh,91094253,Cantonment Board Dispensary Faizabad  Up 
+2375,9,Uttar Pradesh,91094251,Cantonment General Hospital Varanasi Cantt
+2376,9,Uttar Pradesh,91094254,Cantt General Hospital Jhansi
+2377,9,Uttar Pradesh,99901809,CHC Bhatni
+2378,9,Uttar Pradesh,91094240,Cantonment Board Dispensary Fatehgarh
+2379,9,Uttar Pradesh,91094262,Cantonment General Hospital Kanpur Cantt
+2380,9,Uttar Pradesh,91094248,Shahjahanpur Cantonment Board Dispensary
+2381,9,Uttar Pradesh,91094261,Cantonment General Hospital Meerut
+2382,9,Uttar Pradesh,91094256,Cantonment General Hospital Babina Cantt
+2383,9,Uttar Pradesh,99901209,Uphc Nagala Kila
+2384,9,Uttar Pradesh,99900865,Rampuram
+2385,9,Uttar Pradesh,99900032,Campierganj
+2386,9,Uttar Pradesh,99265,District Combined Hospital Baghpat
+2387,9,Uttar Pradesh,99900826,Budhpur Machhariya
+2388,9,Uttar Pradesh,99170,100 Bedded Combined Hospital Atrauli Aligarh
+2389,9,Uttar Pradesh,99171,Mohan Lal Gautam District Women Hospital Aligarh
+2390,9,Uttar Pradesh,99282,Community Health Centre Khair
+2391,9,Uttar Pradesh,99283,Community Health Centre IGLAS
+2392,9,Uttar Pradesh,99280,Community Health Centre Gabhana
+2393,9,Uttar Pradesh,99281,Community Health Centre Jawan
+2394,9,Uttar Pradesh,99279,Community Health Centre Atrauli
+2395,9,Uttar Pradesh,99900208,Bhatwa Ki Pokhri
+2396,9,Uttar Pradesh,99900343,Uphc Tigri
+2397,9,Uttar Pradesh,99901532,Uphc Zakir Colony Humayun Nagar
+2398,9,Uttar Pradesh,99901535,Uphc Sardhana
+2399,9,Uttar Pradesh,99901528,Uphc Sanjay Nagar
+2400,9,Uttar Pradesh,99900860,Navin Galla Mandi
+2401,9,Uttar Pradesh,99901593,Uphc Rajendr Nagar
+2402,9,Uttar Pradesh,99901531,Uphc Nagla Battu
+2403,9,Uttar Pradesh,99901533,Uphc Lallapura
+2404,9,Uttar Pradesh,99901530,Uphc Cantt
+2405,9,Uttar Pradesh,99901773,Tarun
+2406,9,Uttar Pradesh,99901757,Maho
+2407,9,Uttar Pradesh,99901769,Khandasa
+2408,9,Uttar Pradesh,99901756,Hasayan
+2409,9,Uttar Pradesh,99901841,Devipur
+2410,9,Uttar Pradesh,99901397,Chirayatand
+2411,9,Uttar Pradesh,99901811,Chc Sonadi
+2412,9,Uttar Pradesh,99901555,CHC Panchali Khurd
+2413,9,Uttar Pradesh,99901771,CHC Mawai
+2414,9,Uttar Pradesh,99901770,CHC Masaudha
+2415,9,Uttar Pradesh,99901395,Chc Chittaura
+2416,9,Uttar Pradesh,99901775,Chc Basantpur
+2417,9,Uttar Pradesh,99901409,Brijmanganj
+2418,9,Uttar Pradesh,99901845,Bhitargaon
+2419,9,Uttar Pradesh,99901585,Bhojipura
+2420,9,Uttar Pradesh,99900408,Uphc Sarai Tareen
+2421,9,Uttar Pradesh,99900331,Uphc Rakabganj
+2422,9,Uttar Pradesh,99900334,Uphc Navadiya
+2423,9,Uttar Pradesh,99900335,Uphc Iti Chauraha
+2424,9,Uttar Pradesh,99901836,Kamalganj
+2425,9,Uttar Pradesh,99900451,Uphc Urdu Mohalla
+2426,9,Uttar Pradesh,99900332,Uphc Naulakkha
+2427,9,Uttar Pradesh,99900136,Uphc Kutalpur
+2428,9,Uttar Pradesh,99900442,Uphc Chaukaghat
+2429,9,Uttar Pradesh,99900422,Uphc Bhelupur
+2430,9,Uttar Pradesh,99900946,Uhwc Ismileganj
+2431,9,Uttar Pradesh,99900987,Uphc Saadatganj Hp Begariya
+2432,9,Uttar Pradesh,99900222,Uphc Saadatganj Ufwc
+2433,9,Uttar Pradesh,99900397,Uphc Sabun Godam
+2434,9,Uttar Pradesh,99900220,Uphc Sadar
+2435,9,Uttar Pradesh,99900416,Uphc Sadar
+2436,9,Uttar Pradesh,99901019,Uphc Sadar Bazar
+2437,9,Uttar Pradesh,99900165,Uphc Shiv Nagar Karula
+2438,9,Uttar Pradesh,99900270,Uphc Sadar Bazar
+2439,9,Uttar Pradesh,99900611,Uphc Sahbajpur Sahaswan
+2440,9,Uttar Pradesh,99900294,Uphc Salarganj
+2441,9,Uttar Pradesh,99900313,Uphc Sant Nagar
+2442,9,Uttar Pradesh,99901028,Svm Govt Hospital Bhelupur Varanasi
+2443,9,Uttar Pradesh,99900923,Uphc Saraimita
+2444,9,Uttar Pradesh,99900338,Uphc Sarufabad
+2445,9,Uttar Pradesh,99900340,Uphc Sector 22
+2446,9,Uttar Pradesh,99900089,Uphc Seohara
+2447,9,Uttar Pradesh,99900221,Uphc Sewa Sadan Ufwc
+2448,9,Uttar Pradesh,99900293,Uphc Shahjadpur Akbar Pur
+2449,9,Uttar Pradesh,99900018,Uphc Shahpur
+2450,9,Uttar Pradesh,99900396,Uphc Shakur Nagar
+2451,9,Uttar Pradesh,99900392,Uphc Shalimar Garden Tarapuri
+2452,9,Uttar Pradesh,99901013,Uphc Shankar Puri Coloni
+2453,9,Uttar Pradesh,99900268,Uphc Shantipuram
+2454,9,Uttar Pradesh,99900326,Uphc Shastri Nagar
+2455,9,Uttar Pradesh,99900388,Uphc Shatabdi Nagar Rithani
+2456,9,Uttar Pradesh,99900993,Uphc Vrindavan
+2457,9,Uttar Pradesh,99900521,Uphc Sher Ali Gautiya
+2458,9,Uttar Pradesh,99900090,Uphc Sherkot
+2459,9,Uttar Pradesh,99900430,Uphc Shivpur
+2460,9,Uttar Pradesh,99900024,Uphc Shivpur Sahbajganj
+2461,9,Uttar Pradesh,99900228,Uphc Shripal Vihar Pansariyan
+2462,9,Uttar Pradesh,99900420,Uphc Sikroul
+2463,9,Uttar Pradesh,99900138,Uphc Sipri Bazar
+2464,9,Uttar Pradesh,99900096,Uphc Somnath Nagar
+2465,9,Uttar Pradesh,99900269,Uphc Srn
+2466,9,Uttar Pradesh,99900302,Uphc Subhash Nagar
+2467,9,Uttar Pradesh,99900171,Uphc Subhash Nagar
+2468,9,Uttar Pradesh,99900988,Uphc Suggamau
+2469,9,Uttar Pradesh,99900925,Uphc Sujatganj
+2470,9,Uttar Pradesh,99900263,Uphc Sulem Sarai
+2471,9,Uttar Pradesh,99900255,Uphc Sultanpur Bhawa
+2472,9,Uttar Pradesh,99900312,Uphc Swale Nagar
+2473,9,Uttar Pradesh,99900989,Uphc Tagore Marg
+2474,9,Uttar Pradesh,99900402,Uphc Tahsel
+2475,9,Uttar Pradesh,99900008,Uphc Taramandal
+2476,9,Uttar Pradesh,99900209,Uphc Tarkapur
+2477,9,Uttar Pradesh,99900261,Uphc Tb Sapru
+2478,9,Uttar Pradesh,99900990,Uphc Telibagh
+2479,9,Uttar Pradesh,99900260,Uphc Teliyarganj
+2480,9,Uttar Pradesh,99900042,Uphc Tilhar
+2481,9,Uttar Pradesh,99900991,Uphc Top Darwaza
+2482,9,Uttar Pradesh,99901021,Uphc Town Hall
+2483,9,Uttar Pradesh,99900020,Uphc Turkmanpur
+2484,9,Uttar Pradesh,99900361,Uphc Udanpura
+2485,9,Uttar Pradesh,99900992,Uphc Ujjariaon
+2486,9,Uttar Pradesh,99900252,Uphc Umarakheda
+2487,9,Uttar Pradesh,99900213,Uphc Unchi Bhud Gola
+2488,9,Uttar Pradesh,99900091,Uphc Uparpara
+2489,9,Uttar Pradesh,99900113,Uphc Urban Phc Jalesar Road Hathras
+2490,9,Uttar Pradesh,99900142,Uphc Urban Phc Katnwar Road Padrauna
+2491,9,Uttar Pradesh,99900115,Uphc Urban Phc Sadabad
+2492,9,Uttar Pradesh,99900132,Uphc Urban Phc Sahabganj Uttari Padrauna Kushinagar
+2493,9,Uttar Pradesh,99900116,Uphc Urban Phc Sikndra Rao
+2494,9,Uttar Pradesh,99900926,Uphc Usmanpur
+2495,9,Uttar Pradesh,99900927,Uphc Vijay Nagar
+2496,9,Uttar Pradesh,99900099,Uphc Vinoba Nagar Jayrampur
+2497,9,Uttar Pradesh,99900314,Uphc Vishvanathpuram
+2498,9,Uttar Pradesh,99900512,Urban Chc Aish Bagh
+2499,9,Uttar Pradesh,37285,Urban Chc Aliganj
+2500,9,Uttar Pradesh,99900216,Urban Chc Chandar Nager
+2501,9,Uttar Pradesh,37286,Urban Chc F B Road
+2502,9,Uttar Pradesh,99900928,Urban Chc N K Road
+2503,9,Uttar Pradesh,99900929,Urban Chc Red Cross
+2504,9,Uttar Pradesh,99900503,Urban Chc S Jubilee
+2505,9,Uttar Pradesh,99900930,Urban Chc Turiaganj
+2506,9,Uttar Pradesh,99193,Raj Narayan Maheshwari District Combined Hospital Shikohabad
+2507,9,Uttar Pradesh,99132,Veerangana Jhalkaribai Mahila Hospital Lucknow
+2508,9,Uttar Pradesh,99600,District Combined Hospital Ghaziabad
+2509,9,Uttar Pradesh,99900141,Urban Phc Budda Kushinagar
+2510,9,Uttar Pradesh,99900134,Urban Phc Hata
+2511,9,Uttar Pradesh,34010,Veerangana Avanti Bai Women Hospital Lucknow
+2512,9,Uttar Pradesh,99901402,Visheshwarganj
+2513,9,Uttar Pradesh,99900622,Vrtk District Female Hospital Basti
+2514,9,Uttar Pradesh,99901816,Pipara Dhaula Kadam
+2515,9,Uttar Pradesh,99475,Community Health Centre Kaptanganj
+2516,9,Uttar Pradesh,99901838,COMMUNITY HEALTH CENTRE SHAMSABAD
+2517,9,Uttar Pradesh,99619,Community Health Centre Deeh Raebareli
+2518,9,Uttar Pradesh,99568,Male Hospital attached M V Autonomous State Medical College Ghazipur
+2519,9,Uttar Pradesh,99609,Primary Health Centre Bhakhra
+2520,9,Uttar Pradesh,99218,Community Health Centre Bidhuna
+2521,9,Uttar Pradesh,99357,Community Health Centre Mahsi
+2522,9,Uttar Pradesh,99175,District Women Hospital Mahoba
+2523,9,Uttar Pradesh,99290,Community Health Centre Bakshi Ka Talab
+2524,9,Uttar Pradesh,99901200,Khairgarh
+2525,9,Uttar Pradesh,99604,Community Health Centre Bhadurpur 
+2526,9,Uttar Pradesh,99601,GANGA HOSPITAL MAGH MELA PRAYAGRAJ
+2527,9,Uttar Pradesh,99606,Primary Health Centre RamLaxan
+2528,9,Uttar Pradesh,99602,TRIVENI HOSPITAL MAGH MELA PRAYAGRAJ
+2529,9,Uttar Pradesh,99603,Sri Ram Hospital Ayodhya
+2530,9,Uttar Pradesh,99349,Community Health Centre Poora Bazar
+2531,9,Uttar Pradesh,99598,Raja Pratap Bahadur Hospital Allied Dr Sone Lal Patel A S M C Pratapgarh
+2532,9,Uttar Pradesh,99901215,COMMUNITY HEALTH CENTRE AZAMABAD ARAON
+2533,19,West Bengal,91190039,Cantonment Board Dispensary Lebong
+2534,19,West Bengal,91190010,"Divisional Railway Hospital , Malda , West Bengal"
+2535,19,West Bengal,91190005,"Orthopaedic Eastern Railway Hospital, Howrah, West Bengal"
+2536,19,West Bengal,35001,B R Singh Hospital
+2537,19,West Bengal,91190036,Jagadish Chandra Bose General Hospital
+2538,19,West Bengal,91190037,Cantonment Board Dispensary Jalapahar
+2539,19,West Bengal,91190056,"All lndia institute of Medical Sciences, Kalyani"
