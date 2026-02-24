@@ -119,9 +119,6 @@ Align outreach strategies with demand cycles
 
 Advanced SQL analytical thinking
 Window functions mastery
-
 Statistical anomaly detection
-
 Data warehouse modeling
-
 Operational data storytelling
